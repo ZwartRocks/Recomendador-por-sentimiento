@@ -1,0 +1,3373 @@
+{
+  "Día soleado, cálido, sin lluvia": {
+    "total_documents": 143921,
+    "percentage_of_total": 20.51,
+    "sentiment_distribution": {
+      "neutro": 81481,
+      "positivo": 46365,
+      "negativo": 16075
+    },
+    "dominant_sentiment": "neutro",
+    "sentiment_percentage": 56.62,
+    "topic_analysis_by_sentiment": {
+      "negativo": {
+        "document_count": 16075,
+        "top_topics": [
+          {
+            "topic_id": 2,
+            "document_count": 3252,
+            "percentage": 20.23
+          },
+          {
+            "topic_id": 0,
+            "document_count": 1080,
+            "percentage": 6.72
+          },
+          {
+            "topic_id": 1,
+            "document_count": 458,
+            "percentage": 2.85
+          },
+          {
+            "topic_id": 3,
+            "document_count": 259,
+            "percentage": 1.61
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 81481,
+        "top_topics": [
+          {
+            "topic_id": 35,
+            "document_count": 1619,
+            "percentage": 1.99
+          },
+          {
+            "topic_id": 19,
+            "document_count": 1446,
+            "percentage": 1.77
+          },
+          {
+            "topic_id": 0,
+            "document_count": 1162,
+            "percentage": 1.43
+          },
+          {
+            "topic_id": 20,
+            "document_count": 1145,
+            "percentage": 1.41
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 46365,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 7494,
+            "percentage": 16.16
+          },
+          {
+            "topic_id": 9,
+            "document_count": 4083,
+            "percentage": 8.81
+          },
+          {
+            "topic_id": 0,
+            "document_count": 2806,
+            "percentage": 6.05
+          },
+          {
+            "topic_id": 1,
+            "document_count": 1733,
+            "percentage": 3.74
+          }
+        ]
+      }
+    },
+    "monthly_distribution": {
+      "6": 26422,
+      "7": 24704,
+      "8": 22751,
+      "5": 20311,
+      "9": 17187,
+      "10": 9992,
+      "4": 9650,
+      "11": 3772,
+      "3": 3141,
+      "12": 2590,
+      "1": 2212,
+      "2": 1189
+    },
+    "unique_languages": 40,
+    "unique_cities": 7
+  },
+  "Día cielo con intervalos, cálido, sin lluvia": {
+    "total_documents": 125111,
+    "percentage_of_total": 17.83,
+    "sentiment_distribution": {
+      "neutro": 77370,
+      "positivo": 35436,
+      "negativo": 12305
+    },
+    "dominant_sentiment": "neutro",
+    "sentiment_percentage": 61.84,
+    "topic_analysis_by_sentiment": {
+      "negativo": {
+        "document_count": 12305,
+        "top_topics": [
+          {
+            "topic_id": 2,
+            "document_count": 3411,
+            "percentage": 27.72
+          },
+          {
+            "topic_id": 0,
+            "document_count": 643,
+            "percentage": 5.23
+          },
+          {
+            "topic_id": 1,
+            "document_count": 366,
+            "percentage": 2.97
+          },
+          {
+            "topic_id": 3,
+            "document_count": 192,
+            "percentage": 1.56
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 77370,
+        "top_topics": [
+          {
+            "topic_id": 35,
+            "document_count": 1231,
+            "percentage": 1.59
+          },
+          {
+            "topic_id": 19,
+            "document_count": 1099,
+            "percentage": 1.42
+          },
+          {
+            "topic_id": 24,
+            "document_count": 977,
+            "percentage": 1.26
+          },
+          {
+            "topic_id": 16,
+            "document_count": 946,
+            "percentage": 1.22
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 35436,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 5756,
+            "percentage": 16.24
+          },
+          {
+            "topic_id": 9,
+            "document_count": 2734,
+            "percentage": 7.72
+          },
+          {
+            "topic_id": 0,
+            "document_count": 1717,
+            "percentage": 4.85
+          },
+          {
+            "topic_id": 1,
+            "document_count": 1329,
+            "percentage": 3.75
+          }
+        ]
+      }
+    },
+    "monthly_distribution": {
+      "9": 20477,
+      "7": 20266,
+      "8": 19703,
+      "6": 17289,
+      "10": 15548,
+      "5": 7819,
+      "11": 7730,
+      "4": 4484,
+      "12": 3373,
+      "1": 2846,
+      "2": 2827,
+      "3": 2749
+    },
+    "unique_languages": 41,
+    "unique_cities": 7
+  },
+  "Día cielo con intervalos, fresco y agradable, sin lluvia": {
+    "total_documents": 96625,
+    "percentage_of_total": 13.77,
+    "sentiment_distribution": {
+      "neutro": 45619,
+      "positivo": 38959,
+      "negativo": 12047
+    },
+    "dominant_sentiment": "neutro",
+    "sentiment_percentage": 47.21,
+    "topic_analysis_by_sentiment": {
+      "negativo": {
+        "document_count": 12047,
+        "top_topics": [
+          {
+            "topic_id": 2,
+            "document_count": 3528,
+            "percentage": 29.29
+          },
+          {
+            "topic_id": 0,
+            "document_count": 716,
+            "percentage": 5.94
+          },
+          {
+            "topic_id": 1,
+            "document_count": 238,
+            "percentage": 1.98
+          },
+          {
+            "topic_id": 3,
+            "document_count": 158,
+            "percentage": 1.31
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 45619,
+        "top_topics": [
+          {
+            "topic_id": 35,
+            "document_count": 1024,
+            "percentage": 2.24
+          },
+          {
+            "topic_id": 19,
+            "document_count": 916,
+            "percentage": 2.01
+          },
+          {
+            "topic_id": 0,
+            "document_count": 812,
+            "percentage": 1.78
+          },
+          {
+            "topic_id": 20,
+            "document_count": 737,
+            "percentage": 1.62
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 38959,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 6341,
+            "percentage": 16.28
+          },
+          {
+            "topic_id": 9,
+            "document_count": 3101,
+            "percentage": 7.96
+          },
+          {
+            "topic_id": 0,
+            "document_count": 2337,
+            "percentage": 6.0
+          },
+          {
+            "topic_id": 1,
+            "document_count": 1606,
+            "percentage": 4.12
+          }
+        ]
+      }
+    },
+    "monthly_distribution": {
+      "2": 14190,
+      "11": 13736,
+      "12": 13524,
+      "3": 12264,
+      "4": 11840,
+      "1": 11154,
+      "10": 8991,
+      "5": 8883,
+      "9": 1442,
+      "6": 601
+    },
+    "unique_languages": 39,
+    "unique_cities": 7
+  },
+  "Día soleado, fresco y agradable, sin lluvia": {
+    "total_documents": 76272,
+    "percentage_of_total": 10.87,
+    "sentiment_distribution": {
+      "neutro": 37509,
+      "positivo": 30285,
+      "negativo": 8478
+    },
+    "dominant_sentiment": "neutro",
+    "sentiment_percentage": 49.18,
+    "topic_analysis_by_sentiment": {
+      "negativo": {
+        "document_count": 8478,
+        "top_topics": [
+          {
+            "topic_id": 2,
+            "document_count": 2189,
+            "percentage": 25.82
+          },
+          {
+            "topic_id": 0,
+            "document_count": 696,
+            "percentage": 8.21
+          },
+          {
+            "topic_id": 1,
+            "document_count": 195,
+            "percentage": 2.3
+          },
+          {
+            "topic_id": 81,
+            "document_count": 117,
+            "percentage": 1.38
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 37509,
+        "top_topics": [
+          {
+            "topic_id": 35,
+            "document_count": 865,
+            "percentage": 2.31
+          },
+          {
+            "topic_id": 19,
+            "document_count": 815,
+            "percentage": 2.17
+          },
+          {
+            "topic_id": 0,
+            "document_count": 683,
+            "percentage": 1.82
+          },
+          {
+            "topic_id": 20,
+            "document_count": 669,
+            "percentage": 1.78
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 30285,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 5126,
+            "percentage": 16.93
+          },
+          {
+            "topic_id": 9,
+            "document_count": 2413,
+            "percentage": 7.97
+          },
+          {
+            "topic_id": 0,
+            "document_count": 1758,
+            "percentage": 5.8
+          },
+          {
+            "topic_id": 1,
+            "document_count": 1311,
+            "percentage": 4.33
+          }
+        ]
+      }
+    },
+    "monthly_distribution": {
+      "4": 17223,
+      "5": 12689,
+      "3": 11388,
+      "2": 7607,
+      "1": 7313,
+      "12": 6247,
+      "11": 5978,
+      "9": 4976,
+      "10": 2545,
+      "6": 306
+    },
+    "unique_languages": 40,
+    "unique_cities": 7
+  },
+  "Día cielo nublado, fresco y agradable, sin lluvia": {
+    "total_documents": 34598,
+    "percentage_of_total": 4.93,
+    "sentiment_distribution": {
+      "positivo": 15197,
+      "neutro": 12571,
+      "negativo": 6830
+    },
+    "dominant_sentiment": "positivo",
+    "sentiment_percentage": 43.92,
+    "topic_analysis_by_sentiment": {
+      "negativo": {
+        "document_count": 6830,
+        "top_topics": [
+          {
+            "topic_id": 2,
+            "document_count": 2139,
+            "percentage": 31.32
+          },
+          {
+            "topic_id": 0,
+            "document_count": 377,
+            "percentage": 5.52
+          },
+          {
+            "topic_id": 3,
+            "document_count": 96,
+            "percentage": 1.41
+          },
+          {
+            "topic_id": 1,
+            "document_count": 91,
+            "percentage": 1.33
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 12571,
+        "top_topics": [
+          {
+            "topic_id": 35,
+            "document_count": 325,
+            "percentage": 2.59
+          },
+          {
+            "topic_id": 19,
+            "document_count": 293,
+            "percentage": 2.33
+          },
+          {
+            "topic_id": 0,
+            "document_count": 257,
+            "percentage": 2.04
+          },
+          {
+            "topic_id": 20,
+            "document_count": 201,
+            "percentage": 1.6
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 15197,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 2776,
+            "percentage": 18.27
+          },
+          {
+            "topic_id": 9,
+            "document_count": 1234,
+            "percentage": 8.12
+          },
+          {
+            "topic_id": 0,
+            "document_count": 887,
+            "percentage": 5.84
+          },
+          {
+            "topic_id": 1,
+            "document_count": 706,
+            "percentage": 4.65
+          }
+        ]
+      }
+    },
+    "monthly_distribution": {
+      "11": 6359,
+      "10": 4942,
+      "12": 4375,
+      "5": 4017,
+      "1": 4001,
+      "2": 3815,
+      "3": 3550,
+      "4": 3186,
+      "9": 352,
+      "6": 1
+    },
+    "unique_languages": 37,
+    "unique_cities": 7
+  },
+  "Día con lluvia moderada, fresco y agradable": {
+    "total_documents": 33380,
+    "percentage_of_total": 4.76,
+    "sentiment_distribution": {
+      "neutro": 16046,
+      "positivo": 12728,
+      "negativo": 4606
+    },
+    "dominant_sentiment": "neutro",
+    "sentiment_percentage": 48.07,
+    "topic_analysis_by_sentiment": {
+      "negativo": {
+        "document_count": 4606,
+        "top_topics": [
+          {
+            "topic_id": 2,
+            "document_count": 1274,
+            "percentage": 27.66
+          },
+          {
+            "topic_id": 0,
+            "document_count": 264,
+            "percentage": 5.73
+          },
+          {
+            "topic_id": 1,
+            "document_count": 62,
+            "percentage": 1.35
+          },
+          {
+            "topic_id": 81,
+            "document_count": 60,
+            "percentage": 1.3
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 16046,
+        "top_topics": [
+          {
+            "topic_id": 35,
+            "document_count": 388,
+            "percentage": 2.42
+          },
+          {
+            "topic_id": 19,
+            "document_count": 309,
+            "percentage": 1.93
+          },
+          {
+            "topic_id": 0,
+            "document_count": 296,
+            "percentage": 1.84
+          },
+          {
+            "topic_id": 20,
+            "document_count": 262,
+            "percentage": 1.63
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 12728,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 2044,
+            "percentage": 16.06
+          },
+          {
+            "topic_id": 9,
+            "document_count": 937,
+            "percentage": 7.36
+          },
+          {
+            "topic_id": 0,
+            "document_count": 660,
+            "percentage": 5.19
+          },
+          {
+            "topic_id": 1,
+            "document_count": 532,
+            "percentage": 4.18
+          }
+        ]
+      }
+    },
+    "monthly_distribution": {
+      "3": 7685,
+      "5": 4932,
+      "1": 3994,
+      "4": 3751,
+      "10": 3610,
+      "2": 3363,
+      "11": 2402,
+      "12": 1903,
+      "6": 976,
+      "9": 763,
+      "7": 1
+    },
+    "unique_languages": 37,
+    "unique_cities": 7
+  },
+  "Día con lloviznas, fresco y agradable": {
+    "total_documents": 31178,
+    "percentage_of_total": 4.44,
+    "sentiment_distribution": {
+      "neutro": 14064,
+      "positivo": 12782,
+      "negativo": 4332
+    },
+    "dominant_sentiment": "neutro",
+    "sentiment_percentage": 45.11,
+    "topic_analysis_by_sentiment": {
+      "negativo": {
+        "document_count": 4332,
+        "top_topics": [
+          {
+            "topic_id": 2,
+            "document_count": 1317,
+            "percentage": 30.4
+          },
+          {
+            "topic_id": 0,
+            "document_count": 241,
+            "percentage": 5.56
+          },
+          {
+            "topic_id": 1,
+            "document_count": 93,
+            "percentage": 2.15
+          },
+          {
+            "topic_id": 3,
+            "document_count": 45,
+            "percentage": 1.04
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 14064,
+        "top_topics": [
+          {
+            "topic_id": 19,
+            "document_count": 307,
+            "percentage": 2.18
+          },
+          {
+            "topic_id": 35,
+            "document_count": 301,
+            "percentage": 2.14
+          },
+          {
+            "topic_id": 0,
+            "document_count": 262,
+            "percentage": 1.86
+          },
+          {
+            "topic_id": 46,
+            "document_count": 226,
+            "percentage": 1.61
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 12782,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 2382,
+            "percentage": 18.64
+          },
+          {
+            "topic_id": 9,
+            "document_count": 1062,
+            "percentage": 8.31
+          },
+          {
+            "topic_id": 0,
+            "document_count": 756,
+            "percentage": 5.91
+          },
+          {
+            "topic_id": 1,
+            "document_count": 612,
+            "percentage": 4.79
+          }
+        ]
+      }
+    },
+    "monthly_distribution": {
+      "2": 4699,
+      "3": 4627,
+      "11": 4274,
+      "1": 4178,
+      "5": 3960,
+      "4": 3440,
+      "12": 2522,
+      "10": 1643,
+      "6": 1585,
+      "9": 250
+    },
+    "unique_languages": 37,
+    "unique_cities": 7
+  },
+  "Día cielo nublado, cálido, sin lluvia": {
+    "total_documents": 30581,
+    "percentage_of_total": 4.36,
+    "sentiment_distribution": {
+      "positivo": 15759,
+      "neutro": 8422,
+      "negativo": 6400
+    },
+    "dominant_sentiment": "positivo",
+    "sentiment_percentage": 51.53,
+    "topic_analysis_by_sentiment": {
+      "negativo": {
+        "document_count": 6400,
+        "top_topics": [
+          {
+            "topic_id": 2,
+            "document_count": 2024,
+            "percentage": 31.62
+          },
+          {
+            "topic_id": 0,
+            "document_count": 249,
+            "percentage": 3.89
+          },
+          {
+            "topic_id": 3,
+            "document_count": 117,
+            "percentage": 1.83
+          },
+          {
+            "topic_id": 1,
+            "document_count": 84,
+            "percentage": 1.31
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 8422,
+        "top_topics": [
+          {
+            "topic_id": 19,
+            "document_count": 282,
+            "percentage": 3.35
+          },
+          {
+            "topic_id": 35,
+            "document_count": 221,
+            "percentage": 2.62
+          },
+          {
+            "topic_id": 0,
+            "document_count": 177,
+            "percentage": 2.1
+          },
+          {
+            "topic_id": 20,
+            "document_count": 155,
+            "percentage": 1.84
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 15759,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 2934,
+            "percentage": 18.62
+          },
+          {
+            "topic_id": 9,
+            "document_count": 1373,
+            "percentage": 8.71
+          },
+          {
+            "topic_id": 0,
+            "document_count": 902,
+            "percentage": 5.72
+          },
+          {
+            "topic_id": 1,
+            "document_count": 789,
+            "percentage": 5.01
+          }
+        ]
+      }
+    },
+    "monthly_distribution": {
+      "7": 7805,
+      "6": 7359,
+      "8": 6889,
+      "10": 4048,
+      "9": 1890,
+      "5": 1779,
+      "12": 427,
+      "11": 325,
+      "4": 59
+    },
+    "unique_languages": 40,
+    "unique_cities": 4
+  },
+  "Día soleado, muy caluroso, sin lluvia": {
+    "total_documents": 20431,
+    "percentage_of_total": 2.91,
+    "sentiment_distribution": {
+      "neutro": 9612,
+      "positivo": 7812,
+      "negativo": 3007
+    },
+    "dominant_sentiment": "neutro",
+    "sentiment_percentage": 47.05,
+    "topic_analysis_by_sentiment": {
+      "negativo": {
+        "document_count": 3007,
+        "top_topics": [
+          {
+            "topic_id": 2,
+            "document_count": 379,
+            "percentage": 12.6
+          },
+          {
+            "topic_id": 0,
+            "document_count": 168,
+            "percentage": 5.59
+          },
+          {
+            "topic_id": 1,
+            "document_count": 105,
+            "percentage": 3.49
+          },
+          {
+            "topic_id": 131,
+            "document_count": 44,
+            "percentage": 1.46
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 9612,
+        "top_topics": [
+          {
+            "topic_id": 0,
+            "document_count": 211,
+            "percentage": 2.2
+          },
+          {
+            "topic_id": 35,
+            "document_count": 196,
+            "percentage": 2.04
+          },
+          {
+            "topic_id": 20,
+            "document_count": 183,
+            "percentage": 1.9
+          },
+          {
+            "topic_id": 19,
+            "document_count": 182,
+            "percentage": 1.89
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 7812,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 1476,
+            "percentage": 18.89
+          },
+          {
+            "topic_id": 9,
+            "document_count": 633,
+            "percentage": 8.1
+          },
+          {
+            "topic_id": 0,
+            "document_count": 411,
+            "percentage": 5.26
+          },
+          {
+            "topic_id": 25,
+            "document_count": 273,
+            "percentage": 3.49
+          }
+        ]
+      }
+    },
+    "monthly_distribution": {
+      "8": 9311,
+      "7": 8767,
+      "6": 1963,
+      "5": 155,
+      "10": 151,
+      "9": 84
+    },
+    "unique_languages": 34,
+    "unique_cities": 7
+  },
+  "Día con lloviznas, cálido": {
+    "total_documents": 18109,
+    "percentage_of_total": 2.58,
+    "sentiment_distribution": {
+      "neutro": 10246,
+      "positivo": 5919,
+      "negativo": 1944
+    },
+    "dominant_sentiment": "neutro",
+    "sentiment_percentage": 56.58,
+    "topic_analysis_by_sentiment": {
+      "negativo": {
+        "document_count": 1944,
+        "top_topics": [
+          {
+            "topic_id": 2,
+            "document_count": 577,
+            "percentage": 29.68
+          },
+          {
+            "topic_id": 0,
+            "document_count": 121,
+            "percentage": 6.22
+          },
+          {
+            "topic_id": 3,
+            "document_count": 65,
+            "percentage": 3.34
+          },
+          {
+            "topic_id": 1,
+            "document_count": 37,
+            "percentage": 1.9
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 10246,
+        "top_topics": [
+          {
+            "topic_id": 35,
+            "document_count": 203,
+            "percentage": 1.98
+          },
+          {
+            "topic_id": 19,
+            "document_count": 179,
+            "percentage": 1.75
+          },
+          {
+            "topic_id": 0,
+            "document_count": 156,
+            "percentage": 1.52
+          },
+          {
+            "topic_id": 21,
+            "document_count": 143,
+            "percentage": 1.4
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 5919,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 1123,
+            "percentage": 18.97
+          },
+          {
+            "topic_id": 9,
+            "document_count": 472,
+            "percentage": 7.97
+          },
+          {
+            "topic_id": 0,
+            "document_count": 267,
+            "percentage": 4.51
+          },
+          {
+            "topic_id": 1,
+            "document_count": 246,
+            "percentage": 4.16
+          }
+        ]
+      }
+    },
+    "monthly_distribution": {
+      "9": 4032,
+      "6": 3527,
+      "10": 2746,
+      "5": 1708,
+      "7": 1595,
+      "8": 1077,
+      "11": 795,
+      "12": 664,
+      "2": 613,
+      "4": 574,
+      "1": 428,
+      "3": 350
+    },
+    "unique_languages": 39,
+    "unique_cities": 7
+  },
+  "Día con lluvia moderada, cálido": {
+    "total_documents": 17291,
+    "percentage_of_total": 2.46,
+    "sentiment_distribution": {
+      "neutro": 8248,
+      "positivo": 6731,
+      "negativo": 2312
+    },
+    "dominant_sentiment": "neutro",
+    "sentiment_percentage": 47.7,
+    "topic_analysis_by_sentiment": {
+      "negativo": {
+        "document_count": 2312,
+        "top_topics": [
+          {
+            "topic_id": 2,
+            "document_count": 742,
+            "percentage": 32.09
+          },
+          {
+            "topic_id": 0,
+            "document_count": 120,
+            "percentage": 5.19
+          },
+          {
+            "topic_id": 1,
+            "document_count": 52,
+            "percentage": 2.25
+          },
+          {
+            "topic_id": 3,
+            "document_count": 39,
+            "percentage": 1.69
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 8248,
+        "top_topics": [
+          {
+            "topic_id": 35,
+            "document_count": 189,
+            "percentage": 2.29
+          },
+          {
+            "topic_id": 19,
+            "document_count": 169,
+            "percentage": 2.05
+          },
+          {
+            "topic_id": 20,
+            "document_count": 122,
+            "percentage": 1.48
+          },
+          {
+            "topic_id": 0,
+            "document_count": 119,
+            "percentage": 1.44
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 6731,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 1193,
+            "percentage": 17.72
+          },
+          {
+            "topic_id": 9,
+            "document_count": 601,
+            "percentage": 8.93
+          },
+          {
+            "topic_id": 0,
+            "document_count": 391,
+            "percentage": 5.81
+          },
+          {
+            "topic_id": 1,
+            "document_count": 280,
+            "percentage": 4.16
+          }
+        ]
+      }
+    },
+    "monthly_distribution": {
+      "6": 4611,
+      "9": 3983,
+      "10": 2530,
+      "8": 2292,
+      "7": 1082,
+      "5": 919,
+      "11": 491,
+      "12": 459,
+      "4": 401,
+      "3": 243,
+      "1": 140,
+      "2": 140
+    },
+    "unique_languages": 35,
+    "unique_cities": 7
+  },
+  "Día con lluvia intensa, fresco y agradable": {
+    "total_documents": 15131,
+    "percentage_of_total": 2.16,
+    "sentiment_distribution": {
+      "neutro": 6506,
+      "positivo": 6086,
+      "negativo": 2539
+    },
+    "dominant_sentiment": "neutro",
+    "sentiment_percentage": 43.0,
+    "topic_analysis_by_sentiment": {
+      "negativo": {
+        "document_count": 2539,
+        "top_topics": [
+          {
+            "topic_id": 2,
+            "document_count": 736,
+            "percentage": 28.99
+          },
+          {
+            "topic_id": 0,
+            "document_count": 125,
+            "percentage": 4.92
+          },
+          {
+            "topic_id": 1,
+            "document_count": 39,
+            "percentage": 1.54
+          },
+          {
+            "topic_id": 107,
+            "document_count": 34,
+            "percentage": 1.34
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 6506,
+        "top_topics": [
+          {
+            "topic_id": 35,
+            "document_count": 168,
+            "percentage": 2.58
+          },
+          {
+            "topic_id": 19,
+            "document_count": 144,
+            "percentage": 2.21
+          },
+          {
+            "topic_id": 0,
+            "document_count": 131,
+            "percentage": 2.01
+          },
+          {
+            "topic_id": 16,
+            "document_count": 113,
+            "percentage": 1.74
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 6086,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 976,
+            "percentage": 16.04
+          },
+          {
+            "topic_id": 9,
+            "document_count": 427,
+            "percentage": 7.02
+          },
+          {
+            "topic_id": 0,
+            "document_count": 294,
+            "percentage": 4.83
+          },
+          {
+            "topic_id": 1,
+            "document_count": 269,
+            "percentage": 4.42
+          }
+        ]
+      }
+    },
+    "monthly_distribution": {
+      "3": 4825,
+      "10": 2232,
+      "4": 2016,
+      "5": 1873,
+      "12": 1118,
+      "11": 820,
+      "1": 745,
+      "2": 649,
+      "6": 647,
+      "9": 206
+    },
+    "unique_languages": 37,
+    "unique_cities": 7
+  },
+  "Día cielo con intervalos, frío, sin lluvia": {
+    "total_documents": 14800,
+    "percentage_of_total": 2.11,
+    "sentiment_distribution": {
+      "positivo": 6048,
+      "neutro": 5933,
+      "negativo": 2819
+    },
+    "dominant_sentiment": "positivo",
+    "sentiment_percentage": 40.86,
+    "topic_analysis_by_sentiment": {
+      "negativo": {
+        "document_count": 2819,
+        "top_topics": [
+          {
+            "topic_id": 2,
+            "document_count": 572,
+            "percentage": 20.29
+          },
+          {
+            "topic_id": 0,
+            "document_count": 191,
+            "percentage": 6.78
+          },
+          {
+            "topic_id": 3,
+            "document_count": 37,
+            "percentage": 1.31
+          },
+          {
+            "topic_id": 69,
+            "document_count": 31,
+            "percentage": 1.1
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 5933,
+        "top_topics": [
+          {
+            "topic_id": 19,
+            "document_count": 144,
+            "percentage": 2.43
+          },
+          {
+            "topic_id": 35,
+            "document_count": 135,
+            "percentage": 2.28
+          },
+          {
+            "topic_id": 0,
+            "document_count": 120,
+            "percentage": 2.02
+          },
+          {
+            "topic_id": 24,
+            "document_count": 113,
+            "percentage": 1.9
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 6048,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 1218,
+            "percentage": 20.14
+          },
+          {
+            "topic_id": 9,
+            "document_count": 591,
+            "percentage": 9.77
+          },
+          {
+            "topic_id": 0,
+            "document_count": 381,
+            "percentage": 6.3
+          },
+          {
+            "topic_id": 1,
+            "document_count": 285,
+            "percentage": 4.71
+          }
+        ]
+      }
+    },
+    "monthly_distribution": {
+      "12": 6923,
+      "1": 3903,
+      "2": 2469,
+      "11": 1051,
+      "4": 280,
+      "3": 174
+    },
+    "unique_languages": 29,
+    "unique_cities": 5
+  },
+  "Día soleado, frío, sin lluvia": {
+    "total_documents": 9092,
+    "percentage_of_total": 1.3,
+    "sentiment_distribution": {
+      "neutro": 4335,
+      "positivo": 3517,
+      "negativo": 1240
+    },
+    "dominant_sentiment": "neutro",
+    "sentiment_percentage": 47.68,
+    "topic_analysis_by_sentiment": {
+      "negativo": {
+        "document_count": 1240,
+        "top_topics": [
+          {
+            "topic_id": 2,
+            "document_count": 248,
+            "percentage": 20.0
+          },
+          {
+            "topic_id": 0,
+            "document_count": 68,
+            "percentage": 5.48
+          },
+          {
+            "topic_id": 81,
+            "document_count": 24,
+            "percentage": 1.94
+          },
+          {
+            "topic_id": 1,
+            "document_count": 20,
+            "percentage": 1.61
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 4335,
+        "top_topics": [
+          {
+            "topic_id": 19,
+            "document_count": 105,
+            "percentage": 2.42
+          },
+          {
+            "topic_id": 0,
+            "document_count": 96,
+            "percentage": 2.21
+          },
+          {
+            "topic_id": 35,
+            "document_count": 96,
+            "percentage": 2.21
+          },
+          {
+            "topic_id": 16,
+            "document_count": 86,
+            "percentage": 1.98
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 3517,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 709,
+            "percentage": 20.16
+          },
+          {
+            "topic_id": 9,
+            "document_count": 362,
+            "percentage": 10.29
+          },
+          {
+            "topic_id": 0,
+            "document_count": 238,
+            "percentage": 6.77
+          },
+          {
+            "topic_id": 25,
+            "document_count": 168,
+            "percentage": 4.78
+          }
+        ]
+      }
+    },
+    "monthly_distribution": {
+      "1": 3938,
+      "2": 2181,
+      "11": 1338,
+      "3": 1098,
+      "12": 537
+    },
+    "unique_languages": 24,
+    "unique_cities": 5
+  },
+  "Día con lluvia intensa, cálido": {
+    "total_documents": 6800,
+    "percentage_of_total": 0.97,
+    "sentiment_distribution": {
+      "positivo": 3333,
+      "neutro": 2689,
+      "negativo": 778
+    },
+    "dominant_sentiment": "positivo",
+    "sentiment_percentage": 49.01,
+    "topic_analysis_by_sentiment": {
+      "negativo": {
+        "document_count": 778,
+        "top_topics": [
+          {
+            "topic_id": 2,
+            "document_count": 224,
+            "percentage": 28.79
+          },
+          {
+            "topic_id": 0,
+            "document_count": 34,
+            "percentage": 4.37
+          },
+          {
+            "topic_id": 3,
+            "document_count": 15,
+            "percentage": 1.93
+          },
+          {
+            "topic_id": 1,
+            "document_count": 14,
+            "percentage": 1.8
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 2689,
+        "top_topics": [
+          {
+            "topic_id": 19,
+            "document_count": 72,
+            "percentage": 2.68
+          },
+          {
+            "topic_id": 18,
+            "document_count": 53,
+            "percentage": 1.97
+          },
+          {
+            "topic_id": 35,
+            "document_count": 52,
+            "percentage": 1.93
+          },
+          {
+            "topic_id": 39,
+            "document_count": 49,
+            "percentage": 1.82
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 3333,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 449,
+            "percentage": 13.47
+          },
+          {
+            "topic_id": 9,
+            "document_count": 265,
+            "percentage": 7.95
+          },
+          {
+            "topic_id": 0,
+            "document_count": 185,
+            "percentage": 5.55
+          },
+          {
+            "topic_id": 7,
+            "document_count": 118,
+            "percentage": 3.54
+          }
+        ]
+      }
+    },
+    "monthly_distribution": {
+      "10": 2178,
+      "9": 1755,
+      "7": 1546,
+      "8": 558,
+      "6": 331,
+      "5": 218,
+      "12": 104,
+      "4": 58,
+      "11": 52
+    },
+    "unique_languages": 25,
+    "unique_cities": 7
+  },
+  "Día con lluvia moderada, frío": {
+    "total_documents": 6739,
+    "percentage_of_total": 0.96,
+    "sentiment_distribution": {
+      "positivo": 3011,
+      "neutro": 2469,
+      "negativo": 1259
+    },
+    "dominant_sentiment": "positivo",
+    "sentiment_percentage": 44.68,
+    "topic_analysis_by_sentiment": {
+      "negativo": {
+        "document_count": 1259,
+        "top_topics": [
+          {
+            "topic_id": 2,
+            "document_count": 318,
+            "percentage": 25.26
+          },
+          {
+            "topic_id": 0,
+            "document_count": 71,
+            "percentage": 5.64
+          },
+          {
+            "topic_id": 107,
+            "document_count": 21,
+            "percentage": 1.67
+          },
+          {
+            "topic_id": 22,
+            "document_count": 16,
+            "percentage": 1.27
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 2469,
+        "top_topics": [
+          {
+            "topic_id": 0,
+            "document_count": 62,
+            "percentage": 2.51
+          },
+          {
+            "topic_id": 35,
+            "document_count": 51,
+            "percentage": 2.07
+          },
+          {
+            "topic_id": 32,
+            "document_count": 49,
+            "percentage": 1.98
+          },
+          {
+            "topic_id": 4,
+            "document_count": 49,
+            "percentage": 1.98
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 3011,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 763,
+            "percentage": 25.34
+          },
+          {
+            "topic_id": 9,
+            "document_count": 329,
+            "percentage": 10.93
+          },
+          {
+            "topic_id": 0,
+            "document_count": 162,
+            "percentage": 5.38
+          },
+          {
+            "topic_id": 1,
+            "document_count": 134,
+            "percentage": 4.45
+          }
+        ]
+      }
+    },
+    "monthly_distribution": {
+      "3": 2783,
+      "1": 1723,
+      "12": 811,
+      "2": 541,
+      "11": 396,
+      "4": 335,
+      "10": 150
+    },
+    "unique_languages": 23,
+    "unique_cities": 5
+  },
+  "Día, sin lluvia": {
+    "total_documents": 4835,
+    "percentage_of_total": 0.69,
+    "sentiment_distribution": {
+      "neutro": 3378,
+      "positivo": 1075,
+      "negativo": 382
+    },
+    "dominant_sentiment": "neutro",
+    "sentiment_percentage": 69.87,
+    "topic_analysis_by_sentiment": {
+      "negativo": {
+        "document_count": 382,
+        "top_topics": [
+          {
+            "topic_id": 2,
+            "document_count": 90,
+            "percentage": 23.56
+          },
+          {
+            "topic_id": 0,
+            "document_count": 13,
+            "percentage": 3.4
+          },
+          {
+            "topic_id": 1,
+            "document_count": 13,
+            "percentage": 3.4
+          },
+          {
+            "topic_id": 81,
+            "document_count": 9,
+            "percentage": 2.36
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 3378,
+        "top_topics": [
+          {
+            "topic_id": 35,
+            "document_count": 62,
+            "percentage": 1.84
+          },
+          {
+            "topic_id": 19,
+            "document_count": 55,
+            "percentage": 1.63
+          },
+          {
+            "topic_id": 46,
+            "document_count": 54,
+            "percentage": 1.6
+          },
+          {
+            "topic_id": 21,
+            "document_count": 53,
+            "percentage": 1.57
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 1075,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 153,
+            "percentage": 14.23
+          },
+          {
+            "topic_id": 9,
+            "document_count": 62,
+            "percentage": 5.77
+          },
+          {
+            "topic_id": 0,
+            "document_count": 41,
+            "percentage": 3.81
+          },
+          {
+            "topic_id": 12,
+            "document_count": 41,
+            "percentage": 3.81
+          }
+        ]
+      }
+    },
+    "monthly_distribution": {
+      "3": 1167,
+      "4": 1047,
+      "11": 973,
+      "10": 406,
+      "8": 307,
+      "5": 209,
+      "12": 206,
+      "2": 187,
+      "7": 160,
+      "9": 114,
+      "1": 59
+    },
+    "unique_languages": 20,
+    "unique_cities": 7
+  },
+  "Día cielo nublado, frío, sin lluvia": {
+    "total_documents": 4431,
+    "percentage_of_total": 0.63,
+    "sentiment_distribution": {
+      "neutro": 1924,
+      "positivo": 1651,
+      "negativo": 856
+    },
+    "dominant_sentiment": "neutro",
+    "sentiment_percentage": 43.42,
+    "topic_analysis_by_sentiment": {
+      "negativo": {
+        "document_count": 856,
+        "top_topics": [
+          {
+            "topic_id": 2,
+            "document_count": 182,
+            "percentage": 21.26
+          },
+          {
+            "topic_id": 0,
+            "document_count": 66,
+            "percentage": 7.71
+          },
+          {
+            "topic_id": 164,
+            "document_count": 14,
+            "percentage": 1.64
+          },
+          {
+            "topic_id": 3,
+            "document_count": 12,
+            "percentage": 1.4
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 1924,
+        "top_topics": [
+          {
+            "topic_id": 35,
+            "document_count": 43,
+            "percentage": 2.23
+          },
+          {
+            "topic_id": 4,
+            "document_count": 41,
+            "percentage": 2.13
+          },
+          {
+            "topic_id": 20,
+            "document_count": 40,
+            "percentage": 2.08
+          },
+          {
+            "topic_id": 32,
+            "document_count": 39,
+            "percentage": 2.03
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 1651,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 264,
+            "percentage": 15.99
+          },
+          {
+            "topic_id": 0,
+            "document_count": 220,
+            "percentage": 13.33
+          },
+          {
+            "topic_id": 9,
+            "document_count": 125,
+            "percentage": 7.57
+          },
+          {
+            "topic_id": 1,
+            "document_count": 97,
+            "percentage": 5.88
+          }
+        ]
+      }
+    },
+    "monthly_distribution": {
+      "12": 2226,
+      "1": 1238,
+      "11": 735,
+      "2": 121,
+      "3": 111
+    },
+    "unique_languages": 22,
+    "unique_cities": 3
+  },
+  "Día con lloviznas, frío": {
+    "total_documents": 3207,
+    "percentage_of_total": 0.46,
+    "sentiment_distribution": {
+      "neutro": 1645,
+      "positivo": 879,
+      "negativo": 683
+    },
+    "dominant_sentiment": "neutro",
+    "sentiment_percentage": 51.29,
+    "topic_analysis_by_sentiment": {
+      "negativo": {
+        "document_count": 683,
+        "top_topics": [
+          {
+            "topic_id": 2,
+            "document_count": 168,
+            "percentage": 24.6
+          },
+          {
+            "topic_id": 0,
+            "document_count": 33,
+            "percentage": 4.83
+          },
+          {
+            "topic_id": 81,
+            "document_count": 10,
+            "percentage": 1.46
+          },
+          {
+            "topic_id": 113,
+            "document_count": 10,
+            "percentage": 1.46
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 1645,
+        "top_topics": [
+          {
+            "topic_id": 35,
+            "document_count": 44,
+            "percentage": 2.67
+          },
+          {
+            "topic_id": 20,
+            "document_count": 41,
+            "percentage": 2.49
+          },
+          {
+            "topic_id": 19,
+            "document_count": 39,
+            "percentage": 2.37
+          },
+          {
+            "topic_id": 46,
+            "document_count": 36,
+            "percentage": 2.19
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 879,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 170,
+            "percentage": 19.34
+          },
+          {
+            "topic_id": 9,
+            "document_count": 79,
+            "percentage": 8.99
+          },
+          {
+            "topic_id": 25,
+            "document_count": 41,
+            "percentage": 4.66
+          },
+          {
+            "topic_id": 0,
+            "document_count": 40,
+            "percentage": 4.55
+          }
+        ]
+      }
+    },
+    "monthly_distribution": {
+      "1": 1141,
+      "12": 558,
+      "2": 527,
+      "3": 498,
+      "11": 314,
+      "4": 169
+    },
+    "unique_languages": 20,
+    "unique_cities": 4
+  },
+  "Día con lluvia intensa, frío": {
+    "total_documents": 2375,
+    "percentage_of_total": 0.34,
+    "sentiment_distribution": {
+      "neutro": 1038,
+      "positivo": 753,
+      "negativo": 584
+    },
+    "dominant_sentiment": "neutro",
+    "sentiment_percentage": 43.71,
+    "topic_analysis_by_sentiment": {
+      "negativo": {
+        "document_count": 584,
+        "top_topics": [
+          {
+            "topic_id": 2,
+            "document_count": 108,
+            "percentage": 18.49
+          },
+          {
+            "topic_id": 0,
+            "document_count": 30,
+            "percentage": 5.14
+          },
+          {
+            "topic_id": 75,
+            "document_count": 17,
+            "percentage": 2.91
+          },
+          {
+            "topic_id": 113,
+            "document_count": 12,
+            "percentage": 2.05
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 1038,
+        "top_topics": [
+          {
+            "topic_id": 35,
+            "document_count": 28,
+            "percentage": 2.7
+          },
+          {
+            "topic_id": 20,
+            "document_count": 23,
+            "percentage": 2.22
+          },
+          {
+            "topic_id": 33,
+            "document_count": 22,
+            "percentage": 2.12
+          },
+          {
+            "topic_id": 46,
+            "document_count": 21,
+            "percentage": 2.02
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 753,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 94,
+            "percentage": 12.48
+          },
+          {
+            "topic_id": 9,
+            "document_count": 85,
+            "percentage": 11.29
+          },
+          {
+            "topic_id": 25,
+            "document_count": 61,
+            "percentage": 8.1
+          },
+          {
+            "topic_id": 0,
+            "document_count": 46,
+            "percentage": 6.11
+          }
+        ]
+      }
+    },
+    "monthly_distribution": {
+      "3": 1396,
+      "12": 396,
+      "4": 267,
+      "2": 159,
+      "1": 157
+    },
+    "unique_languages": 15,
+    "unique_cities": 3
+  },
+  "Día, fresco y agradable, sin lluvia": {
+    "total_documents": 1346,
+    "percentage_of_total": 0.19,
+    "sentiment_distribution": {
+      "neutro": 564,
+      "positivo": 462,
+      "negativo": 320
+    },
+    "dominant_sentiment": "neutro",
+    "sentiment_percentage": 41.9,
+    "topic_analysis_by_sentiment": {
+      "negativo": {
+        "document_count": 320,
+        "top_topics": [
+          {
+            "topic_id": 2,
+            "document_count": 53,
+            "percentage": 16.56
+          },
+          {
+            "topic_id": 0,
+            "document_count": 31,
+            "percentage": 9.69
+          },
+          {
+            "topic_id": 113,
+            "document_count": 11,
+            "percentage": 3.44
+          },
+          {
+            "topic_id": 154,
+            "document_count": 9,
+            "percentage": 2.81
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 564,
+        "top_topics": [
+          {
+            "topic_id": 0,
+            "document_count": 16,
+            "percentage": 2.84
+          },
+          {
+            "topic_id": 46,
+            "document_count": 15,
+            "percentage": 2.66
+          },
+          {
+            "topic_id": 18,
+            "document_count": 13,
+            "percentage": 2.3
+          },
+          {
+            "topic_id": 16,
+            "document_count": 13,
+            "percentage": 2.3
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 462,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 65,
+            "percentage": 14.07
+          },
+          {
+            "topic_id": 9,
+            "document_count": 49,
+            "percentage": 10.61
+          },
+          {
+            "topic_id": 1,
+            "document_count": 41,
+            "percentage": 8.87
+          },
+          {
+            "topic_id": 25,
+            "document_count": 21,
+            "percentage": 4.55
+          }
+        ]
+      }
+    },
+    "monthly_distribution": {
+      "11": 521,
+      "10": 386,
+      "4": 169,
+      "2": 113,
+      "1": 104,
+      "12": 53
+    },
+    "unique_languages": 16,
+    "unique_cities": 4
+  },
+  "Día cielo con intervalos, sin lluvia": {
+    "total_documents": 1176,
+    "percentage_of_total": 0.17,
+    "sentiment_distribution": {
+      "neutro": 726,
+      "positivo": 367,
+      "negativo": 83
+    },
+    "dominant_sentiment": "neutro",
+    "sentiment_percentage": 61.73,
+    "topic_analysis_by_sentiment": {
+      "negativo": {
+        "document_count": 83,
+        "top_topics": [
+          {
+            "topic_id": 2,
+            "document_count": 9,
+            "percentage": 10.84
+          },
+          {
+            "topic_id": 139,
+            "document_count": 5,
+            "percentage": 6.02
+          },
+          {
+            "topic_id": 1,
+            "document_count": 4,
+            "percentage": 4.82
+          },
+          {
+            "topic_id": 0,
+            "document_count": 4,
+            "percentage": 4.82
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 726,
+        "top_topics": [
+          {
+            "topic_id": 40,
+            "document_count": 13,
+            "percentage": 1.79
+          },
+          {
+            "topic_id": 63,
+            "document_count": 13,
+            "percentage": 1.79
+          },
+          {
+            "topic_id": 0,
+            "document_count": 12,
+            "percentage": 1.65
+          },
+          {
+            "topic_id": 21,
+            "document_count": 11,
+            "percentage": 1.52
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 367,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 72,
+            "percentage": 19.62
+          },
+          {
+            "topic_id": 1,
+            "document_count": 24,
+            "percentage": 6.54
+          },
+          {
+            "topic_id": 26,
+            "document_count": 18,
+            "percentage": 4.9
+          },
+          {
+            "topic_id": 9,
+            "document_count": 16,
+            "percentage": 4.36
+          }
+        ]
+      }
+    },
+    "monthly_distribution": {
+      "4": 350,
+      "3": 208,
+      "2": 131,
+      "12": 115,
+      "5": 109,
+      "8": 94,
+      "1": 56,
+      "6": 52,
+      "9": 48,
+      "7": 13
+    },
+    "unique_languages": 10,
+    "unique_cities": 6
+  },
+  "Día, cálido, sin lluvia": {
+    "total_documents": 1022,
+    "percentage_of_total": 0.15,
+    "sentiment_distribution": {
+      "positivo": 797,
+      "neutro": 146,
+      "negativo": 79
+    },
+    "dominant_sentiment": "positivo",
+    "sentiment_percentage": 77.98,
+    "topic_analysis_by_sentiment": {
+      "negativo": {
+        "document_count": 79,
+        "top_topics": [
+          {
+            "topic_id": 2,
+            "document_count": 10,
+            "percentage": 12.66
+          },
+          {
+            "topic_id": 0,
+            "document_count": 8,
+            "percentage": 10.13
+          },
+          {
+            "topic_id": 184,
+            "document_count": 3,
+            "percentage": 3.8
+          },
+          {
+            "topic_id": 116,
+            "document_count": 3,
+            "percentage": 3.8
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 146,
+        "top_topics": [
+          {
+            "topic_id": 2,
+            "document_count": 7,
+            "percentage": 4.79
+          },
+          {
+            "topic_id": 12,
+            "document_count": 5,
+            "percentage": 3.42
+          },
+          {
+            "topic_id": 16,
+            "document_count": 4,
+            "percentage": 2.74
+          },
+          {
+            "topic_id": 35,
+            "document_count": 4,
+            "percentage": 2.74
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 797,
+        "top_topics": [
+          {
+            "topic_id": 9,
+            "document_count": 80,
+            "percentage": 10.04
+          },
+          {
+            "topic_id": 8,
+            "document_count": 65,
+            "percentage": 8.16
+          },
+          {
+            "topic_id": 1,
+            "document_count": 29,
+            "percentage": 3.64
+          },
+          {
+            "topic_id": 0,
+            "document_count": 24,
+            "percentage": 3.01
+          }
+        ]
+      }
+    },
+    "monthly_distribution": {
+      "9": 826,
+      "7": 142,
+      "10": 54
+    },
+    "unique_languages": 10,
+    "unique_cities": 4
+  },
+  "Día cielo con intervalos, muy caluroso, sin lluvia": {
+    "total_documents": 802,
+    "percentage_of_total": 0.11,
+    "sentiment_distribution": {
+      "positivo": 602,
+      "neutro": 147,
+      "negativo": 53
+    },
+    "dominant_sentiment": "positivo",
+    "sentiment_percentage": 75.06,
+    "topic_analysis_by_sentiment": {
+      "negativo": {
+        "document_count": 53,
+        "top_topics": [
+          {
+            "topic_id": 2,
+            "document_count": 16,
+            "percentage": 30.19
+          },
+          {
+            "topic_id": 1,
+            "document_count": 4,
+            "percentage": 7.55
+          },
+          {
+            "topic_id": 80,
+            "document_count": 3,
+            "percentage": 5.66
+          },
+          {
+            "topic_id": 0,
+            "document_count": 2,
+            "percentage": 3.77
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 147,
+        "top_topics": [
+          {
+            "topic_id": 19,
+            "document_count": 7,
+            "percentage": 4.76
+          },
+          {
+            "topic_id": 21,
+            "document_count": 5,
+            "percentage": 3.4
+          },
+          {
+            "topic_id": 35,
+            "document_count": 5,
+            "percentage": 3.4
+          },
+          {
+            "topic_id": 28,
+            "document_count": 4,
+            "percentage": 2.72
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 602,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 79,
+            "percentage": 13.12
+          },
+          {
+            "topic_id": 1,
+            "document_count": 46,
+            "percentage": 7.64
+          },
+          {
+            "topic_id": 25,
+            "document_count": 38,
+            "percentage": 6.31
+          },
+          {
+            "topic_id": 9,
+            "document_count": 36,
+            "percentage": 5.98
+          }
+        ]
+      }
+    },
+    "monthly_distribution": {
+      "8": 747,
+      "7": 55
+    },
+    "unique_languages": 10,
+    "unique_cities": 2
+  },
+  "Día con lloviznas": {
+    "total_documents": 432,
+    "percentage_of_total": 0.06,
+    "sentiment_distribution": {
+      "neutro": 253,
+      "positivo": 132,
+      "negativo": 47
+    },
+    "dominant_sentiment": "neutro",
+    "sentiment_percentage": 58.56,
+    "topic_analysis_by_sentiment": {
+      "negativo": {
+        "document_count": 47,
+        "top_topics": [
+          {
+            "topic_id": 2,
+            "document_count": 8,
+            "percentage": 17.02
+          },
+          {
+            "topic_id": 0,
+            "document_count": 4,
+            "percentage": 8.51
+          },
+          {
+            "topic_id": 173,
+            "document_count": 2,
+            "percentage": 4.26
+          },
+          {
+            "topic_id": 92,
+            "document_count": 2,
+            "percentage": 4.26
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 253,
+        "top_topics": [
+          {
+            "topic_id": 35,
+            "document_count": 8,
+            "percentage": 3.16
+          },
+          {
+            "topic_id": 24,
+            "document_count": 6,
+            "percentage": 2.37
+          },
+          {
+            "topic_id": 23,
+            "document_count": 6,
+            "percentage": 2.37
+          },
+          {
+            "topic_id": 27,
+            "document_count": 6,
+            "percentage": 2.37
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 132,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 24,
+            "percentage": 18.18
+          },
+          {
+            "topic_id": 9,
+            "document_count": 9,
+            "percentage": 6.82
+          },
+          {
+            "topic_id": 1,
+            "document_count": 5,
+            "percentage": 3.79
+          },
+          {
+            "topic_id": 7,
+            "document_count": 5,
+            "percentage": 3.79
+          }
+        ]
+      }
+    },
+    "monthly_distribution": {
+      "10": 153,
+      "12": 116,
+      "2": 64,
+      "8": 53,
+      "3": 46
+    },
+    "unique_languages": 7,
+    "unique_cities": 5
+  },
+  "Día soleado, sin lluvia": {
+    "total_documents": 412,
+    "percentage_of_total": 0.06,
+    "sentiment_distribution": {
+      "neutro": 289,
+      "positivo": 95,
+      "negativo": 28
+    },
+    "dominant_sentiment": "neutro",
+    "sentiment_percentage": 70.15,
+    "topic_analysis_by_sentiment": {
+      "negativo": {
+        "document_count": 28,
+        "top_topics": [
+          {
+            "topic_id": 2,
+            "document_count": 11,
+            "percentage": 39.29
+          },
+          {
+            "topic_id": 103,
+            "document_count": 2,
+            "percentage": 7.14
+          },
+          {
+            "topic_id": 136,
+            "document_count": 1,
+            "percentage": 3.57
+          },
+          {
+            "topic_id": 137,
+            "document_count": 1,
+            "percentage": 3.57
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 289,
+        "top_topics": [
+          {
+            "topic_id": 35,
+            "document_count": 9,
+            "percentage": 3.11
+          },
+          {
+            "topic_id": 20,
+            "document_count": 8,
+            "percentage": 2.77
+          },
+          {
+            "topic_id": 46,
+            "document_count": 7,
+            "percentage": 2.42
+          },
+          {
+            "topic_id": 5,
+            "document_count": 7,
+            "percentage": 2.42
+          },
+          {
+            "topic_id": 33,
+            "document_count": 7,
+            "percentage": 2.42
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 95,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 22,
+            "percentage": 23.16
+          },
+          {
+            "topic_id": 11,
+            "document_count": 6,
+            "percentage": 6.32
+          },
+          {
+            "topic_id": 46,
+            "document_count": 6,
+            "percentage": 6.32
+          },
+          {
+            "topic_id": 9,
+            "document_count": 5,
+            "percentage": 5.26
+          }
+        ]
+      }
+    },
+    "monthly_distribution": {
+      "11": 110,
+      "5": 75,
+      "3": 72,
+      "8": 55,
+      "12": 48,
+      "9": 48,
+      "6": 2,
+      "10": 1,
+      "1": 1
+    },
+    "unique_languages": 6,
+    "unique_cities": 5
+  },
+  "Día, frío, sin lluvia": {
+    "total_documents": 354,
+    "percentage_of_total": 0.05,
+    "sentiment_distribution": {
+      "neutro": 151,
+      "positivo": 104,
+      "negativo": 99
+    },
+    "dominant_sentiment": "neutro",
+    "sentiment_percentage": 42.66,
+    "topic_analysis_by_sentiment": {
+      "negativo": {
+        "document_count": 99,
+        "top_topics": [
+          {
+            "topic_id": 2,
+            "document_count": 19,
+            "percentage": 19.19
+          },
+          {
+            "topic_id": 120,
+            "document_count": 4,
+            "percentage": 4.04
+          },
+          {
+            "topic_id": 149,
+            "document_count": 3,
+            "percentage": 3.03
+          },
+          {
+            "topic_id": 164,
+            "document_count": 3,
+            "percentage": 3.03
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 151,
+        "top_topics": [
+          {
+            "topic_id": 48,
+            "document_count": 7,
+            "percentage": 4.64
+          },
+          {
+            "topic_id": 19,
+            "document_count": 5,
+            "percentage": 3.31
+          },
+          {
+            "topic_id": 35,
+            "document_count": 5,
+            "percentage": 3.31
+          },
+          {
+            "topic_id": 29,
+            "document_count": 5,
+            "percentage": 3.31
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 104,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 17,
+            "percentage": 16.35
+          },
+          {
+            "topic_id": 9,
+            "document_count": 7,
+            "percentage": 6.73
+          },
+          {
+            "topic_id": 14,
+            "document_count": 6,
+            "percentage": 5.77
+          },
+          {
+            "topic_id": 7,
+            "document_count": 6,
+            "percentage": 5.77
+          }
+        ]
+      }
+    },
+    "monthly_distribution": {
+      "1": 171,
+      "3": 94,
+      "2": 89
+    },
+    "unique_languages": 12,
+    "unique_cities": 2
+  },
+  "Día cielo con intervalos, cálido, viento moderado, sin lluvia": {
+    "total_documents": 279,
+    "percentage_of_total": 0.04,
+    "sentiment_distribution": {
+      "neutro": 226,
+      "negativo": 34,
+      "positivo": 19
+    },
+    "dominant_sentiment": "neutro",
+    "sentiment_percentage": 81.0,
+    "topic_analysis_by_sentiment": {
+      "negativo": {
+        "document_count": 34,
+        "top_topics": [
+          {
+            "topic_id": 173,
+            "document_count": 4,
+            "percentage": 11.76
+          },
+          {
+            "topic_id": 81,
+            "document_count": 3,
+            "percentage": 8.82
+          },
+          {
+            "topic_id": 157,
+            "document_count": 3,
+            "percentage": 8.82
+          },
+          {
+            "topic_id": 151,
+            "document_count": 3,
+            "percentage": 8.82
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 226,
+        "top_topics": [
+          {
+            "topic_id": 16,
+            "document_count": 53,
+            "percentage": 23.45
+          },
+          {
+            "topic_id": 72,
+            "document_count": 19,
+            "percentage": 8.41
+          },
+          {
+            "topic_id": 68,
+            "document_count": 5,
+            "percentage": 2.21
+          },
+          {
+            "topic_id": 20,
+            "document_count": 5,
+            "percentage": 2.21
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 19,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 6,
+            "percentage": 31.58
+          },
+          {
+            "topic_id": 9,
+            "document_count": 3,
+            "percentage": 15.79
+          },
+          {
+            "topic_id": 34,
+            "document_count": 1,
+            "percentage": 5.26
+          },
+          {
+            "topic_id": 19,
+            "document_count": 1,
+            "percentage": 5.26
+          }
+        ]
+      }
+    },
+    "monthly_distribution": {
+      "7": 191,
+      "8": 88
+    },
+    "unique_languages": 7,
+    "unique_cities": 1
+  },
+  "Día con lluvia moderada": {
+    "total_documents": 221,
+    "percentage_of_total": 0.03,
+    "sentiment_distribution": {
+      "neutro": 125,
+      "positivo": 76,
+      "negativo": 20
+    },
+    "dominant_sentiment": "neutro",
+    "sentiment_percentage": 56.56,
+    "topic_analysis_by_sentiment": {
+      "negativo": {
+        "document_count": 20,
+        "top_topics": [
+          {
+            "topic_id": 2,
+            "document_count": 6,
+            "percentage": 30.0
+          },
+          {
+            "topic_id": 111,
+            "document_count": 2,
+            "percentage": 10.0
+          },
+          {
+            "topic_id": 0,
+            "document_count": 2,
+            "percentage": 10.0
+          },
+          {
+            "topic_id": 168,
+            "document_count": 1,
+            "percentage": 5.0
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 125,
+        "top_topics": [
+          {
+            "topic_id": 87,
+            "document_count": 4,
+            "percentage": 3.2
+          },
+          {
+            "topic_id": 62,
+            "document_count": 3,
+            "percentage": 2.4
+          },
+          {
+            "topic_id": 26,
+            "document_count": 3,
+            "percentage": 2.4
+          },
+          {
+            "topic_id": 39,
+            "document_count": 3,
+            "percentage": 2.4
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 76,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 19,
+            "percentage": 25.0
+          },
+          {
+            "topic_id": 98,
+            "document_count": 4,
+            "percentage": 5.26
+          },
+          {
+            "topic_id": 9,
+            "document_count": 3,
+            "percentage": 3.95
+          },
+          {
+            "topic_id": 36,
+            "document_count": 3,
+            "percentage": 3.95
+          }
+        ]
+      }
+    },
+    "monthly_distribution": {
+      "3": 131,
+      "1": 53,
+      "2": 37
+    },
+    "unique_languages": 5,
+    "unique_cities": 4
+  },
+  "Día con lluvia moderada, muy caluroso": {
+    "total_documents": 161,
+    "percentage_of_total": 0.02,
+    "sentiment_distribution": {
+      "neutro": 88,
+      "negativo": 37,
+      "positivo": 36
+    },
+    "dominant_sentiment": "neutro",
+    "sentiment_percentage": 54.66,
+    "topic_analysis_by_sentiment": {
+      "negativo": {
+        "document_count": 37,
+        "top_topics": [
+          {
+            "topic_id": 2,
+            "document_count": 4,
+            "percentage": 10.81
+          },
+          {
+            "topic_id": 25,
+            "document_count": 2,
+            "percentage": 5.41
+          },
+          {
+            "topic_id": 3,
+            "document_count": 2,
+            "percentage": 5.41
+          },
+          {
+            "topic_id": 146,
+            "document_count": 2,
+            "percentage": 5.41
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 88,
+        "top_topics": [
+          {
+            "topic_id": 35,
+            "document_count": 4,
+            "percentage": 4.55
+          },
+          {
+            "topic_id": 40,
+            "document_count": 3,
+            "percentage": 3.41
+          },
+          {
+            "topic_id": 2,
+            "document_count": 3,
+            "percentage": 3.41
+          },
+          {
+            "topic_id": 18,
+            "document_count": 2,
+            "percentage": 2.27
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 36,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 6,
+            "percentage": 16.67
+          },
+          {
+            "topic_id": 0,
+            "document_count": 5,
+            "percentage": 13.89
+          },
+          {
+            "topic_id": 1,
+            "document_count": 3,
+            "percentage": 8.33
+          },
+          {
+            "topic_id": 6,
+            "document_count": 3,
+            "percentage": 8.33
+          }
+        ]
+      }
+    },
+    "monthly_distribution": {
+      "7": 115,
+      "8": 46
+    },
+    "unique_languages": 5,
+    "unique_cities": 2
+  },
+  "Día cielo nublado, sin lluvia": {
+    "total_documents": 154,
+    "percentage_of_total": 0.02,
+    "sentiment_distribution": {
+      "neutro": 102,
+      "negativo": 28,
+      "positivo": 24
+    },
+    "dominant_sentiment": "neutro",
+    "sentiment_percentage": 66.23,
+    "topic_analysis_by_sentiment": {
+      "negativo": {
+        "document_count": 28,
+        "top_topics": [
+          {
+            "topic_id": 2,
+            "document_count": 8,
+            "percentage": 28.57
+          },
+          {
+            "topic_id": 188,
+            "document_count": 2,
+            "percentage": 7.14
+          },
+          {
+            "topic_id": 177,
+            "document_count": 1,
+            "percentage": 3.57
+          },
+          {
+            "topic_id": 113,
+            "document_count": 1,
+            "percentage": 3.57
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 102,
+        "top_topics": [
+          {
+            "topic_id": 0,
+            "document_count": 6,
+            "percentage": 5.88
+          },
+          {
+            "topic_id": 3,
+            "document_count": 5,
+            "percentage": 4.9
+          },
+          {
+            "topic_id": 30,
+            "document_count": 4,
+            "percentage": 3.92
+          },
+          {
+            "topic_id": 40,
+            "document_count": 4,
+            "percentage": 3.92
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 24,
+        "top_topics": [
+          {
+            "topic_id": 26,
+            "document_count": 4,
+            "percentage": 16.67
+          },
+          {
+            "topic_id": 9,
+            "document_count": 4,
+            "percentage": 16.67
+          },
+          {
+            "topic_id": 8,
+            "document_count": 2,
+            "percentage": 8.33
+          },
+          {
+            "topic_id": 27,
+            "document_count": 2,
+            "percentage": 8.33
+          }
+        ]
+      }
+    },
+    "monthly_distribution": {
+      "2": 103,
+      "12": 50,
+      "5": 1
+    },
+    "unique_languages": 7,
+    "unique_cities": 3
+  },
+  "Día con lloviznas, muy caluroso": {
+    "total_documents": 150,
+    "percentage_of_total": 0.02,
+    "sentiment_distribution": {
+      "neutro": 120,
+      "negativo": 19,
+      "positivo": 11
+    },
+    "dominant_sentiment": "neutro",
+    "sentiment_percentage": 80.0,
+    "topic_analysis_by_sentiment": {
+      "negativo": {
+        "document_count": 19,
+        "top_topics": [
+          {
+            "topic_id": 86,
+            "document_count": 2,
+            "percentage": 10.53
+          },
+          {
+            "topic_id": 44,
+            "document_count": 1,
+            "percentage": 5.26
+          },
+          {
+            "topic_id": 55,
+            "document_count": 1,
+            "percentage": 5.26
+          },
+          {
+            "topic_id": 2,
+            "document_count": 1,
+            "percentage": 5.26
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 120,
+        "top_topics": [
+          {
+            "topic_id": 24,
+            "document_count": 6,
+            "percentage": 5.0
+          },
+          {
+            "topic_id": 33,
+            "document_count": 5,
+            "percentage": 4.17
+          },
+          {
+            "topic_id": 42,
+            "document_count": 5,
+            "percentage": 4.17
+          },
+          {
+            "topic_id": 6,
+            "document_count": 4,
+            "percentage": 3.33
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 11,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 3,
+            "percentage": 27.27
+          },
+          {
+            "topic_id": 14,
+            "document_count": 2,
+            "percentage": 18.18
+          },
+          {
+            "topic_id": 36,
+            "document_count": 1,
+            "percentage": 9.09
+          },
+          {
+            "topic_id": 0,
+            "document_count": 1,
+            "percentage": 9.09
+          },
+          {
+            "topic_id": 28,
+            "document_count": 1,
+            "percentage": 9.09
+          }
+        ]
+      }
+    },
+    "monthly_distribution": {
+      "8": 86,
+      "5": 63,
+      "7": 1
+    },
+    "unique_languages": 6,
+    "unique_cities": 3
+  },
+  "Día, muy caluroso, sin lluvia": {
+    "total_documents": 102,
+    "percentage_of_total": 0.01,
+    "sentiment_distribution": {
+      "neutro": 101,
+      "negativo": 1
+    },
+    "dominant_sentiment": "neutro",
+    "sentiment_percentage": 99.02,
+    "topic_analysis_by_sentiment": {
+      "negativo": {
+        "document_count": 1,
+        "top_topics": []
+      },
+      "neutro": {
+        "document_count": 101,
+        "top_topics": [
+          {
+            "topic_id": 45,
+            "document_count": 5,
+            "percentage": 4.95
+          },
+          {
+            "topic_id": 4,
+            "document_count": 4,
+            "percentage": 3.96
+          },
+          {
+            "topic_id": 32,
+            "document_count": 3,
+            "percentage": 2.97
+          },
+          {
+            "topic_id": 33,
+            "document_count": 3,
+            "percentage": 2.97
+          },
+          {
+            "topic_id": 46,
+            "document_count": 3,
+            "percentage": 2.97
+          }
+        ]
+      }
+    },
+    "monthly_distribution": {
+      "7": 101,
+      "8": 1
+    },
+    "unique_languages": 4,
+    "unique_cities": 1
+  },
+  "Día cielo con intervalos, viento moderado, sin lluvia": {
+    "total_documents": 60,
+    "percentage_of_total": 0.01,
+    "sentiment_distribution": {
+      "neutro": 56,
+      "positivo": 3,
+      "negativo": 1
+    },
+    "dominant_sentiment": "neutro",
+    "sentiment_percentage": 93.33,
+    "topic_analysis_by_sentiment": {
+      "negativo": {
+        "document_count": 1,
+        "top_topics": [
+          {
+            "topic_id": 137,
+            "document_count": 1,
+            "percentage": 100.0
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 56,
+        "top_topics": [
+          {
+            "topic_id": 66,
+            "document_count": 3,
+            "percentage": 5.36
+          },
+          {
+            "topic_id": 34,
+            "document_count": 3,
+            "percentage": 5.36
+          },
+          {
+            "topic_id": 8,
+            "document_count": 3,
+            "percentage": 5.36
+          },
+          {
+            "topic_id": 125,
+            "document_count": 2,
+            "percentage": 3.57
+          },
+          {
+            "topic_id": 24,
+            "document_count": 2,
+            "percentage": 3.57
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 3,
+        "top_topics": [
+          {
+            "topic_id": 9,
+            "document_count": 2,
+            "percentage": 66.67
+          },
+          {
+            "topic_id": 34,
+            "document_count": 1,
+            "percentage": 33.33
+          }
+        ]
+      }
+    },
+    "monthly_distribution": {
+      "4": 60
+    },
+    "unique_languages": 2,
+    "unique_cities": 1
+  },
+  "Día con lluvia intensa": {
+    "total_documents": 57,
+    "percentage_of_total": 0.01,
+    "sentiment_distribution": {
+      "neutro": 54,
+      "positivo": 3
+    },
+    "dominant_sentiment": "neutro",
+    "sentiment_percentage": 94.74,
+    "topic_analysis_by_sentiment": {
+      "neutro": {
+        "document_count": 54,
+        "top_topics": [
+          {
+            "topic_id": 3,
+            "document_count": 3,
+            "percentage": 5.56
+          },
+          {
+            "topic_id": 77,
+            "document_count": 3,
+            "percentage": 5.56
+          },
+          {
+            "topic_id": 43,
+            "document_count": 3,
+            "percentage": 5.56
+          },
+          {
+            "topic_id": 61,
+            "document_count": 2,
+            "percentage": 3.7
+          },
+          {
+            "topic_id": 4,
+            "document_count": 2,
+            "percentage": 3.7
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 3,
+        "top_topics": [
+          {
+            "topic_id": 19,
+            "document_count": 1,
+            "percentage": 33.33
+          },
+          {
+            "topic_id": 20,
+            "document_count": 1,
+            "percentage": 33.33
+          }
+        ]
+      }
+    },
+    "monthly_distribution": {
+      "10": 56,
+      "2": 1
+    },
+    "unique_languages": 2,
+    "unique_cities": 2
+  }
+}

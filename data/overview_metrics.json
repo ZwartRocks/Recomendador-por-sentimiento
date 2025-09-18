@@ -1,0 +1,13 @@
+{
+  "total_documents": 852566,
+  "total_topics": 218,
+  "total_languages": 45,
+  "total_cities": 8,
+  "total_categories": 13,
+  "date_range": {
+    "start": "2009-07-06 00:00:00",
+    "end": "2026-08-09 00:00:00"
+  },
+  "outliers_count": 89023,
+  "outliers_percentage": 10.44
+}

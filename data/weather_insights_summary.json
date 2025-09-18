@@ -1,0 +1,176 @@
+{
+  "total_documents_with_weather": 701635,
+  "unique_weather_conditions": 35,
+  "weather_frequency": {
+    "Día soleado, cálido, sin lluvia": 143921,
+    "Día cielo con intervalos, cálido, sin lluvia": 125111,
+    "Día cielo con intervalos, fresco y agradable, sin lluvia": 96625,
+    "Día soleado, fresco y agradable, sin lluvia": 76272,
+    "Día cielo nublado, fresco y agradable, sin lluvia": 34598,
+    "Día con lluvia moderada, fresco y agradable": 33380,
+    "Día con lloviznas, fresco y agradable": 31178,
+    "Día cielo nublado, cálido, sin lluvia": 30581,
+    "Día soleado, muy caluroso, sin lluvia": 20431,
+    "Día con lloviznas, cálido": 18109,
+    "Día con lluvia moderada, cálido": 17291,
+    "Día con lluvia intensa, fresco y agradable": 15131,
+    "Día cielo con intervalos, frío, sin lluvia": 14800,
+    "Día soleado, frío, sin lluvia": 9092,
+    "Día con lluvia intensa, cálido": 6800,
+    "Día con lluvia moderada, frío": 6739,
+    "Día, sin lluvia": 4835,
+    "Día cielo nublado, frío, sin lluvia": 4431,
+    "Día con lloviznas, frío": 3207,
+    "Día con lluvia intensa, frío": 2375,
+    "Día, fresco y agradable, sin lluvia": 1346,
+    "Día cielo con intervalos, sin lluvia": 1176,
+    "Día, cálido, sin lluvia": 1022,
+    "Día cielo con intervalos, muy caluroso, sin lluvia": 802,
+    "Día con lloviznas": 432,
+    "Día soleado, sin lluvia": 412,
+    "Día, frío, sin lluvia": 354,
+    "Día cielo con intervalos, cálido, viento moderado, sin lluvia": 279,
+    "Día con lluvia moderada": 221,
+    "Día con lluvia moderada, muy caluroso": 161,
+    "Día cielo nublado, sin lluvia": 154,
+    "Día con lloviznas, muy caluroso": 150,
+    "Día, muy caluroso, sin lluvia": 102,
+    "Día cielo con intervalos, viento moderado, sin lluvia": 60,
+    "Día con lluvia intensa": 57
+  },
+  "sentiment_weather_correlation": {
+    "negativo": {
+      "most_common_weather": {
+        "Día soleado, cálido, sin lluvia": 16075,
+        "Día cielo con intervalos, cálido, sin lluvia": 12305,
+        "Día cielo con intervalos, fresco y agradable, sin lluvia": 12047,
+        "Día soleado, fresco y agradable, sin lluvia": 8478,
+        "Día cielo nublado, fresco y agradable, sin lluvia": 6830
+      },
+      "document_count": 90325
+    },
+    "neutro": {
+      "most_common_weather": {
+        "Día soleado, cálido, sin lluvia": 81481,
+        "Día cielo con intervalos, cálido, sin lluvia": 77370,
+        "Día cielo con intervalos, fresco y agradable, sin lluvia": 45619,
+        "Día soleado, fresco y agradable, sin lluvia": 37509,
+        "Día con lluvia moderada, fresco y agradable": 16046
+      },
+      "document_count": 354253
+    },
+    "positivo": {
+      "most_common_weather": {
+        "Día soleado, cálido, sin lluvia": 46365,
+        "Día cielo con intervalos, fresco y agradable, sin lluvia": 38959,
+        "Día cielo con intervalos, cálido, sin lluvia": 35436,
+        "Día soleado, fresco y agradable, sin lluvia": 30285,
+        "Día cielo nublado, cálido, sin lluvia": 15759
+      },
+      "document_count": 257057
+    }
+  },
+  "weather_language_patterns": {
+    "Día soleado, cálido, sin lluvia": {
+      "languages": {
+        "en": 94679,
+        "es": 40292,
+        "fr": 3778,
+        "it": 1153,
+        "ca": 1114
+      },
+      "dominant_language": "en"
+    },
+    "Día cielo con intervalos, cálido, sin lluvia": {
+      "languages": {
+        "en": 89996,
+        "es": 27976,
+        "fr": 2245,
+        "ca": 1684,
+        "de": 895
+      },
+      "dominant_language": "en"
+    },
+    "Día cielo con intervalos, fresco y agradable, sin lluvia": {
+      "languages": {
+        "en": 58877,
+        "es": 31423,
+        "fr": 2380,
+        "it": 900,
+        "ca": 741
+      },
+      "dominant_language": "en"
+    },
+    "Día soleado, fresco y agradable, sin lluvia": {
+      "languages": {
+        "en": 45917,
+        "es": 25706,
+        "fr": 1742,
+        "ca": 707,
+        "it": 600
+      },
+      "dominant_language": "en"
+    },
+    "Día cielo nublado, fresco y agradable, sin lluvia": {
+      "languages": {
+        "en": 19840,
+        "es": 11828,
+        "fr": 996,
+        "it": 465,
+        "de": 321
+      },
+      "dominant_language": "en"
+    },
+    "Día con lluvia moderada, fresco y agradable": {
+      "languages": {
+        "en": 20845,
+        "es": 10227,
+        "fr": 939,
+        "it": 305,
+        "ca": 237
+      },
+      "dominant_language": "en"
+    },
+    "Día con lloviznas, fresco y agradable": {
+      "languages": {
+        "en": 18882,
+        "es": 10011,
+        "fr": 871,
+        "it": 325,
+        "ca": 252
+      },
+      "dominant_language": "en"
+    },
+    "Día cielo nublado, cálido, sin lluvia": {
+      "languages": {
+        "en": 19219,
+        "es": 9017,
+        "fr": 745,
+        "it": 347,
+        "de": 329
+      },
+      "dominant_language": "en"
+    },
+    "Día soleado, muy caluroso, sin lluvia": {
+      "languages": {
+        "en": 10863,
+        "es": 8159,
+        "fr": 633,
+        "pt": 200,
+        "it": 197
+      },
+      "dominant_language": "en"
+    },
+    "Día con lloviznas, cálido": {
+      "languages": {
+        "en": 12929,
+        "es": 4020,
+        "fr": 397,
+        "ca": 211,
+        "it": 149
+      },
+      "dominant_language": "en"
+    }
+  },
+  "seasonal_weather_summary": {}
+}

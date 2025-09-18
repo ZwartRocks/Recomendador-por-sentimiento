@@ -1,0 +1,215 @@
+{
+  "by_month": {
+    "1": {
+      "negativo": 6223,
+      "neutro": 34924,
+      "positivo": 15591
+    },
+    "2": {
+      "negativo": 5265,
+      "neutro": 31767,
+      "positivo": 15802
+    },
+    "3": {
+      "negativo": 7668,
+      "neutro": 35361,
+      "positivo": 25943
+    },
+    "4": {
+      "negativo": 9495,
+      "neutro": 34803,
+      "positivo": 26375
+    },
+    "5": {
+      "negativo": 10038,
+      "neutro": 36217,
+      "positivo": 31070
+    },
+    "6": {
+      "negativo": 9294,
+      "neutro": 34996,
+      "positivo": 27778
+    },
+    "7": {
+      "negativo": 11061,
+      "neutro": 36122,
+      "positivo": 28658
+    },
+    "8": {
+      "negativo": 11457,
+      "neutro": 37046,
+      "positivo": 27661
+    },
+    "9": {
+      "negativo": 6365,
+      "neutro": 34262,
+      "positivo": 27304
+    },
+    "10": {
+      "negativo": 7528,
+      "neutro": 35820,
+      "positivo": 28460
+    },
+    "11": {
+      "negativo": 6789,
+      "neutro": 34003,
+      "positivo": 19322
+    },
+    "12": {
+      "negativo": 6200,
+      "neutro": 35048,
+      "positivo": 15408
+    }
+  },
+  "by_weekday": {
+    "0": {
+      "negativo": 16196,
+      "neutro": 59974,
+      "positivo": 41967
+    },
+    "1": {
+      "negativo": 13825,
+      "neutro": 60046,
+      "positivo": 39365
+    },
+    "2": {
+      "negativo": 12731,
+      "neutro": 59430,
+      "positivo": 41608
+    },
+    "3": {
+      "negativo": 12762,
+      "neutro": 59635,
+      "positivo": 38631
+    },
+    "4": {
+      "negativo": 13014,
+      "neutro": 60004,
+      "positivo": 43626
+    },
+    "5": {
+      "negativo": 13817,
+      "neutro": 60795,
+      "positivo": 40537
+    },
+    "6": {
+      "negativo": 15038,
+      "neutro": 60485,
+      "positivo": 43638
+    }
+  },
+  "by_quarter": {
+    "1": {
+      "negativo": 19156,
+      "neutro": 102052,
+      "positivo": 57336
+    },
+    "2": {
+      "negativo": 28827,
+      "neutro": 106016,
+      "positivo": 85223
+    },
+    "3": {
+      "negativo": 28883,
+      "neutro": 107430,
+      "positivo": 83623
+    },
+    "4": {
+      "negativo": 20517,
+      "neutro": 104871,
+      "positivo": 63190
+    }
+  },
+  "by_year": {
+    "2009": {
+      "negativo": 0,
+      "neutro": 1,
+      "positivo": 0
+    },
+    "2010": {
+      "negativo": 1,
+      "neutro": 0,
+      "positivo": 1
+    },
+    "2011": {
+      "negativo": 0,
+      "neutro": 0,
+      "positivo": 310
+    },
+    "2012": {
+      "negativo": 145,
+      "neutro": 171,
+      "positivo": 2961
+    },
+    "2013": {
+      "negativo": 86,
+      "neutro": 72,
+      "positivo": 2642
+    },
+    "2014": {
+      "negativo": 26,
+      "neutro": 44,
+      "positivo": 1571
+    },
+    "2015": {
+      "negativo": 85,
+      "neutro": 57,
+      "positivo": 1978
+    },
+    "2016": {
+      "negativo": 77,
+      "neutro": 46,
+      "positivo": 1724
+    },
+    "2017": {
+      "negativo": 78,
+      "neutro": 52,
+      "positivo": 1630
+    },
+    "2018": {
+      "negativo": 175,
+      "neutro": 67,
+      "positivo": 3054
+    },
+    "2019": {
+      "negativo": 421,
+      "neutro": 157,
+      "positivo": 11397
+    },
+    "2020": {
+      "negativo": 231,
+      "neutro": 86,
+      "positivo": 5085
+    },
+    "2021": {
+      "negativo": 350,
+      "neutro": 105,
+      "positivo": 9652
+    },
+    "2022": {
+      "negativo": 3166,
+      "neutro": 67753,
+      "positivo": 24903
+    },
+    "2023": {
+      "negativo": 22649,
+      "neutro": 138461,
+      "positivo": 75342
+    },
+    "2024": {
+      "negativo": 37678,
+      "neutro": 140735,
+      "positivo": 97069
+    },
+    "2025": {
+      "negativo": 32212,
+      "neutro": 72559,
+      "positivo": 49945
+    },
+    "2026": {
+      "negativo": 3,
+      "neutro": 3,
+      "positivo": 108
+    }
+  }
+}

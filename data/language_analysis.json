@@ -1,0 +1,6475 @@
+{
+  "en": {
+    "total_documents": 518428,
+    "document_percentage": 60.81,
+    "unique_topics": 211,
+    "sentiment_breakdown": {
+      "negativo": {
+        "document_count": 16350,
+        "topic_count": 210,
+        "top_topics": [
+          {
+            "topic_id": 0,
+            "document_count": 2483,
+            "percentage": 15.19
+          },
+          {
+            "topic_id": 2,
+            "document_count": 470,
+            "percentage": 2.87
+          },
+          {
+            "topic_id": 3,
+            "document_count": 438,
+            "percentage": 2.68
+          },
+          {
+            "topic_id": 1,
+            "document_count": 304,
+            "percentage": 1.86
+          },
+          {
+            "topic_id": 81,
+            "document_count": 296,
+            "percentage": 1.81
+          },
+          {
+            "topic_id": 22,
+            "document_count": 278,
+            "percentage": 1.7
+          },
+          {
+            "topic_id": 14,
+            "document_count": 238,
+            "percentage": 1.46
+          },
+          {
+            "topic_id": 131,
+            "document_count": 232,
+            "percentage": 1.42
+          },
+          {
+            "topic_id": 69,
+            "document_count": 216,
+            "percentage": 1.32
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 382066,
+        "topic_count": 151,
+        "top_topics": [
+          {
+            "topic_id": 35,
+            "document_count": 7927,
+            "percentage": 2.07
+          },
+          {
+            "topic_id": 19,
+            "document_count": 7552,
+            "percentage": 1.98
+          },
+          {
+            "topic_id": 0,
+            "document_count": 6406,
+            "percentage": 1.68
+          },
+          {
+            "topic_id": 20,
+            "document_count": 6127,
+            "percentage": 1.6
+          },
+          {
+            "topic_id": 24,
+            "document_count": 5692,
+            "percentage": 1.49
+          },
+          {
+            "topic_id": 16,
+            "document_count": 5619,
+            "percentage": 1.47
+          },
+          {
+            "topic_id": 46,
+            "document_count": 5406,
+            "percentage": 1.41
+          },
+          {
+            "topic_id": 21,
+            "document_count": 5319,
+            "percentage": 1.39
+          },
+          {
+            "topic_id": 32,
+            "document_count": 5153,
+            "percentage": 1.35
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 120012,
+        "topic_count": 97,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 17398,
+            "percentage": 14.5
+          },
+          {
+            "topic_id": 9,
+            "document_count": 9523,
+            "percentage": 7.94
+          },
+          {
+            "topic_id": 0,
+            "document_count": 6522,
+            "percentage": 5.43
+          },
+          {
+            "topic_id": 1,
+            "document_count": 5461,
+            "percentage": 4.55
+          },
+          {
+            "topic_id": 25,
+            "document_count": 4582,
+            "percentage": 3.82
+          },
+          {
+            "topic_id": 7,
+            "document_count": 4222,
+            "percentage": 3.52
+          },
+          {
+            "topic_id": 14,
+            "document_count": 3538,
+            "percentage": 2.95
+          },
+          {
+            "topic_id": 12,
+            "document_count": 2742,
+            "percentage": 2.28
+          },
+          {
+            "topic_id": 11,
+            "document_count": 2721,
+            "percentage": 2.27
+          }
+        ]
+      }
+    },
+    "geographic_distribution": {
+      "Barcelona": 114973,
+      "Madrid": 77293,
+      "Sevilla": 60969,
+      "Tenerife": 57838,
+      "Malaga": 55451,
+      "Gran Canaria": 53612,
+      "Valencia": 50794,
+      "Mallorca": 47498
+    },
+    "temporal_distribution": {
+      "2024.0": 183421,
+      "2023.0": 165296,
+      "2025.0": 88887,
+      "2022.0": 72415,
+      "2019.0": 2458,
+      "2018.0": 1015,
+      "2021.0": 928,
+      "2020.0": 722,
+      "2017.0": 227,
+      "2016.0": 101,
+      "2014.0": 76,
+      "2015.0": 54,
+      "2026.0": 53,
+      "2013.0": 38,
+      "2012.0": 14,
+      "2011.0": 8,
+      "2009.0": 1
+    },
+    "category_distribution": {
+      "Tour": 226828,
+      "Desconocido": 115485,
+      "Ocio": 83307,
+      "Vida_nocturna": 27364,
+      "Playa": 24856
+    }
+  },
+  "es": {
+    "total_documents": 276150,
+    "document_percentage": 32.39,
+    "unique_topics": 218,
+    "sentiment_breakdown": {
+      "negativo": {
+        "document_count": 79988,
+        "topic_count": 218,
+        "top_topics": [
+          {
+            "topic_id": 2,
+            "document_count": 23681,
+            "percentage": 29.61
+          },
+          {
+            "topic_id": 0,
+            "document_count": 2237,
+            "percentage": 2.8
+          },
+          {
+            "topic_id": 1,
+            "document_count": 1943,
+            "percentage": 2.43
+          },
+          {
+            "topic_id": 3,
+            "document_count": 894,
+            "percentage": 1.12
+          },
+          {
+            "topic_id": 113,
+            "document_count": 857,
+            "percentage": 1.07
+          },
+          {
+            "topic_id": 81,
+            "document_count": 835,
+            "percentage": 1.04
+          },
+          {
+            "topic_id": 107,
+            "document_count": 726,
+            "percentage": 0.91
+          },
+          {
+            "topic_id": 103,
+            "document_count": 695,
+            "percentage": 0.87
+          },
+          {
+            "topic_id": 115,
+            "document_count": 602,
+            "percentage": 0.75
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 16522,
+        "topic_count": 139,
+        "top_topics": [
+          {
+            "topic_id": 35,
+            "document_count": 897,
+            "percentage": 5.43
+          },
+          {
+            "topic_id": 0,
+            "document_count": 520,
+            "percentage": 3.15
+          },
+          {
+            "topic_id": 19,
+            "document_count": 386,
+            "percentage": 2.34
+          },
+          {
+            "topic_id": 17,
+            "document_count": 301,
+            "percentage": 1.82
+          },
+          {
+            "topic_id": 24,
+            "document_count": 298,
+            "percentage": 1.8
+          },
+          {
+            "topic_id": 20,
+            "document_count": 253,
+            "percentage": 1.53
+          },
+          {
+            "topic_id": 46,
+            "document_count": 222,
+            "percentage": 1.34
+          },
+          {
+            "topic_id": 21,
+            "document_count": 215,
+            "percentage": 1.3
+          },
+          {
+            "topic_id": 15,
+            "document_count": 208,
+            "percentage": 1.26
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 179640,
+        "topic_count": 129,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 26239,
+            "percentage": 14.61
+          },
+          {
+            "topic_id": 9,
+            "document_count": 13856,
+            "percentage": 7.71
+          },
+          {
+            "topic_id": 0,
+            "document_count": 9873,
+            "percentage": 5.5
+          },
+          {
+            "topic_id": 1,
+            "document_count": 7324,
+            "percentage": 4.08
+          },
+          {
+            "topic_id": 25,
+            "document_count": 6238,
+            "percentage": 3.47
+          },
+          {
+            "topic_id": 7,
+            "document_count": 5150,
+            "percentage": 2.87
+          },
+          {
+            "topic_id": 14,
+            "document_count": 4875,
+            "percentage": 2.71
+          },
+          {
+            "topic_id": 12,
+            "document_count": 4742,
+            "percentage": 2.64
+          },
+          {
+            "topic_id": 11,
+            "document_count": 4039,
+            "percentage": 2.25
+          }
+        ]
+      }
+    },
+    "geographic_distribution": {
+      "Madrid": 86096,
+      "Barcelona": 77907,
+      "Sevilla": 31997,
+      "Malaga": 22665,
+      "Tenerife": 22568,
+      "Gran Canaria": 15622,
+      "Valencia": 11197,
+      "Mallorca": 8098
+    },
+    "temporal_distribution": {
+      "2024.0": 70405,
+      "2023.0": 54977,
+      "2025.0": 53080,
+      "2022.0": 18461,
+      "2019.0": 9188,
+      "2021.0": 8979,
+      "2020.0": 4568,
+      "2012.0": 3263,
+      "2013.0": 2761,
+      "2018.0": 2123,
+      "2015.0": 2065,
+      "2016.0": 1744,
+      "2014.0": 1560,
+      "2017.0": 1523,
+      "2011.0": 302,
+      "2026.0": 12,
+      "2010.0": 2
+    },
+    "category_distribution": {
+      "Tour": 142996,
+      "Desconocido": 41924,
+      "Playa": 18649,
+      "Museo": 17123,
+      "Cultura": 16414
+    }
+  },
+  "fr": {
+    "total_documents": 19348,
+    "document_percentage": 2.27,
+    "unique_topics": 196,
+    "sentiment_breakdown": {
+      "negativo": {
+        "document_count": 1500,
+        "topic_count": 176,
+        "top_topics": [
+          {
+            "topic_id": 0,
+            "document_count": 404,
+            "percentage": 26.93
+          },
+          {
+            "topic_id": 131,
+            "document_count": 28,
+            "percentage": 1.87
+          },
+          {
+            "topic_id": 22,
+            "document_count": 27,
+            "percentage": 1.8
+          },
+          {
+            "topic_id": 20,
+            "document_count": 25,
+            "percentage": 1.67
+          },
+          {
+            "topic_id": 39,
+            "document_count": 25,
+            "percentage": 1.67
+          },
+          {
+            "topic_id": 3,
+            "document_count": 24,
+            "percentage": 1.6
+          },
+          {
+            "topic_id": 113,
+            "document_count": 22,
+            "percentage": 1.47
+          },
+          {
+            "topic_id": 75,
+            "document_count": 22,
+            "percentage": 1.47
+          },
+          {
+            "topic_id": 37,
+            "document_count": 18,
+            "percentage": 1.2
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 10307,
+        "topic_count": 140,
+        "top_topics": [
+          {
+            "topic_id": 35,
+            "document_count": 289,
+            "percentage": 2.8
+          },
+          {
+            "topic_id": 11,
+            "document_count": 179,
+            "percentage": 1.74
+          },
+          {
+            "topic_id": 30,
+            "document_count": 166,
+            "percentage": 1.61
+          },
+          {
+            "topic_id": 0,
+            "document_count": 156,
+            "percentage": 1.51
+          },
+          {
+            "topic_id": 7,
+            "document_count": 151,
+            "percentage": 1.47
+          },
+          {
+            "topic_id": 48,
+            "document_count": 149,
+            "percentage": 1.45
+          },
+          {
+            "topic_id": 9,
+            "document_count": 140,
+            "percentage": 1.36
+          },
+          {
+            "topic_id": 43,
+            "document_count": 138,
+            "percentage": 1.34
+          },
+          {
+            "topic_id": 74,
+            "document_count": 129,
+            "percentage": 1.25
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 7541,
+        "topic_count": 62,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 1043,
+            "percentage": 13.83
+          },
+          {
+            "topic_id": 9,
+            "document_count": 919,
+            "percentage": 12.19
+          },
+          {
+            "topic_id": 0,
+            "document_count": 478,
+            "percentage": 6.34
+          },
+          {
+            "topic_id": 1,
+            "document_count": 316,
+            "percentage": 4.19
+          },
+          {
+            "topic_id": 7,
+            "document_count": 268,
+            "percentage": 3.55
+          },
+          {
+            "topic_id": 25,
+            "document_count": 260,
+            "percentage": 3.45
+          },
+          {
+            "topic_id": 12,
+            "document_count": 188,
+            "percentage": 2.49
+          },
+          {
+            "topic_id": 11,
+            "document_count": 185,
+            "percentage": 2.45
+          },
+          {
+            "topic_id": 14,
+            "document_count": 181,
+            "percentage": 2.4
+          }
+        ]
+      }
+    },
+    "geographic_distribution": {
+      "Barcelona": 4847,
+      "Sevilla": 4555,
+      "Madrid": 3534,
+      "Tenerife": 1968,
+      "Malaga": 1696,
+      "Mallorca": 1375,
+      "Valencia": 1087,
+      "Gran Canaria": 286
+    },
+    "temporal_distribution": {
+      "2024.0": 7394,
+      "2023.0": 5759,
+      "2025.0": 3823,
+      "2022.0": 1954,
+      "2021.0": 86,
+      "2019.0": 74,
+      "2018.0": 24,
+      "2020.0": 21,
+      "2017.0": 3,
+      "2026.0": 3
+    },
+    "category_distribution": {
+      "Tour": 10125,
+      "Desconocido": 4213,
+      "Playa": 1508,
+      "Museo": 1186,
+      "Vida nocturna": 1113
+    }
+  },
+  "ca": {
+    "total_documents": 12601,
+    "document_percentage": 1.48,
+    "unique_topics": 143,
+    "sentiment_breakdown": {
+      "negativo": {
+        "document_count": 176,
+        "topic_count": 18,
+        "top_topics": [
+          {
+            "topic_id": 3,
+            "document_count": 50,
+            "percentage": 28.41
+          },
+          {
+            "topic_id": 75,
+            "document_count": 23,
+            "percentage": 13.07
+          },
+          {
+            "topic_id": 20,
+            "document_count": 14,
+            "percentage": 7.95
+          },
+          {
+            "topic_id": 138,
+            "document_count": 12,
+            "percentage": 6.82
+          },
+          {
+            "topic_id": 0,
+            "document_count": 9,
+            "percentage": 5.11
+          },
+          {
+            "topic_id": 86,
+            "document_count": 9,
+            "percentage": 5.11
+          },
+          {
+            "topic_id": 121,
+            "document_count": 6,
+            "percentage": 3.41
+          },
+          {
+            "topic_id": 113,
+            "document_count": 4,
+            "percentage": 2.27
+          },
+          {
+            "topic_id": 103,
+            "document_count": 4,
+            "percentage": 2.27
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 11907,
+        "topic_count": 143,
+        "top_topics": [
+          {
+            "topic_id": 24,
+            "document_count": 221,
+            "percentage": 1.86
+          },
+          {
+            "topic_id": 72,
+            "document_count": 205,
+            "percentage": 1.72
+          },
+          {
+            "topic_id": 45,
+            "document_count": 196,
+            "percentage": 1.65
+          },
+          {
+            "topic_id": 20,
+            "document_count": 194,
+            "percentage": 1.63
+          },
+          {
+            "topic_id": 6,
+            "document_count": 194,
+            "percentage": 1.63
+          },
+          {
+            "topic_id": 32,
+            "document_count": 187,
+            "percentage": 1.57
+          },
+          {
+            "topic_id": 35,
+            "document_count": 183,
+            "percentage": 1.54
+          },
+          {
+            "topic_id": 46,
+            "document_count": 173,
+            "percentage": 1.45
+          },
+          {
+            "topic_id": 0,
+            "document_count": 171,
+            "percentage": 1.44
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 518,
+        "topic_count": 32,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 380,
+            "percentage": 73.36
+          },
+          {
+            "topic_id": 34,
+            "document_count": 12,
+            "percentage": 2.32
+          },
+          {
+            "topic_id": 2,
+            "document_count": 7,
+            "percentage": 1.35
+          },
+          {
+            "topic_id": 9,
+            "document_count": 6,
+            "percentage": 1.16
+          },
+          {
+            "topic_id": 15,
+            "document_count": 6,
+            "percentage": 1.16
+          },
+          {
+            "topic_id": 29,
+            "document_count": 5,
+            "percentage": 0.97
+          },
+          {
+            "topic_id": 7,
+            "document_count": 5,
+            "percentage": 0.97
+          },
+          {
+            "topic_id": 50,
+            "document_count": 4,
+            "percentage": 0.77
+          },
+          {
+            "topic_id": 6,
+            "document_count": 4,
+            "percentage": 0.77
+          }
+        ]
+      }
+    },
+    "geographic_distribution": {
+      "Mallorca": 5914,
+      "Gran Canaria": 2051,
+      "Malaga": 1214,
+      "Barcelona": 1166,
+      "Madrid": 1135,
+      "Valencia": 1032,
+      "Sevilla": 62,
+      "Tenerife": 27
+    },
+    "temporal_distribution": {
+      "2024.0": 4069,
+      "2023.0": 3970,
+      "2025.0": 2250,
+      "2022.0": 1946,
+      "2020.0": 10,
+      "2021.0": 6,
+      "2018.0": 6,
+      "2019.0": 4,
+      "2026.0": 4,
+      "2016.0": 1,
+      "2014.0": 1
+    },
+    "category_distribution": {
+      "Desconocido": 12206,
+      "Tour": 163,
+      "Playa": 54,
+      "Museo": 51,
+      "Vida nocturna": 51
+    }
+  },
+  "it": {
+    "total_documents": 6988,
+    "document_percentage": 0.82,
+    "unique_topics": 160,
+    "sentiment_breakdown": {
+      "negativo": {
+        "document_count": 939,
+        "topic_count": 127,
+        "top_topics": [
+          {
+            "topic_id": 0,
+            "document_count": 245,
+            "percentage": 26.09
+          },
+          {
+            "topic_id": 125,
+            "document_count": 20,
+            "percentage": 2.13
+          },
+          {
+            "topic_id": 2,
+            "document_count": 19,
+            "percentage": 2.02
+          },
+          {
+            "topic_id": 113,
+            "document_count": 19,
+            "percentage": 2.02
+          },
+          {
+            "topic_id": 3,
+            "document_count": 17,
+            "percentage": 1.81
+          },
+          {
+            "topic_id": 143,
+            "document_count": 16,
+            "percentage": 1.7
+          },
+          {
+            "topic_id": 146,
+            "document_count": 16,
+            "percentage": 1.7
+          },
+          {
+            "topic_id": 39,
+            "document_count": 16,
+            "percentage": 1.7
+          },
+          {
+            "topic_id": 131,
+            "document_count": 14,
+            "percentage": 1.49
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 965,
+        "topic_count": 72,
+        "top_topics": [
+          {
+            "topic_id": 35,
+            "document_count": 80,
+            "percentage": 8.29
+          },
+          {
+            "topic_id": 19,
+            "document_count": 59,
+            "percentage": 6.11
+          },
+          {
+            "topic_id": 0,
+            "document_count": 52,
+            "percentage": 5.39
+          },
+          {
+            "topic_id": 16,
+            "document_count": 39,
+            "percentage": 4.04
+          },
+          {
+            "topic_id": 14,
+            "document_count": 32,
+            "percentage": 3.32
+          },
+          {
+            "topic_id": 2,
+            "document_count": 25,
+            "percentage": 2.59
+          },
+          {
+            "topic_id": 46,
+            "document_count": 15,
+            "percentage": 1.55
+          },
+          {
+            "topic_id": 3,
+            "document_count": 15,
+            "percentage": 1.55
+          },
+          {
+            "topic_id": 20,
+            "document_count": 15,
+            "percentage": 1.55
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 5084,
+        "topic_count": 55,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 666,
+            "percentage": 13.1
+          },
+          {
+            "topic_id": 9,
+            "document_count": 592,
+            "percentage": 11.64
+          },
+          {
+            "topic_id": 0,
+            "document_count": 310,
+            "percentage": 6.1
+          },
+          {
+            "topic_id": 25,
+            "document_count": 225,
+            "percentage": 4.43
+          },
+          {
+            "topic_id": 1,
+            "document_count": 170,
+            "percentage": 3.34
+          },
+          {
+            "topic_id": 12,
+            "document_count": 159,
+            "percentage": 3.13
+          },
+          {
+            "topic_id": 6,
+            "document_count": 156,
+            "percentage": 3.07
+          },
+          {
+            "topic_id": 14,
+            "document_count": 132,
+            "percentage": 2.6
+          },
+          {
+            "topic_id": 26,
+            "document_count": 124,
+            "percentage": 2.44
+          }
+        ]
+      }
+    },
+    "geographic_distribution": {
+      "Barcelona": 2302,
+      "Madrid": 2204,
+      "Sevilla": 714,
+      "Tenerife": 549,
+      "Malaga": 461,
+      "Valencia": 391,
+      "Gran Canaria": 198,
+      "Mallorca": 169
+    },
+    "temporal_distribution": {
+      "2024.0": 2859,
+      "2025.0": 2032,
+      "2023.0": 1512,
+      "2022.0": 225,
+      "2019.0": 47,
+      "2021.0": 21,
+      "2018.0": 11,
+      "2020.0": 9,
+      "2017.0": 2,
+      "2014.0": 2,
+      "2013.0": 1,
+      "2015.0": 1,
+      "2026.0": 1
+    },
+    "category_distribution": {
+      "Tour": 2586,
+      "Museo": 1027,
+      "Desconocido": 942,
+      "Playa": 740,
+      "Vida nocturna": 729
+    }
+  },
+  "de": {
+    "total_documents": 5539,
+    "document_percentage": 0.65,
+    "unique_topics": 160,
+    "sentiment_breakdown": {
+      "negativo": {
+        "document_count": 807,
+        "topic_count": 133,
+        "top_topics": [
+          {
+            "topic_id": 0,
+            "document_count": 263,
+            "percentage": 32.59
+          },
+          {
+            "topic_id": 2,
+            "document_count": 18,
+            "percentage": 2.23
+          },
+          {
+            "topic_id": 113,
+            "document_count": 14,
+            "percentage": 1.73
+          },
+          {
+            "topic_id": 125,
+            "document_count": 13,
+            "percentage": 1.61
+          },
+          {
+            "topic_id": 3,
+            "document_count": 12,
+            "percentage": 1.49
+          },
+          {
+            "topic_id": 1,
+            "document_count": 11,
+            "percentage": 1.36
+          },
+          {
+            "topic_id": 14,
+            "document_count": 11,
+            "percentage": 1.36
+          },
+          {
+            "topic_id": 20,
+            "document_count": 11,
+            "percentage": 1.36
+          },
+          {
+            "topic_id": 203,
+            "document_count": 10,
+            "percentage": 1.24
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 759,
+        "topic_count": 44,
+        "top_topics": [
+          {
+            "topic_id": 35,
+            "document_count": 54,
+            "percentage": 7.11
+          },
+          {
+            "topic_id": 20,
+            "document_count": 33,
+            "percentage": 4.35
+          },
+          {
+            "topic_id": 23,
+            "document_count": 30,
+            "percentage": 3.95
+          },
+          {
+            "topic_id": 24,
+            "document_count": 27,
+            "percentage": 3.56
+          },
+          {
+            "topic_id": 46,
+            "document_count": 26,
+            "percentage": 3.43
+          },
+          {
+            "topic_id": 33,
+            "document_count": 24,
+            "percentage": 3.16
+          },
+          {
+            "topic_id": 21,
+            "document_count": 23,
+            "percentage": 3.03
+          },
+          {
+            "topic_id": 4,
+            "document_count": 23,
+            "percentage": 3.03
+          },
+          {
+            "topic_id": 2,
+            "document_count": 18,
+            "percentage": 2.37
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 3973,
+        "topic_count": 65,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 519,
+            "percentage": 13.06
+          },
+          {
+            "topic_id": 9,
+            "document_count": 438,
+            "percentage": 11.02
+          },
+          {
+            "topic_id": 0,
+            "document_count": 237,
+            "percentage": 5.97
+          },
+          {
+            "topic_id": 1,
+            "document_count": 146,
+            "percentage": 3.67
+          },
+          {
+            "topic_id": 25,
+            "document_count": 115,
+            "percentage": 2.89
+          },
+          {
+            "topic_id": 11,
+            "document_count": 113,
+            "percentage": 2.84
+          },
+          {
+            "topic_id": 6,
+            "document_count": 105,
+            "percentage": 2.64
+          },
+          {
+            "topic_id": 14,
+            "document_count": 95,
+            "percentage": 2.39
+          },
+          {
+            "topic_id": 7,
+            "document_count": 91,
+            "percentage": 2.29
+          }
+        ]
+      }
+    },
+    "geographic_distribution": {
+      "Barcelona": 1952,
+      "Madrid": 867,
+      "Tenerife": 718,
+      "Mallorca": 538,
+      "Malaga": 513,
+      "Gran Canaria": 391,
+      "Sevilla": 295,
+      "Valencia": 265
+    },
+    "temporal_distribution": {
+      "2024.0": 2219,
+      "2023.0": 1455,
+      "2025.0": 1170,
+      "2022.0": 278,
+      "2019.0": 89,
+      "2018.0": 67,
+      "2021.0": 41,
+      "2020.0": 24,
+      "2026.0": 19,
+      "2017.0": 2
+    },
+    "category_distribution": {
+      "Tour": 2436,
+      "Playa": 745,
+      "Desconocido": 606,
+      "Vida nocturna": 602,
+      "Hotel": 378
+    }
+  },
+  "pt": {
+    "total_documents": 3400,
+    "document_percentage": 0.4,
+    "unique_topics": 91,
+    "sentiment_breakdown": {
+      "negativo": {
+        "document_count": 486,
+        "topic_count": 43,
+        "top_topics": [
+          {
+            "topic_id": 2,
+            "document_count": 56,
+            "percentage": 11.52
+          },
+          {
+            "topic_id": 0,
+            "document_count": 46,
+            "percentage": 9.47
+          },
+          {
+            "topic_id": 3,
+            "document_count": 25,
+            "percentage": 5.14
+          },
+          {
+            "topic_id": 14,
+            "document_count": 17,
+            "percentage": 3.5
+          },
+          {
+            "topic_id": 77,
+            "document_count": 15,
+            "percentage": 3.09
+          },
+          {
+            "topic_id": 20,
+            "document_count": 12,
+            "percentage": 2.47
+          },
+          {
+            "topic_id": 203,
+            "document_count": 12,
+            "percentage": 2.47
+          },
+          {
+            "topic_id": 146,
+            "document_count": 11,
+            "percentage": 2.26
+          },
+          {
+            "topic_id": 144,
+            "document_count": 11,
+            "percentage": 2.26
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 603,
+        "topic_count": 44,
+        "top_topics": [
+          {
+            "topic_id": 35,
+            "document_count": 40,
+            "percentage": 6.63
+          },
+          {
+            "topic_id": 19,
+            "document_count": 35,
+            "percentage": 5.8
+          },
+          {
+            "topic_id": 0,
+            "document_count": 33,
+            "percentage": 5.47
+          },
+          {
+            "topic_id": 16,
+            "document_count": 28,
+            "percentage": 4.64
+          },
+          {
+            "topic_id": 32,
+            "document_count": 23,
+            "percentage": 3.81
+          },
+          {
+            "topic_id": 38,
+            "document_count": 18,
+            "percentage": 2.99
+          },
+          {
+            "topic_id": 4,
+            "document_count": 16,
+            "percentage": 2.65
+          },
+          {
+            "topic_id": 39,
+            "document_count": 15,
+            "percentage": 2.49
+          },
+          {
+            "topic_id": 11,
+            "document_count": 15,
+            "percentage": 2.49
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 2311,
+        "topic_count": 61,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 1045,
+            "percentage": 45.22
+          },
+          {
+            "topic_id": 9,
+            "document_count": 91,
+            "percentage": 3.94
+          },
+          {
+            "topic_id": 11,
+            "document_count": 74,
+            "percentage": 3.2
+          },
+          {
+            "topic_id": 0,
+            "document_count": 70,
+            "percentage": 3.03
+          },
+          {
+            "topic_id": 7,
+            "document_count": 67,
+            "percentage": 2.9
+          },
+          {
+            "topic_id": 20,
+            "document_count": 49,
+            "percentage": 2.12
+          },
+          {
+            "topic_id": 25,
+            "document_count": 47,
+            "percentage": 2.03
+          },
+          {
+            "topic_id": 1,
+            "document_count": 40,
+            "percentage": 1.73
+          },
+          {
+            "topic_id": 26,
+            "document_count": 31,
+            "percentage": 1.34
+          }
+        ]
+      }
+    },
+    "geographic_distribution": {
+      "Madrid": 1722,
+      "Barcelona": 965,
+      "Sevilla": 306,
+      "Mallorca": 131,
+      "Malaga": 126,
+      "Valencia": 65,
+      "Tenerife": 44,
+      "Gran Canaria": 41
+    },
+    "temporal_distribution": {
+      "2024.0": 1277,
+      "2025.0": 833,
+      "2023.0": 826,
+      "2022.0": 114,
+      "2026.0": 20,
+      "2018.0": 11,
+      "2019.0": 8,
+      "2021.0": 4,
+      "2020.0": 3
+    },
+    "category_distribution": {
+      "Tour": 1142,
+      "Desconocido": 723,
+      "Museo": 514,
+      "Playa": 481,
+      "Vida nocturna": 207
+    }
+  },
+  "nl": {
+    "total_documents": 2973,
+    "document_percentage": 0.35,
+    "unique_topics": 87,
+    "sentiment_breakdown": {
+      "negativo": {
+        "document_count": 451,
+        "topic_count": 38,
+        "top_topics": [
+          {
+            "topic_id": 1,
+            "document_count": 55,
+            "percentage": 12.2
+          },
+          {
+            "topic_id": 2,
+            "document_count": 35,
+            "percentage": 7.76
+          },
+          {
+            "topic_id": 81,
+            "document_count": 29,
+            "percentage": 6.43
+          },
+          {
+            "topic_id": 0,
+            "document_count": 26,
+            "percentage": 5.76
+          },
+          {
+            "topic_id": 113,
+            "document_count": 19,
+            "percentage": 4.21
+          },
+          {
+            "topic_id": 131,
+            "document_count": 17,
+            "percentage": 3.77
+          },
+          {
+            "topic_id": 107,
+            "document_count": 16,
+            "percentage": 3.55
+          },
+          {
+            "topic_id": 103,
+            "document_count": 15,
+            "percentage": 3.33
+          },
+          {
+            "topic_id": 69,
+            "document_count": 14,
+            "percentage": 3.1
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 431,
+        "topic_count": 44,
+        "top_topics": [
+          {
+            "topic_id": 35,
+            "document_count": 26,
+            "percentage": 6.03
+          },
+          {
+            "topic_id": 24,
+            "document_count": 25,
+            "percentage": 5.8
+          },
+          {
+            "topic_id": 20,
+            "document_count": 19,
+            "percentage": 4.41
+          },
+          {
+            "topic_id": 4,
+            "document_count": 16,
+            "percentage": 3.71
+          },
+          {
+            "topic_id": 21,
+            "document_count": 16,
+            "percentage": 3.71
+          },
+          {
+            "topic_id": 0,
+            "document_count": 15,
+            "percentage": 3.48
+          },
+          {
+            "topic_id": 40,
+            "document_count": 11,
+            "percentage": 2.55
+          },
+          {
+            "topic_id": 32,
+            "document_count": 10,
+            "percentage": 2.32
+          },
+          {
+            "topic_id": 22,
+            "document_count": 10,
+            "percentage": 2.32
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 2091,
+        "topic_count": 58,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 1306,
+            "percentage": 62.46
+          },
+          {
+            "topic_id": 9,
+            "document_count": 79,
+            "percentage": 3.78
+          },
+          {
+            "topic_id": 0,
+            "document_count": 51,
+            "percentage": 2.44
+          },
+          {
+            "topic_id": 25,
+            "document_count": 43,
+            "percentage": 2.06
+          },
+          {
+            "topic_id": 14,
+            "document_count": 42,
+            "percentage": 2.01
+          },
+          {
+            "topic_id": 1,
+            "document_count": 36,
+            "percentage": 1.72
+          },
+          {
+            "topic_id": 17,
+            "document_count": 32,
+            "percentage": 1.53
+          },
+          {
+            "topic_id": 12,
+            "document_count": 24,
+            "percentage": 1.15
+          },
+          {
+            "topic_id": 7,
+            "document_count": 22,
+            "percentage": 1.05
+          }
+        ]
+      }
+    },
+    "geographic_distribution": {
+      "Barcelona": 753,
+      "Madrid": 519,
+      "Malaga": 390,
+      "Sevilla": 383,
+      "Valencia": 350,
+      "Tenerife": 293,
+      "Gran Canaria": 200,
+      "Mallorca": 85
+    },
+    "temporal_distribution": {
+      "2024.0": 1165,
+      "2023.0": 760,
+      "2025.0": 628,
+      "2022.0": 161,
+      "2019.0": 68,
+      "2018.0": 33,
+      "2020.0": 23,
+      "2021.0": 21,
+      "2016.0": 1,
+      "2014.0": 1
+    },
+    "category_distribution": {
+      "Tour": 1318,
+      "Desconocido": 401,
+      "Playa": 338,
+      "Vida nocturna": 258,
+      "Hotel": 202
+    }
+  },
+  "pl": {
+    "total_documents": 1419,
+    "document_percentage": 0.17,
+    "unique_topics": 75,
+    "sentiment_breakdown": {
+      "negativo": {
+        "document_count": 156,
+        "topic_count": 31,
+        "top_topics": [
+          {
+            "topic_id": 0,
+            "document_count": 13,
+            "percentage": 8.33
+          },
+          {
+            "topic_id": 2,
+            "document_count": 11,
+            "percentage": 7.05
+          },
+          {
+            "topic_id": 1,
+            "document_count": 10,
+            "percentage": 6.41
+          },
+          {
+            "topic_id": 113,
+            "document_count": 7,
+            "percentage": 4.49
+          },
+          {
+            "topic_id": 131,
+            "document_count": 6,
+            "percentage": 3.85
+          },
+          {
+            "topic_id": 39,
+            "document_count": 6,
+            "percentage": 3.85
+          },
+          {
+            "topic_id": 37,
+            "document_count": 5,
+            "percentage": 3.21
+          },
+          {
+            "topic_id": 112,
+            "document_count": 5,
+            "percentage": 3.21
+          },
+          {
+            "topic_id": 144,
+            "document_count": 4,
+            "percentage": 2.56
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 133,
+        "topic_count": 31,
+        "top_topics": [
+          {
+            "topic_id": 46,
+            "document_count": 13,
+            "percentage": 9.77
+          },
+          {
+            "topic_id": 35,
+            "document_count": 11,
+            "percentage": 8.27
+          },
+          {
+            "topic_id": 14,
+            "document_count": 6,
+            "percentage": 4.51
+          },
+          {
+            "topic_id": 21,
+            "document_count": 6,
+            "percentage": 4.51
+          },
+          {
+            "topic_id": 23,
+            "document_count": 5,
+            "percentage": 3.76
+          },
+          {
+            "topic_id": 0,
+            "document_count": 5,
+            "percentage": 3.76
+          },
+          {
+            "topic_id": 24,
+            "document_count": 5,
+            "percentage": 3.76
+          },
+          {
+            "topic_id": 19,
+            "document_count": 4,
+            "percentage": 3.01
+          },
+          {
+            "topic_id": 28,
+            "document_count": 4,
+            "percentage": 3.01
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 1130,
+        "topic_count": 50,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 745,
+            "percentage": 65.93
+          },
+          {
+            "topic_id": 0,
+            "document_count": 32,
+            "percentage": 2.83
+          },
+          {
+            "topic_id": 9,
+            "document_count": 29,
+            "percentage": 2.57
+          },
+          {
+            "topic_id": 1,
+            "document_count": 25,
+            "percentage": 2.21
+          },
+          {
+            "topic_id": 7,
+            "document_count": 21,
+            "percentage": 1.86
+          },
+          {
+            "topic_id": 25,
+            "document_count": 19,
+            "percentage": 1.68
+          },
+          {
+            "topic_id": 12,
+            "document_count": 16,
+            "percentage": 1.42
+          },
+          {
+            "topic_id": 23,
+            "document_count": 16,
+            "percentage": 1.42
+          },
+          {
+            "topic_id": 26,
+            "document_count": 12,
+            "percentage": 1.06
+          }
+        ]
+      }
+    },
+    "geographic_distribution": {
+      "Barcelona": 676,
+      "Malaga": 256,
+      "Madrid": 193,
+      "Tenerife": 125,
+      "Valencia": 55,
+      "Sevilla": 43,
+      "Gran Canaria": 43,
+      "Mallorca": 28
+    },
+    "temporal_distribution": {
+      "2024.0": 635,
+      "2025.0": 507,
+      "2023.0": 224,
+      "2022.0": 14,
+      "2021.0": 6,
+      "2020.0": 3
+    },
+    "category_distribution": {
+      "Tour": 422,
+      "Vida nocturna": 301,
+      "Desconocido": 190,
+      "Playa": 146,
+      "Museo": 97
+    }
+  },
+  "ko": {
+    "total_documents": 580,
+    "document_percentage": 0.07,
+    "unique_topics": 31,
+    "sentiment_breakdown": {
+      "negativo": {
+        "document_count": 38,
+        "topic_count": 12,
+        "top_topics": [
+          {
+            "topic_id": 2,
+            "document_count": 11,
+            "percentage": 28.95
+          },
+          {
+            "topic_id": 0,
+            "document_count": 4,
+            "percentage": 10.53
+          },
+          {
+            "topic_id": 115,
+            "document_count": 3,
+            "percentage": 7.89
+          },
+          {
+            "topic_id": 137,
+            "document_count": 2,
+            "percentage": 5.26
+          },
+          {
+            "topic_id": 1,
+            "document_count": 2,
+            "percentage": 5.26
+          },
+          {
+            "topic_id": 22,
+            "document_count": 1,
+            "percentage": 2.63
+          },
+          {
+            "topic_id": 112,
+            "document_count": 1,
+            "percentage": 2.63
+          },
+          {
+            "topic_id": 162,
+            "document_count": 1,
+            "percentage": 2.63
+          },
+          {
+            "topic_id": 39,
+            "document_count": 1,
+            "percentage": 2.63
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 56,
+        "topic_count": 13,
+        "top_topics": [
+          {
+            "topic_id": 35,
+            "document_count": 11,
+            "percentage": 19.64
+          },
+          {
+            "topic_id": 6,
+            "document_count": 4,
+            "percentage": 7.14
+          },
+          {
+            "topic_id": 2,
+            "document_count": 3,
+            "percentage": 5.36
+          },
+          {
+            "topic_id": 0,
+            "document_count": 2,
+            "percentage": 3.57
+          },
+          {
+            "topic_id": 22,
+            "document_count": 2,
+            "percentage": 3.57
+          },
+          {
+            "topic_id": 32,
+            "document_count": 2,
+            "percentage": 3.57
+          },
+          {
+            "topic_id": 44,
+            "document_count": 2,
+            "percentage": 3.57
+          },
+          {
+            "topic_id": 39,
+            "document_count": 1,
+            "percentage": 1.79
+          },
+          {
+            "topic_id": 33,
+            "document_count": 1,
+            "percentage": 1.79
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 486,
+        "topic_count": 14,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 434,
+            "percentage": 89.3
+          },
+          {
+            "topic_id": 0,
+            "document_count": 15,
+            "percentage": 3.09
+          },
+          {
+            "topic_id": 9,
+            "document_count": 8,
+            "percentage": 1.65
+          },
+          {
+            "topic_id": 24,
+            "document_count": 6,
+            "percentage": 1.23
+          },
+          {
+            "topic_id": 6,
+            "document_count": 2,
+            "percentage": 0.41
+          },
+          {
+            "topic_id": 25,
+            "document_count": 2,
+            "percentage": 0.41
+          },
+          {
+            "topic_id": 7,
+            "document_count": 2,
+            "percentage": 0.41
+          },
+          {
+            "topic_id": 48,
+            "document_count": 2,
+            "percentage": 0.41
+          },
+          {
+            "topic_id": 10,
+            "document_count": 2,
+            "percentage": 0.41
+          }
+        ]
+      }
+    },
+    "geographic_distribution": {
+      "Barcelona": 517,
+      "Madrid": 44,
+      "Sevilla": 9,
+      "Malaga": 6,
+      "Mallorca": 2,
+      "Valencia": 1,
+      "Gran Canaria": 1
+    },
+    "temporal_distribution": {
+      "2023.0": 422,
+      "2022.0": 101,
+      "2024.0": 32,
+      "2025.0": 25
+    },
+    "category_distribution": {
+      "Desconocido": 458,
+      "Vida nocturna": 40,
+      "Tour": 37,
+      "Museo": 35,
+      "Playa": 6
+    }
+  },
+  "ro": {
+    "total_documents": 487,
+    "document_percentage": 0.06,
+    "unique_topics": 58,
+    "sentiment_breakdown": {
+      "negativo": {
+        "document_count": 77,
+        "topic_count": 21,
+        "top_topics": [
+          {
+            "topic_id": 146,
+            "document_count": 8,
+            "percentage": 10.39
+          },
+          {
+            "topic_id": 125,
+            "document_count": 8,
+            "percentage": 10.39
+          },
+          {
+            "topic_id": 1,
+            "document_count": 7,
+            "percentage": 9.09
+          },
+          {
+            "topic_id": 139,
+            "document_count": 6,
+            "percentage": 7.79
+          },
+          {
+            "topic_id": 2,
+            "document_count": 5,
+            "percentage": 6.49
+          },
+          {
+            "topic_id": 0,
+            "document_count": 4,
+            "percentage": 5.19
+          },
+          {
+            "topic_id": 182,
+            "document_count": 3,
+            "percentage": 3.9
+          },
+          {
+            "topic_id": 53,
+            "document_count": 3,
+            "percentage": 3.9
+          },
+          {
+            "topic_id": 131,
+            "document_count": 3,
+            "percentage": 3.9
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 56,
+        "topic_count": 17,
+        "top_topics": [
+          {
+            "topic_id": 19,
+            "document_count": 4,
+            "percentage": 7.14
+          },
+          {
+            "topic_id": 15,
+            "document_count": 3,
+            "percentage": 5.36
+          },
+          {
+            "topic_id": 22,
+            "document_count": 3,
+            "percentage": 5.36
+          },
+          {
+            "topic_id": 25,
+            "document_count": 3,
+            "percentage": 5.36
+          },
+          {
+            "topic_id": 35,
+            "document_count": 3,
+            "percentage": 5.36
+          },
+          {
+            "topic_id": 45,
+            "document_count": 3,
+            "percentage": 5.36
+          },
+          {
+            "topic_id": 39,
+            "document_count": 2,
+            "percentage": 3.57
+          },
+          {
+            "topic_id": 24,
+            "document_count": 1,
+            "percentage": 1.79
+          },
+          {
+            "topic_id": 8,
+            "document_count": 1,
+            "percentage": 1.79
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 354,
+        "topic_count": 36,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 208,
+            "percentage": 58.76
+          },
+          {
+            "topic_id": 2,
+            "document_count": 15,
+            "percentage": 4.24
+          },
+          {
+            "topic_id": 9,
+            "document_count": 12,
+            "percentage": 3.39
+          },
+          {
+            "topic_id": 25,
+            "document_count": 10,
+            "percentage": 2.82
+          },
+          {
+            "topic_id": 0,
+            "document_count": 7,
+            "percentage": 1.98
+          },
+          {
+            "topic_id": 1,
+            "document_count": 7,
+            "percentage": 1.98
+          },
+          {
+            "topic_id": 15,
+            "document_count": 7,
+            "percentage": 1.98
+          },
+          {
+            "topic_id": 12,
+            "document_count": 5,
+            "percentage": 1.41
+          },
+          {
+            "topic_id": 30,
+            "document_count": 5,
+            "percentage": 1.41
+          }
+        ]
+      }
+    },
+    "geographic_distribution": {
+      "Barcelona": 204,
+      "Madrid": 138,
+      "Tenerife": 51,
+      "Malaga": 37,
+      "Sevilla": 26,
+      "Valencia": 15,
+      "Mallorca": 14,
+      "Gran Canaria": 2
+    },
+    "temporal_distribution": {
+      "2024.0": 181,
+      "2025.0": 154,
+      "2023.0": 113,
+      "2022.0": 4
+    },
+    "category_distribution": {
+      "Tour": 142,
+      "Desconocido": 88,
+      "Playa": 74,
+      "Vida nocturna": 67,
+      "Museo": 38
+    }
+  },
+  "ru": {
+    "total_documents": 415,
+    "document_percentage": 0.05,
+    "unique_topics": 47,
+    "sentiment_breakdown": {
+      "negativo": {
+        "document_count": 44,
+        "topic_count": 9,
+        "top_topics": [
+          {
+            "topic_id": 0,
+            "document_count": 8,
+            "percentage": 18.18
+          },
+          {
+            "topic_id": 1,
+            "document_count": 7,
+            "percentage": 15.91
+          },
+          {
+            "topic_id": 2,
+            "document_count": 6,
+            "percentage": 13.64
+          },
+          {
+            "topic_id": 154,
+            "document_count": 3,
+            "percentage": 6.82
+          },
+          {
+            "topic_id": 113,
+            "document_count": 3,
+            "percentage": 6.82
+          },
+          {
+            "topic_id": 107,
+            "document_count": 2,
+            "percentage": 4.55
+          },
+          {
+            "topic_id": 103,
+            "document_count": 2,
+            "percentage": 4.55
+          },
+          {
+            "topic_id": 150,
+            "document_count": 1,
+            "percentage": 2.27
+          },
+          {
+            "topic_id": 81,
+            "document_count": 1,
+            "percentage": 2.27
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 72,
+        "topic_count": 22,
+        "top_topics": [
+          {
+            "topic_id": 20,
+            "document_count": 8,
+            "percentage": 11.11
+          },
+          {
+            "topic_id": 35,
+            "document_count": 4,
+            "percentage": 5.56
+          },
+          {
+            "topic_id": 28,
+            "document_count": 3,
+            "percentage": 4.17
+          },
+          {
+            "topic_id": 43,
+            "document_count": 3,
+            "percentage": 4.17
+          },
+          {
+            "topic_id": 29,
+            "document_count": 3,
+            "percentage": 4.17
+          },
+          {
+            "topic_id": 45,
+            "document_count": 3,
+            "percentage": 4.17
+          },
+          {
+            "topic_id": 2,
+            "document_count": 2,
+            "percentage": 2.78
+          },
+          {
+            "topic_id": 9,
+            "document_count": 2,
+            "percentage": 2.78
+          },
+          {
+            "topic_id": 10,
+            "document_count": 2,
+            "percentage": 2.78
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 299,
+        "topic_count": 34,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 189,
+            "percentage": 63.21
+          },
+          {
+            "topic_id": 9,
+            "document_count": 14,
+            "percentage": 4.68
+          },
+          {
+            "topic_id": 7,
+            "document_count": 6,
+            "percentage": 2.01
+          },
+          {
+            "topic_id": 1,
+            "document_count": 5,
+            "percentage": 1.67
+          },
+          {
+            "topic_id": 3,
+            "document_count": 4,
+            "percentage": 1.34
+          },
+          {
+            "topic_id": 0,
+            "document_count": 4,
+            "percentage": 1.34
+          },
+          {
+            "topic_id": 44,
+            "document_count": 3,
+            "percentage": 1.0
+          },
+          {
+            "topic_id": 29,
+            "document_count": 3,
+            "percentage": 1.0
+          },
+          {
+            "topic_id": 78,
+            "document_count": 3,
+            "percentage": 1.0
+          }
+        ]
+      }
+    },
+    "geographic_distribution": {
+      "Barcelona": 169,
+      "Madrid": 84,
+      "Tenerife": 71,
+      "Malaga": 42,
+      "Mallorca": 23,
+      "Gran Canaria": 10,
+      "Sevilla": 8,
+      "Valencia": 8
+    },
+    "temporal_distribution": {
+      "2024.0": 189,
+      "2025.0": 128,
+      "2023.0": 94,
+      "2022.0": 2
+    },
+    "category_distribution": {
+      "Tour": 147,
+      "Desconocido": 87,
+      "Vida nocturna": 56,
+      "Playa": 35,
+      "Museo": 32
+    }
+  },
+  "sv": {
+    "total_documents": 410,
+    "document_percentage": 0.05,
+    "unique_topics": 54,
+    "sentiment_breakdown": {
+      "negativo": {
+        "document_count": 87,
+        "topic_count": 22,
+        "top_topics": [
+          {
+            "topic_id": 1,
+            "document_count": 10,
+            "percentage": 11.49
+          },
+          {
+            "topic_id": 81,
+            "document_count": 6,
+            "percentage": 6.9
+          },
+          {
+            "topic_id": 2,
+            "document_count": 6,
+            "percentage": 6.9
+          },
+          {
+            "topic_id": 0,
+            "document_count": 5,
+            "percentage": 5.75
+          },
+          {
+            "topic_id": 115,
+            "document_count": 4,
+            "percentage": 4.6
+          },
+          {
+            "topic_id": 125,
+            "document_count": 4,
+            "percentage": 4.6
+          },
+          {
+            "topic_id": 130,
+            "document_count": 4,
+            "percentage": 4.6
+          },
+          {
+            "topic_id": 107,
+            "document_count": 3,
+            "percentage": 3.45
+          },
+          {
+            "topic_id": 14,
+            "document_count": 3,
+            "percentage": 3.45
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 66,
+        "topic_count": 19,
+        "top_topics": [
+          {
+            "topic_id": 35,
+            "document_count": 6,
+            "percentage": 9.09
+          },
+          {
+            "topic_id": 23,
+            "document_count": 5,
+            "percentage": 7.58
+          },
+          {
+            "topic_id": 24,
+            "document_count": 4,
+            "percentage": 6.06
+          },
+          {
+            "topic_id": 31,
+            "document_count": 3,
+            "percentage": 4.55
+          },
+          {
+            "topic_id": 42,
+            "document_count": 3,
+            "percentage": 4.55
+          },
+          {
+            "topic_id": 20,
+            "document_count": 3,
+            "percentage": 4.55
+          },
+          {
+            "topic_id": 19,
+            "document_count": 3,
+            "percentage": 4.55
+          },
+          {
+            "topic_id": 17,
+            "document_count": 2,
+            "percentage": 3.03
+          },
+          {
+            "topic_id": 0,
+            "document_count": 2,
+            "percentage": 3.03
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 257,
+        "topic_count": 25,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 167,
+            "percentage": 64.98
+          },
+          {
+            "topic_id": 9,
+            "document_count": 12,
+            "percentage": 4.67
+          },
+          {
+            "topic_id": 14,
+            "document_count": 9,
+            "percentage": 3.5
+          },
+          {
+            "topic_id": 3,
+            "document_count": 5,
+            "percentage": 1.95
+          },
+          {
+            "topic_id": 10,
+            "document_count": 4,
+            "percentage": 1.56
+          },
+          {
+            "topic_id": 0,
+            "document_count": 3,
+            "percentage": 1.17
+          },
+          {
+            "topic_id": 1,
+            "document_count": 3,
+            "percentage": 1.17
+          },
+          {
+            "topic_id": 44,
+            "document_count": 2,
+            "percentage": 0.78
+          },
+          {
+            "topic_id": 51,
+            "document_count": 2,
+            "percentage": 0.78
+          }
+        ]
+      }
+    },
+    "geographic_distribution": {
+      "Barcelona": 128,
+      "Malaga": 91,
+      "Madrid": 82,
+      "Gran Canaria": 47,
+      "Sevilla": 22,
+      "Tenerife": 17,
+      "Mallorca": 16,
+      "Valencia": 7
+    },
+    "temporal_distribution": {
+      "2024.0": 156,
+      "2023.0": 93,
+      "2025.0": 93,
+      "2022.0": 23,
+      "2019.0": 16,
+      "2020.0": 15,
+      "2021.0": 2,
+      "2018.0": 1
+    },
+    "category_distribution": {
+      "Tour": 186,
+      "Desconocido": 44,
+      "Hotel": 44,
+      "Playa": 39,
+      "Vida nocturna": 30
+    }
+  },
+  "hu": {
+    "total_documents": 404,
+    "document_percentage": 0.05,
+    "unique_topics": 46,
+    "sentiment_breakdown": {
+      "negativo": {
+        "document_count": 38,
+        "topic_count": 16,
+        "top_topics": [
+          {
+            "topic_id": 2,
+            "document_count": 5,
+            "percentage": 13.16
+          },
+          {
+            "topic_id": 1,
+            "document_count": 3,
+            "percentage": 7.89
+          },
+          {
+            "topic_id": 53,
+            "document_count": 3,
+            "percentage": 7.89
+          },
+          {
+            "topic_id": 39,
+            "document_count": 2,
+            "percentage": 5.26
+          },
+          {
+            "topic_id": 144,
+            "document_count": 2,
+            "percentage": 5.26
+          },
+          {
+            "topic_id": 107,
+            "document_count": 2,
+            "percentage": 5.26
+          },
+          {
+            "topic_id": 113,
+            "document_count": 2,
+            "percentage": 5.26
+          },
+          {
+            "topic_id": 125,
+            "document_count": 2,
+            "percentage": 5.26
+          },
+          {
+            "topic_id": 112,
+            "document_count": 1,
+            "percentage": 2.63
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 54,
+        "topic_count": 18,
+        "top_topics": [
+          {
+            "topic_id": 19,
+            "document_count": 4,
+            "percentage": 7.41
+          },
+          {
+            "topic_id": 8,
+            "document_count": 4,
+            "percentage": 7.41
+          },
+          {
+            "topic_id": 35,
+            "document_count": 3,
+            "percentage": 5.56
+          },
+          {
+            "topic_id": 7,
+            "document_count": 3,
+            "percentage": 5.56
+          },
+          {
+            "topic_id": 16,
+            "document_count": 3,
+            "percentage": 5.56
+          },
+          {
+            "topic_id": 21,
+            "document_count": 3,
+            "percentage": 5.56
+          },
+          {
+            "topic_id": 0,
+            "document_count": 3,
+            "percentage": 5.56
+          },
+          {
+            "topic_id": 45,
+            "document_count": 2,
+            "percentage": 3.7
+          },
+          {
+            "topic_id": 20,
+            "document_count": 2,
+            "percentage": 3.7
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 312,
+        "topic_count": 23,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 206,
+            "percentage": 66.03
+          },
+          {
+            "topic_id": 9,
+            "document_count": 17,
+            "percentage": 5.45
+          },
+          {
+            "topic_id": 1,
+            "document_count": 13,
+            "percentage": 4.17
+          },
+          {
+            "topic_id": 0,
+            "document_count": 6,
+            "percentage": 1.92
+          },
+          {
+            "topic_id": 7,
+            "document_count": 5,
+            "percentage": 1.6
+          },
+          {
+            "topic_id": 25,
+            "document_count": 5,
+            "percentage": 1.6
+          },
+          {
+            "topic_id": 65,
+            "document_count": 4,
+            "percentage": 1.28
+          },
+          {
+            "topic_id": 56,
+            "document_count": 3,
+            "percentage": 0.96
+          },
+          {
+            "topic_id": 27,
+            "document_count": 3,
+            "percentage": 0.96
+          }
+        ]
+      }
+    },
+    "geographic_distribution": {
+      "Barcelona": 166,
+      "Tenerife": 82,
+      "Madrid": 71,
+      "Malaga": 34,
+      "Gran Canaria": 16,
+      "Sevilla": 15,
+      "Valencia": 11,
+      "Mallorca": 9
+    },
+    "temporal_distribution": {
+      "2024.0": 169,
+      "2025.0": 127,
+      "2023.0": 65,
+      "2022.0": 21,
+      "2021.0": 1
+    },
+    "category_distribution": {
+      "Tour": 124,
+      "Desconocido": 89,
+      "Vida nocturna": 52,
+      "Museo": 49,
+      "Playa": 47
+    }
+  },
+  "cs": {
+    "total_documents": 359,
+    "document_percentage": 0.04,
+    "unique_topics": 48,
+    "sentiment_breakdown": {
+      "negativo": {
+        "document_count": 67,
+        "topic_count": 19,
+        "top_topics": [
+          {
+            "topic_id": 1,
+            "document_count": 11,
+            "percentage": 16.42
+          },
+          {
+            "topic_id": 2,
+            "document_count": 7,
+            "percentage": 10.45
+          },
+          {
+            "topic_id": 37,
+            "document_count": 5,
+            "percentage": 7.46
+          },
+          {
+            "topic_id": 107,
+            "document_count": 4,
+            "percentage": 5.97
+          },
+          {
+            "topic_id": 154,
+            "document_count": 3,
+            "percentage": 4.48
+          },
+          {
+            "topic_id": 82,
+            "document_count": 3,
+            "percentage": 4.48
+          },
+          {
+            "topic_id": 209,
+            "document_count": 3,
+            "percentage": 4.48
+          },
+          {
+            "topic_id": 139,
+            "document_count": 3,
+            "percentage": 4.48
+          },
+          {
+            "topic_id": 0,
+            "document_count": 2,
+            "percentage": 2.99
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 60,
+        "topic_count": 19,
+        "top_topics": [
+          {
+            "topic_id": 20,
+            "document_count": 5,
+            "percentage": 8.33
+          },
+          {
+            "topic_id": 0,
+            "document_count": 4,
+            "percentage": 6.67
+          },
+          {
+            "topic_id": 39,
+            "document_count": 4,
+            "percentage": 6.67
+          },
+          {
+            "topic_id": 24,
+            "document_count": 3,
+            "percentage": 5.0
+          },
+          {
+            "topic_id": 2,
+            "document_count": 3,
+            "percentage": 5.0
+          },
+          {
+            "topic_id": 35,
+            "document_count": 3,
+            "percentage": 5.0
+          },
+          {
+            "topic_id": 13,
+            "document_count": 3,
+            "percentage": 5.0
+          },
+          {
+            "topic_id": 15,
+            "document_count": 3,
+            "percentage": 5.0
+          },
+          {
+            "topic_id": 9,
+            "document_count": 2,
+            "percentage": 3.33
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 232,
+        "topic_count": 23,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 138,
+            "percentage": 59.48
+          },
+          {
+            "topic_id": 0,
+            "document_count": 13,
+            "percentage": 5.6
+          },
+          {
+            "topic_id": 9,
+            "document_count": 9,
+            "percentage": 3.88
+          },
+          {
+            "topic_id": 4,
+            "document_count": 8,
+            "percentage": 3.45
+          },
+          {
+            "topic_id": 1,
+            "document_count": 7,
+            "percentage": 3.02
+          },
+          {
+            "topic_id": 24,
+            "document_count": 5,
+            "percentage": 2.16
+          },
+          {
+            "topic_id": 33,
+            "document_count": 5,
+            "percentage": 2.16
+          },
+          {
+            "topic_id": 75,
+            "document_count": 4,
+            "percentage": 1.72
+          },
+          {
+            "topic_id": 3,
+            "document_count": 4,
+            "percentage": 1.72
+          }
+        ]
+      }
+    },
+    "geographic_distribution": {
+      "Barcelona": 171,
+      "Madrid": 60,
+      "Malaga": 58,
+      "Tenerife": 36,
+      "Mallorca": 17,
+      "Sevilla": 9,
+      "Valencia": 6,
+      "Gran Canaria": 2
+    },
+    "temporal_distribution": {
+      "2024.0": 158,
+      "2025.0": 100,
+      "2023.0": 93,
+      "2022.0": 2,
+      "2021.0": 1,
+      "2019.0": 1
+    },
+    "category_distribution": {
+      "Tour": 100,
+      "Desconocido": 83,
+      "Vida nocturna": 64,
+      "Museo": 38,
+      "Playa": 31
+    }
+  },
+  "da": {
+    "total_documents": 338,
+    "document_percentage": 0.04,
+    "unique_topics": 52,
+    "sentiment_breakdown": {
+      "negativo": {
+        "document_count": 66,
+        "topic_count": 23,
+        "top_topics": [
+          {
+            "topic_id": 1,
+            "document_count": 8,
+            "percentage": 12.12
+          },
+          {
+            "topic_id": 22,
+            "document_count": 6,
+            "percentage": 9.09
+          },
+          {
+            "topic_id": 14,
+            "document_count": 4,
+            "percentage": 6.06
+          },
+          {
+            "topic_id": 113,
+            "document_count": 4,
+            "percentage": 6.06
+          },
+          {
+            "topic_id": 115,
+            "document_count": 4,
+            "percentage": 6.06
+          },
+          {
+            "topic_id": 131,
+            "document_count": 3,
+            "percentage": 4.55
+          },
+          {
+            "topic_id": 17,
+            "document_count": 3,
+            "percentage": 4.55
+          },
+          {
+            "topic_id": 182,
+            "document_count": 3,
+            "percentage": 4.55
+          },
+          {
+            "topic_id": 24,
+            "document_count": 3,
+            "percentage": 4.55
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 54,
+        "topic_count": 19,
+        "top_topics": [
+          {
+            "topic_id": 3,
+            "document_count": 8,
+            "percentage": 14.81
+          },
+          {
+            "topic_id": 31,
+            "document_count": 4,
+            "percentage": 7.41
+          },
+          {
+            "topic_id": 33,
+            "document_count": 3,
+            "percentage": 5.56
+          },
+          {
+            "topic_id": 20,
+            "document_count": 3,
+            "percentage": 5.56
+          },
+          {
+            "topic_id": 2,
+            "document_count": 3,
+            "percentage": 5.56
+          },
+          {
+            "topic_id": 18,
+            "document_count": 2,
+            "percentage": 3.7
+          },
+          {
+            "topic_id": 9,
+            "document_count": 2,
+            "percentage": 3.7
+          },
+          {
+            "topic_id": 24,
+            "document_count": 2,
+            "percentage": 3.7
+          },
+          {
+            "topic_id": 28,
+            "document_count": 2,
+            "percentage": 3.7
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 218,
+        "topic_count": 26,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 139,
+            "percentage": 63.76
+          },
+          {
+            "topic_id": 9,
+            "document_count": 10,
+            "percentage": 4.59
+          },
+          {
+            "topic_id": 31,
+            "document_count": 8,
+            "percentage": 3.67
+          },
+          {
+            "topic_id": 1,
+            "document_count": 5,
+            "percentage": 2.29
+          },
+          {
+            "topic_id": 3,
+            "document_count": 4,
+            "percentage": 1.83
+          },
+          {
+            "topic_id": 25,
+            "document_count": 4,
+            "percentage": 1.83
+          },
+          {
+            "topic_id": 0,
+            "document_count": 3,
+            "percentage": 1.38
+          },
+          {
+            "topic_id": 18,
+            "document_count": 3,
+            "percentage": 1.38
+          },
+          {
+            "topic_id": 14,
+            "document_count": 3,
+            "percentage": 1.38
+          }
+        ]
+      }
+    },
+    "geographic_distribution": {
+      "Barcelona": 126,
+      "Madrid": 69,
+      "Malaga": 44,
+      "Tenerife": 35,
+      "Gran Canaria": 23,
+      "Mallorca": 20,
+      "Sevilla": 13,
+      "Valencia": 8
+    },
+    "temporal_distribution": {
+      "2024.0": 152,
+      "2023.0": 100,
+      "2025.0": 58,
+      "2022.0": 10,
+      "2021.0": 6,
+      "2019.0": 3,
+      "2018.0": 2,
+      "2020.0": 1,
+      "2017.0": 1
+    },
+    "category_distribution": {
+      "Tour": 136,
+      "Playa": 42,
+      "Vida nocturna": 39,
+      "Desconocido": 38,
+      "Museo": 36
+    }
+  },
+  "no": {
+    "total_documents": 277,
+    "document_percentage": 0.03,
+    "unique_topics": 46,
+    "sentiment_breakdown": {
+      "negativo": {
+        "document_count": 50,
+        "topic_count": 17,
+        "top_topics": [
+          {
+            "topic_id": 1,
+            "document_count": 6,
+            "percentage": 12.0
+          },
+          {
+            "topic_id": 81,
+            "document_count": 5,
+            "percentage": 10.0
+          },
+          {
+            "topic_id": 107,
+            "document_count": 4,
+            "percentage": 8.0
+          },
+          {
+            "topic_id": 17,
+            "document_count": 3,
+            "percentage": 6.0
+          },
+          {
+            "topic_id": 115,
+            "document_count": 3,
+            "percentage": 6.0
+          },
+          {
+            "topic_id": 0,
+            "document_count": 3,
+            "percentage": 6.0
+          },
+          {
+            "topic_id": 94,
+            "document_count": 3,
+            "percentage": 6.0
+          },
+          {
+            "topic_id": 130,
+            "document_count": 2,
+            "percentage": 4.0
+          },
+          {
+            "topic_id": 103,
+            "document_count": 2,
+            "percentage": 4.0
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 46,
+        "topic_count": 12,
+        "top_topics": [
+          {
+            "topic_id": 19,
+            "document_count": 7,
+            "percentage": 15.22
+          },
+          {
+            "topic_id": 13,
+            "document_count": 3,
+            "percentage": 6.52
+          },
+          {
+            "topic_id": 0,
+            "document_count": 2,
+            "percentage": 4.35
+          },
+          {
+            "topic_id": 23,
+            "document_count": 2,
+            "percentage": 4.35
+          },
+          {
+            "topic_id": 31,
+            "document_count": 2,
+            "percentage": 4.35
+          },
+          {
+            "topic_id": 46,
+            "document_count": 1,
+            "percentage": 2.17
+          },
+          {
+            "topic_id": 32,
+            "document_count": 1,
+            "percentage": 2.17
+          },
+          {
+            "topic_id": 28,
+            "document_count": 1,
+            "percentage": 2.17
+          },
+          {
+            "topic_id": 25,
+            "document_count": 1,
+            "percentage": 2.17
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 181,
+        "topic_count": 26,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 108,
+            "percentage": 59.67
+          },
+          {
+            "topic_id": 9,
+            "document_count": 9,
+            "percentage": 4.97
+          },
+          {
+            "topic_id": 0,
+            "document_count": 5,
+            "percentage": 2.76
+          },
+          {
+            "topic_id": 25,
+            "document_count": 4,
+            "percentage": 2.21
+          },
+          {
+            "topic_id": 21,
+            "document_count": 4,
+            "percentage": 2.21
+          },
+          {
+            "topic_id": 13,
+            "document_count": 3,
+            "percentage": 1.66
+          },
+          {
+            "topic_id": 12,
+            "document_count": 3,
+            "percentage": 1.66
+          },
+          {
+            "topic_id": 2,
+            "document_count": 3,
+            "percentage": 1.66
+          },
+          {
+            "topic_id": 10,
+            "document_count": 2,
+            "percentage": 1.1
+          }
+        ]
+      }
+    },
+    "geographic_distribution": {
+      "Barcelona": 81,
+      "Madrid": 51,
+      "Malaga": 46,
+      "Tenerife": 43,
+      "Gran Canaria": 22,
+      "Mallorca": 20,
+      "Sevilla": 11,
+      "Valencia": 3
+    },
+    "temporal_distribution": {
+      "2024.0": 109,
+      "2023.0": 70,
+      "2025.0": 63,
+      "2022.0": 17,
+      "2021.0": 3,
+      "2014.0": 1,
+      "2017.0": 1,
+      "2019.0": 1
+    },
+    "category_distribution": {
+      "Tour": 79,
+      "Desconocido": 55,
+      "Hotel": 55,
+      "Playa": 25,
+      "Museo": 20
+    }
+  },
+  "el": {
+    "total_documents": 234,
+    "document_percentage": 0.03,
+    "unique_topics": 41,
+    "sentiment_breakdown": {
+      "negativo": {
+        "document_count": 43,
+        "topic_count": 16,
+        "top_topics": [
+          {
+            "topic_id": 2,
+            "document_count": 3,
+            "percentage": 6.98
+          },
+          {
+            "topic_id": 14,
+            "document_count": 3,
+            "percentage": 6.98
+          },
+          {
+            "topic_id": 77,
+            "document_count": 3,
+            "percentage": 6.98
+          },
+          {
+            "topic_id": 139,
+            "document_count": 3,
+            "percentage": 6.98
+          },
+          {
+            "topic_id": 53,
+            "document_count": 3,
+            "percentage": 6.98
+          },
+          {
+            "topic_id": 103,
+            "document_count": 2,
+            "percentage": 4.65
+          },
+          {
+            "topic_id": 130,
+            "document_count": 2,
+            "percentage": 4.65
+          },
+          {
+            "topic_id": 121,
+            "document_count": 2,
+            "percentage": 4.65
+          },
+          {
+            "topic_id": 0,
+            "document_count": 2,
+            "percentage": 4.65
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 47,
+        "topic_count": 15,
+        "top_topics": [
+          {
+            "topic_id": 16,
+            "document_count": 6,
+            "percentage": 12.77
+          },
+          {
+            "topic_id": 40,
+            "document_count": 4,
+            "percentage": 8.51
+          },
+          {
+            "topic_id": 35,
+            "document_count": 4,
+            "percentage": 8.51
+          },
+          {
+            "topic_id": 32,
+            "document_count": 3,
+            "percentage": 6.38
+          },
+          {
+            "topic_id": 46,
+            "document_count": 2,
+            "percentage": 4.26
+          },
+          {
+            "topic_id": 20,
+            "document_count": 2,
+            "percentage": 4.26
+          },
+          {
+            "topic_id": 26,
+            "document_count": 2,
+            "percentage": 4.26
+          },
+          {
+            "topic_id": 8,
+            "document_count": 2,
+            "percentage": 4.26
+          },
+          {
+            "topic_id": 44,
+            "document_count": 2,
+            "percentage": 4.26
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 144,
+        "topic_count": 17,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 80,
+            "percentage": 55.56
+          },
+          {
+            "topic_id": 9,
+            "document_count": 9,
+            "percentage": 6.25
+          },
+          {
+            "topic_id": 25,
+            "document_count": 8,
+            "percentage": 5.56
+          },
+          {
+            "topic_id": 38,
+            "document_count": 4,
+            "percentage": 2.78
+          },
+          {
+            "topic_id": 1,
+            "document_count": 3,
+            "percentage": 2.08
+          },
+          {
+            "topic_id": 6,
+            "document_count": 3,
+            "percentage": 2.08
+          },
+          {
+            "topic_id": 64,
+            "document_count": 2,
+            "percentage": 1.39
+          },
+          {
+            "topic_id": 50,
+            "document_count": 2,
+            "percentage": 1.39
+          },
+          {
+            "topic_id": 30,
+            "document_count": 2,
+            "percentage": 1.39
+          }
+        ]
+      }
+    },
+    "geographic_distribution": {
+      "Barcelona": 108,
+      "Madrid": 107,
+      "Sevilla": 7,
+      "Mallorca": 4,
+      "Tenerife": 4,
+      "Malaga": 3,
+      "Gran Canaria": 1
+    },
+    "temporal_distribution": {
+      "2024.0": 113,
+      "2025.0": 77,
+      "2023.0": 36,
+      "2022.0": 6
+    },
+    "category_distribution": {
+      "Tour": 91,
+      "Museo": 44,
+      "Desconocido": 42,
+      "Vida nocturna": 35,
+      "Playa": 12
+    }
+  },
+  "tr": {
+    "total_documents": 224,
+    "document_percentage": 0.03,
+    "unique_topics": 43,
+    "sentiment_breakdown": {
+      "negativo": {
+        "document_count": 67,
+        "topic_count": 20,
+        "top_topics": [
+          {
+            "topic_id": 81,
+            "document_count": 8,
+            "percentage": 11.94
+          },
+          {
+            "topic_id": 2,
+            "document_count": 8,
+            "percentage": 11.94
+          },
+          {
+            "topic_id": 0,
+            "document_count": 4,
+            "percentage": 5.97
+          },
+          {
+            "topic_id": 113,
+            "document_count": 3,
+            "percentage": 4.48
+          },
+          {
+            "topic_id": 107,
+            "document_count": 3,
+            "percentage": 4.48
+          },
+          {
+            "topic_id": 37,
+            "document_count": 2,
+            "percentage": 2.99
+          },
+          {
+            "topic_id": 115,
+            "document_count": 2,
+            "percentage": 2.99
+          },
+          {
+            "topic_id": 1,
+            "document_count": 2,
+            "percentage": 2.99
+          },
+          {
+            "topic_id": 154,
+            "document_count": 2,
+            "percentage": 2.99
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 33,
+        "topic_count": 15,
+        "top_topics": [
+          {
+            "topic_id": 22,
+            "document_count": 4,
+            "percentage": 12.12
+          },
+          {
+            "topic_id": 2,
+            "document_count": 3,
+            "percentage": 9.09
+          },
+          {
+            "topic_id": 15,
+            "document_count": 3,
+            "percentage": 9.09
+          },
+          {
+            "topic_id": 7,
+            "document_count": 3,
+            "percentage": 9.09
+          },
+          {
+            "topic_id": 33,
+            "document_count": 2,
+            "percentage": 6.06
+          },
+          {
+            "topic_id": 44,
+            "document_count": 2,
+            "percentage": 6.06
+          },
+          {
+            "topic_id": 31,
+            "document_count": 2,
+            "percentage": 6.06
+          },
+          {
+            "topic_id": 11,
+            "document_count": 1,
+            "percentage": 3.03
+          },
+          {
+            "topic_id": 35,
+            "document_count": 1,
+            "percentage": 3.03
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 124,
+        "topic_count": 20,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 83,
+            "percentage": 66.94
+          },
+          {
+            "topic_id": 12,
+            "document_count": 3,
+            "percentage": 2.42
+          },
+          {
+            "topic_id": 37,
+            "document_count": 3,
+            "percentage": 2.42
+          },
+          {
+            "topic_id": 25,
+            "document_count": 3,
+            "percentage": 2.42
+          },
+          {
+            "topic_id": 6,
+            "document_count": 2,
+            "percentage": 1.61
+          },
+          {
+            "topic_id": 56,
+            "document_count": 2,
+            "percentage": 1.61
+          },
+          {
+            "topic_id": 48,
+            "document_count": 2,
+            "percentage": 1.61
+          },
+          {
+            "topic_id": 16,
+            "document_count": 2,
+            "percentage": 1.61
+          },
+          {
+            "topic_id": 72,
+            "document_count": 2,
+            "percentage": 1.61
+          }
+        ]
+      }
+    },
+    "geographic_distribution": {
+      "Barcelona": 139,
+      "Madrid": 54,
+      "Sevilla": 26,
+      "Malaga": 3,
+      "Mallorca": 1,
+      "Tenerife": 1
+    },
+    "temporal_distribution": {
+      "2025.0": 98,
+      "2024.0": 92,
+      "2023.0": 30,
+      "2019.0": 2,
+      "2020.0": 1,
+      "2022.0": 1
+    },
+    "category_distribution": {
+      "Tour": 59,
+      "Vida nocturna": 56,
+      "Desconocido": 44,
+      "Playa": 29,
+      "Museo": 21
+    }
+  },
+  "af": {
+    "total_documents": 203,
+    "document_percentage": 0.02,
+    "unique_topics": 32,
+    "sentiment_breakdown": {
+      "negativo": {
+        "document_count": 21,
+        "topic_count": 8,
+        "top_topics": [
+          {
+            "topic_id": 75,
+            "document_count": 9,
+            "percentage": 42.86
+          },
+          {
+            "topic_id": 24,
+            "document_count": 4,
+            "percentage": 19.05
+          },
+          {
+            "topic_id": 157,
+            "document_count": 1,
+            "percentage": 4.76
+          },
+          {
+            "topic_id": 0,
+            "document_count": 1,
+            "percentage": 4.76
+          },
+          {
+            "topic_id": 22,
+            "document_count": 1,
+            "percentage": 4.76
+          },
+          {
+            "topic_id": 1,
+            "document_count": 1,
+            "percentage": 4.76
+          },
+          {
+            "topic_id": 35,
+            "document_count": 1,
+            "percentage": 4.76
+          },
+          {
+            "topic_id": 144,
+            "document_count": 1,
+            "percentage": 4.76
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 31,
+        "topic_count": 12,
+        "top_topics": [
+          {
+            "topic_id": 36,
+            "document_count": 3,
+            "percentage": 9.68
+          },
+          {
+            "topic_id": 9,
+            "document_count": 3,
+            "percentage": 9.68
+          },
+          {
+            "topic_id": 48,
+            "document_count": 3,
+            "percentage": 9.68
+          },
+          {
+            "topic_id": 22,
+            "document_count": 2,
+            "percentage": 6.45
+          },
+          {
+            "topic_id": 24,
+            "document_count": 2,
+            "percentage": 6.45
+          },
+          {
+            "topic_id": 14,
+            "document_count": 2,
+            "percentage": 6.45
+          },
+          {
+            "topic_id": 21,
+            "document_count": 1,
+            "percentage": 3.23
+          },
+          {
+            "topic_id": 20,
+            "document_count": 1,
+            "percentage": 3.23
+          },
+          {
+            "topic_id": 32,
+            "document_count": 1,
+            "percentage": 3.23
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 151,
+        "topic_count": 20,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 95,
+            "percentage": 62.91
+          },
+          {
+            "topic_id": 9,
+            "document_count": 6,
+            "percentage": 3.97
+          },
+          {
+            "topic_id": 1,
+            "document_count": 4,
+            "percentage": 2.65
+          },
+          {
+            "topic_id": 44,
+            "document_count": 3,
+            "percentage": 1.99
+          },
+          {
+            "topic_id": 5,
+            "document_count": 3,
+            "percentage": 1.99
+          },
+          {
+            "topic_id": 0,
+            "document_count": 3,
+            "percentage": 1.99
+          },
+          {
+            "topic_id": 26,
+            "document_count": 3,
+            "percentage": 1.99
+          },
+          {
+            "topic_id": 21,
+            "document_count": 2,
+            "percentage": 1.32
+          },
+          {
+            "topic_id": 50,
+            "document_count": 2,
+            "percentage": 1.32
+          }
+        ]
+      }
+    },
+    "geographic_distribution": {
+      "Barcelona": 58,
+      "Madrid": 48,
+      "Malaga": 26,
+      "Sevilla": 24,
+      "Gran Canaria": 18,
+      "Valencia": 14,
+      "Tenerife": 13,
+      "Mallorca": 2
+    },
+    "temporal_distribution": {
+      "2025.0": 73,
+      "2024.0": 70,
+      "2023.0": 50,
+      "2022.0": 6,
+      "2019.0": 2
+    },
+    "category_distribution": {
+      "Tour": 104,
+      "Desconocido": 30,
+      "Vida nocturna": 21,
+      "Playa": 16,
+      "Museo": 10
+    }
+  },
+  "fi": {
+    "total_documents": 190,
+    "document_percentage": 0.02,
+    "unique_topics": 37,
+    "sentiment_breakdown": {
+      "negativo": {
+        "document_count": 13,
+        "topic_count": 7,
+        "top_topics": [
+          {
+            "topic_id": 1,
+            "document_count": 3,
+            "percentage": 23.08
+          },
+          {
+            "topic_id": 137,
+            "document_count": 2,
+            "percentage": 15.38
+          },
+          {
+            "topic_id": 2,
+            "document_count": 2,
+            "percentage": 15.38
+          },
+          {
+            "topic_id": 157,
+            "document_count": 2,
+            "percentage": 15.38
+          },
+          {
+            "topic_id": 35,
+            "document_count": 1,
+            "percentage": 7.69
+          },
+          {
+            "topic_id": 0,
+            "document_count": 1,
+            "percentage": 7.69
+          },
+          {
+            "topic_id": 121,
+            "document_count": 1,
+            "percentage": 7.69
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 45,
+        "topic_count": 17,
+        "top_topics": [
+          {
+            "topic_id": 35,
+            "document_count": 12,
+            "percentage": 26.67
+          },
+          {
+            "topic_id": 22,
+            "document_count": 4,
+            "percentage": 8.89
+          },
+          {
+            "topic_id": 20,
+            "document_count": 3,
+            "percentage": 6.67
+          },
+          {
+            "topic_id": 21,
+            "document_count": 2,
+            "percentage": 4.44
+          },
+          {
+            "topic_id": 46,
+            "document_count": 2,
+            "percentage": 4.44
+          },
+          {
+            "topic_id": 36,
+            "document_count": 2,
+            "percentage": 4.44
+          },
+          {
+            "topic_id": 37,
+            "document_count": 1,
+            "percentage": 2.22
+          },
+          {
+            "topic_id": 32,
+            "document_count": 1,
+            "percentage": 2.22
+          },
+          {
+            "topic_id": 3,
+            "document_count": 1,
+            "percentage": 2.22
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 132,
+        "topic_count": 22,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 67,
+            "percentage": 50.76
+          },
+          {
+            "topic_id": 9,
+            "document_count": 12,
+            "percentage": 9.09
+          },
+          {
+            "topic_id": 1,
+            "document_count": 7,
+            "percentage": 5.3
+          },
+          {
+            "topic_id": 7,
+            "document_count": 5,
+            "percentage": 3.79
+          },
+          {
+            "topic_id": 25,
+            "document_count": 4,
+            "percentage": 3.03
+          },
+          {
+            "topic_id": 0,
+            "document_count": 4,
+            "percentage": 3.03
+          },
+          {
+            "topic_id": 26,
+            "document_count": 4,
+            "percentage": 3.03
+          },
+          {
+            "topic_id": 22,
+            "document_count": 3,
+            "percentage": 2.27
+          },
+          {
+            "topic_id": 21,
+            "document_count": 3,
+            "percentage": 2.27
+          }
+        ]
+      }
+    },
+    "geographic_distribution": {
+      "Barcelona": 52,
+      "Malaga": 47,
+      "Madrid": 38,
+      "Sevilla": 15,
+      "Tenerife": 15,
+      "Gran Canaria": 15,
+      "Valencia": 4,
+      "Mallorca": 4
+    },
+    "temporal_distribution": {
+      "2024.0": 91,
+      "2023.0": 53,
+      "2025.0": 39,
+      "2022.0": 3
+    },
+    "category_distribution": {
+      "Tour": 66,
+      "Hotel": 25,
+      "Desconocido": 25,
+      "Playa": 25,
+      "Museo": 19
+    }
+  },
+  "zh-tw": {
+    "total_documents": 157,
+    "document_percentage": 0.02,
+    "unique_topics": 15,
+    "sentiment_breakdown": {
+      "negativo": {
+        "document_count": 6,
+        "topic_count": 4,
+        "top_topics": [
+          {
+            "topic_id": 1,
+            "document_count": 2,
+            "percentage": 33.33
+          },
+          {
+            "topic_id": 112,
+            "document_count": 1,
+            "percentage": 16.67
+          },
+          {
+            "topic_id": 150,
+            "document_count": 1,
+            "percentage": 16.67
+          },
+          {
+            "topic_id": 137,
+            "document_count": 1,
+            "percentage": 16.67
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 15,
+        "topic_count": 6,
+        "top_topics": [
+          {
+            "topic_id": 0,
+            "document_count": 2,
+            "percentage": 13.33
+          },
+          {
+            "topic_id": 40,
+            "document_count": 2,
+            "percentage": 13.33
+          },
+          {
+            "topic_id": 35,
+            "document_count": 2,
+            "percentage": 13.33
+          },
+          {
+            "topic_id": 32,
+            "document_count": 2,
+            "percentage": 13.33
+          },
+          {
+            "topic_id": 6,
+            "document_count": 1,
+            "percentage": 6.67
+          },
+          {
+            "topic_id": 19,
+            "document_count": 1,
+            "percentage": 6.67
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 136,
+        "topic_count": 6,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 121,
+            "percentage": 88.97
+          },
+          {
+            "topic_id": 0,
+            "document_count": 8,
+            "percentage": 5.88
+          },
+          {
+            "topic_id": 9,
+            "document_count": 2,
+            "percentage": 1.47
+          },
+          {
+            "topic_id": 4,
+            "document_count": 2,
+            "percentage": 1.47
+          },
+          {
+            "topic_id": 10,
+            "document_count": 1,
+            "percentage": 0.74
+          },
+          {
+            "topic_id": 14,
+            "document_count": 1,
+            "percentage": 0.74
+          }
+        ]
+      }
+    },
+    "geographic_distribution": {
+      "Barcelona": 148,
+      "Madrid": 5,
+      "Sevilla": 2,
+      "Malaga": 2
+    },
+    "temporal_distribution": {
+      "2023.0": 127,
+      "2022.0": 23,
+      "2024.0": 4,
+      "2025.0": 3
+    },
+    "category_distribution": {
+      "Desconocido": 136,
+      "Tour": 8,
+      "Vida nocturna": 6,
+      "Museo": 4,
+      "Ocio": 2
+    }
+  },
+  "ja": {
+    "total_documents": 157,
+    "document_percentage": 0.02,
+    "unique_topics": 28,
+    "sentiment_breakdown": {
+      "negativo": {
+        "document_count": 17,
+        "topic_count": 5,
+        "top_topics": [
+          {
+            "topic_id": 2,
+            "document_count": 4,
+            "percentage": 23.53
+          },
+          {
+            "topic_id": 24,
+            "document_count": 2,
+            "percentage": 11.76
+          },
+          {
+            "topic_id": 113,
+            "document_count": 1,
+            "percentage": 5.88
+          },
+          {
+            "topic_id": 81,
+            "document_count": 1,
+            "percentage": 5.88
+          },
+          {
+            "topic_id": 1,
+            "document_count": 1,
+            "percentage": 5.88
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 26,
+        "topic_count": 10,
+        "top_topics": [
+          {
+            "topic_id": 35,
+            "document_count": 3,
+            "percentage": 11.54
+          },
+          {
+            "topic_id": 29,
+            "document_count": 3,
+            "percentage": 11.54
+          },
+          {
+            "topic_id": 46,
+            "document_count": 2,
+            "percentage": 7.69
+          },
+          {
+            "topic_id": 5,
+            "document_count": 2,
+            "percentage": 7.69
+          },
+          {
+            "topic_id": 18,
+            "document_count": 1,
+            "percentage": 3.85
+          },
+          {
+            "topic_id": 1,
+            "document_count": 1,
+            "percentage": 3.85
+          },
+          {
+            "topic_id": 33,
+            "document_count": 1,
+            "percentage": 3.85
+          },
+          {
+            "topic_id": 37,
+            "document_count": 1,
+            "percentage": 3.85
+          },
+          {
+            "topic_id": 31,
+            "document_count": 1,
+            "percentage": 3.85
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 114,
+        "topic_count": 15,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 71,
+            "percentage": 62.28
+          },
+          {
+            "topic_id": 3,
+            "document_count": 5,
+            "percentage": 4.39
+          },
+          {
+            "topic_id": 9,
+            "document_count": 4,
+            "percentage": 3.51
+          },
+          {
+            "topic_id": 25,
+            "document_count": 4,
+            "percentage": 3.51
+          },
+          {
+            "topic_id": 56,
+            "document_count": 3,
+            "percentage": 2.63
+          },
+          {
+            "topic_id": 14,
+            "document_count": 3,
+            "percentage": 2.63
+          },
+          {
+            "topic_id": 7,
+            "document_count": 2,
+            "percentage": 1.75
+          },
+          {
+            "topic_id": 51,
+            "document_count": 2,
+            "percentage": 1.75
+          },
+          {
+            "topic_id": 20,
+            "document_count": 2,
+            "percentage": 1.75
+          }
+        ]
+      }
+    },
+    "geographic_distribution": {
+      "Barcelona": 92,
+      "Madrid": 42,
+      "Sevilla": 12,
+      "Malaga": 5,
+      "Mallorca": 4,
+      "Tenerife": 2
+    },
+    "temporal_distribution": {
+      "2024.0": 64,
+      "2023.0": 49,
+      "2025.0": 37,
+      "2022.0": 5
+    },
+    "category_distribution": {
+      "Tour": 53,
+      "Desconocido": 38,
+      "Vida nocturna": 21,
+      "Museo": 12,
+      "Playa": 11
+    }
+  },
+  "hr": {
+    "total_documents": 150,
+    "document_percentage": 0.02,
+    "unique_topics": 37,
+    "sentiment_breakdown": {
+      "negativo": {
+        "document_count": 34,
+        "topic_count": 13,
+        "top_topics": [
+          {
+            "topic_id": 69,
+            "document_count": 3,
+            "percentage": 8.82
+          },
+          {
+            "topic_id": 182,
+            "document_count": 3,
+            "percentage": 8.82
+          },
+          {
+            "topic_id": 112,
+            "document_count": 3,
+            "percentage": 8.82
+          },
+          {
+            "topic_id": 154,
+            "document_count": 2,
+            "percentage": 5.88
+          },
+          {
+            "topic_id": 107,
+            "document_count": 2,
+            "percentage": 5.88
+          },
+          {
+            "topic_id": 2,
+            "document_count": 2,
+            "percentage": 5.88
+          },
+          {
+            "topic_id": 0,
+            "document_count": 2,
+            "percentage": 5.88
+          },
+          {
+            "topic_id": 35,
+            "document_count": 2,
+            "percentage": 5.88
+          },
+          {
+            "topic_id": 121,
+            "document_count": 1,
+            "percentage": 2.94
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 21,
+        "topic_count": 11,
+        "top_topics": [
+          {
+            "topic_id": 16,
+            "document_count": 2,
+            "percentage": 9.52
+          },
+          {
+            "topic_id": 12,
+            "document_count": 2,
+            "percentage": 9.52
+          },
+          {
+            "topic_id": 19,
+            "document_count": 2,
+            "percentage": 9.52
+          },
+          {
+            "topic_id": 22,
+            "document_count": 1,
+            "percentage": 4.76
+          },
+          {
+            "topic_id": 48,
+            "document_count": 1,
+            "percentage": 4.76
+          },
+          {
+            "topic_id": 33,
+            "document_count": 1,
+            "percentage": 4.76
+          },
+          {
+            "topic_id": 32,
+            "document_count": 1,
+            "percentage": 4.76
+          },
+          {
+            "topic_id": 45,
+            "document_count": 1,
+            "percentage": 4.76
+          },
+          {
+            "topic_id": 44,
+            "document_count": 1,
+            "percentage": 4.76
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 95,
+        "topic_count": 19,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 50,
+            "percentage": 52.63
+          },
+          {
+            "topic_id": 1,
+            "document_count": 3,
+            "percentage": 3.16
+          },
+          {
+            "topic_id": 9,
+            "document_count": 3,
+            "percentage": 3.16
+          },
+          {
+            "topic_id": 25,
+            "document_count": 3,
+            "percentage": 3.16
+          },
+          {
+            "topic_id": 6,
+            "document_count": 3,
+            "percentage": 3.16
+          },
+          {
+            "topic_id": 36,
+            "document_count": 2,
+            "percentage": 2.11
+          },
+          {
+            "topic_id": 20,
+            "document_count": 2,
+            "percentage": 2.11
+          },
+          {
+            "topic_id": 26,
+            "document_count": 2,
+            "percentage": 2.11
+          },
+          {
+            "topic_id": 76,
+            "document_count": 2,
+            "percentage": 2.11
+          }
+        ]
+      }
+    },
+    "geographic_distribution": {
+      "Barcelona": 58,
+      "Madrid": 54,
+      "Malaga": 10,
+      "Sevilla": 8,
+      "Tenerife": 7,
+      "Gran Canaria": 5,
+      "Mallorca": 4,
+      "Valencia": 4
+    },
+    "temporal_distribution": {
+      "2025.0": 60,
+      "2024.0": 58,
+      "2023.0": 24,
+      "2022.0": 4
+    },
+    "category_distribution": {
+      "Tour": 63,
+      "Museo": 23,
+      "Vida nocturna": 21,
+      "Desconocido": 16,
+      "Playa": 15
+    }
+  },
+  "sk": {
+    "total_documents": 145,
+    "document_percentage": 0.02,
+    "unique_topics": 31,
+    "sentiment_breakdown": {
+      "negativo": {
+        "document_count": 27,
+        "topic_count": 12,
+        "top_topics": [
+          {
+            "topic_id": 125,
+            "document_count": 4,
+            "percentage": 14.81
+          },
+          {
+            "topic_id": 146,
+            "document_count": 4,
+            "percentage": 14.81
+          },
+          {
+            "topic_id": 1,
+            "document_count": 3,
+            "percentage": 11.11
+          },
+          {
+            "topic_id": 130,
+            "document_count": 2,
+            "percentage": 7.41
+          },
+          {
+            "topic_id": 112,
+            "document_count": 1,
+            "percentage": 3.7
+          },
+          {
+            "topic_id": 65,
+            "document_count": 1,
+            "percentage": 3.7
+          },
+          {
+            "topic_id": 113,
+            "document_count": 1,
+            "percentage": 3.7
+          },
+          {
+            "topic_id": 162,
+            "document_count": 1,
+            "percentage": 3.7
+          },
+          {
+            "topic_id": 0,
+            "document_count": 1,
+            "percentage": 3.7
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 23,
+        "topic_count": 10,
+        "top_topics": [
+          {
+            "topic_id": 0,
+            "document_count": 3,
+            "percentage": 13.04
+          },
+          {
+            "topic_id": 35,
+            "document_count": 3,
+            "percentage": 13.04
+          },
+          {
+            "topic_id": 15,
+            "document_count": 3,
+            "percentage": 13.04
+          },
+          {
+            "topic_id": 19,
+            "document_count": 2,
+            "percentage": 8.7
+          },
+          {
+            "topic_id": 42,
+            "document_count": 2,
+            "percentage": 8.7
+          },
+          {
+            "topic_id": 21,
+            "document_count": 1,
+            "percentage": 4.35
+          },
+          {
+            "topic_id": 39,
+            "document_count": 1,
+            "percentage": 4.35
+          },
+          {
+            "topic_id": 33,
+            "document_count": 1,
+            "percentage": 4.35
+          },
+          {
+            "topic_id": 2,
+            "document_count": 1,
+            "percentage": 4.35
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 95,
+        "topic_count": 13,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 66,
+            "percentage": 69.47
+          },
+          {
+            "topic_id": 0,
+            "document_count": 5,
+            "percentage": 5.26
+          },
+          {
+            "topic_id": 9,
+            "document_count": 4,
+            "percentage": 4.21
+          },
+          {
+            "topic_id": 31,
+            "document_count": 2,
+            "percentage": 2.11
+          },
+          {
+            "topic_id": 46,
+            "document_count": 2,
+            "percentage": 2.11
+          },
+          {
+            "topic_id": 29,
+            "document_count": 2,
+            "percentage": 2.11
+          },
+          {
+            "topic_id": 18,
+            "document_count": 2,
+            "percentage": 2.11
+          },
+          {
+            "topic_id": 37,
+            "document_count": 2,
+            "percentage": 2.11
+          },
+          {
+            "topic_id": 15,
+            "document_count": 1,
+            "percentage": 1.05
+          }
+        ]
+      }
+    },
+    "geographic_distribution": {
+      "Barcelona": 71,
+      "Tenerife": 20,
+      "Madrid": 19,
+      "Mallorca": 13,
+      "Malaga": 11,
+      "Gran Canaria": 7,
+      "Valencia": 3,
+      "Sevilla": 1
+    },
+    "temporal_distribution": {
+      "2024.0": 50,
+      "2025.0": 47,
+      "2023.0": 34,
+      "2019.0": 2,
+      "2022.0": 1,
+      "2018.0": 1
+    },
+    "category_distribution": {
+      "Tour": 48,
+      "Desconocido": 35,
+      "Vida nocturna": 23,
+      "Museo": 11,
+      "Playa": 10
+    }
+  },
+  "ar": {
+    "total_documents": 123,
+    "document_percentage": 0.01,
+    "unique_topics": 29,
+    "sentiment_breakdown": {
+      "negativo": {
+        "document_count": 13,
+        "topic_count": 4,
+        "top_topics": [
+          {
+            "topic_id": 0,
+            "document_count": 6,
+            "percentage": 46.15
+          },
+          {
+            "topic_id": 107,
+            "document_count": 2,
+            "percentage": 15.38
+          },
+          {
+            "topic_id": 65,
+            "document_count": 2,
+            "percentage": 15.38
+          },
+          {
+            "topic_id": 22,
+            "document_count": 1,
+            "percentage": 7.69
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 41,
+        "topic_count": 9,
+        "top_topics": [
+          {
+            "topic_id": 9,
+            "document_count": 8,
+            "percentage": 19.51
+          },
+          {
+            "topic_id": 7,
+            "document_count": 4,
+            "percentage": 9.76
+          },
+          {
+            "topic_id": 32,
+            "document_count": 3,
+            "percentage": 7.32
+          },
+          {
+            "topic_id": 13,
+            "document_count": 3,
+            "percentage": 7.32
+          },
+          {
+            "topic_id": 35,
+            "document_count": 2,
+            "percentage": 4.88
+          },
+          {
+            "topic_id": 39,
+            "document_count": 2,
+            "percentage": 4.88
+          },
+          {
+            "topic_id": 16,
+            "document_count": 2,
+            "percentage": 4.88
+          },
+          {
+            "topic_id": 44,
+            "document_count": 1,
+            "percentage": 2.44
+          },
+          {
+            "topic_id": 40,
+            "document_count": 1,
+            "percentage": 2.44
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 69,
+        "topic_count": 19,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 20,
+            "percentage": 28.99
+          },
+          {
+            "topic_id": 1,
+            "document_count": 8,
+            "percentage": 11.59
+          },
+          {
+            "topic_id": 20,
+            "document_count": 4,
+            "percentage": 5.8
+          },
+          {
+            "topic_id": 52,
+            "document_count": 3,
+            "percentage": 4.35
+          },
+          {
+            "topic_id": 7,
+            "document_count": 3,
+            "percentage": 4.35
+          },
+          {
+            "topic_id": 5,
+            "document_count": 2,
+            "percentage": 2.9
+          },
+          {
+            "topic_id": 50,
+            "document_count": 2,
+            "percentage": 2.9
+          },
+          {
+            "topic_id": 78,
+            "document_count": 2,
+            "percentage": 2.9
+          },
+          {
+            "topic_id": 11,
+            "document_count": 2,
+            "percentage": 2.9
+          }
+        ]
+      }
+    },
+    "geographic_distribution": {
+      "Madrid": 86,
+      "Barcelona": 20,
+      "Malaga": 9,
+      "Sevilla": 5,
+      "Mallorca": 2,
+      "Valencia": 1
+    },
+    "temporal_distribution": {
+      "2024.0": 64,
+      "2025.0": 37,
+      "2023.0": 22
+    },
+    "category_distribution": {
+      "Museo": 44,
+      "Tour": 28,
+      "Desconocido": 24,
+      "Vida nocturna": 11,
+      "Cultura": 11
+    }
+  },
+  "lt": {
+    "total_documents": 113,
+    "document_percentage": 0.01,
+    "unique_topics": 27,
+    "sentiment_breakdown": {
+      "negativo": {
+        "document_count": 7,
+        "topic_count": 5,
+        "top_topics": [
+          {
+            "topic_id": 1,
+            "document_count": 2,
+            "percentage": 28.57
+          },
+          {
+            "topic_id": 22,
+            "document_count": 1,
+            "percentage": 14.29
+          },
+          {
+            "topic_id": 69,
+            "document_count": 1,
+            "percentage": 14.29
+          },
+          {
+            "topic_id": 37,
+            "document_count": 1,
+            "percentage": 14.29
+          },
+          {
+            "topic_id": 121,
+            "document_count": 1,
+            "percentage": 14.29
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 18,
+        "topic_count": 9,
+        "top_topics": [
+          {
+            "topic_id": 19,
+            "document_count": 4,
+            "percentage": 22.22
+          },
+          {
+            "topic_id": 4,
+            "document_count": 2,
+            "percentage": 11.11
+          },
+          {
+            "topic_id": 37,
+            "document_count": 2,
+            "percentage": 11.11
+          },
+          {
+            "topic_id": 2,
+            "document_count": 2,
+            "percentage": 11.11
+          },
+          {
+            "topic_id": 0,
+            "document_count": 1,
+            "percentage": 5.56
+          },
+          {
+            "topic_id": 26,
+            "document_count": 1,
+            "percentage": 5.56
+          },
+          {
+            "topic_id": 35,
+            "document_count": 1,
+            "percentage": 5.56
+          },
+          {
+            "topic_id": 45,
+            "document_count": 1,
+            "percentage": 5.56
+          },
+          {
+            "topic_id": 30,
+            "document_count": 1,
+            "percentage": 5.56
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 88,
+        "topic_count": 17,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 56,
+            "percentage": 63.64
+          },
+          {
+            "topic_id": 37,
+            "document_count": 3,
+            "percentage": 3.41
+          },
+          {
+            "topic_id": 50,
+            "document_count": 2,
+            "percentage": 2.27
+          },
+          {
+            "topic_id": 39,
+            "document_count": 2,
+            "percentage": 2.27
+          },
+          {
+            "topic_id": 25,
+            "document_count": 2,
+            "percentage": 2.27
+          },
+          {
+            "topic_id": 1,
+            "document_count": 2,
+            "percentage": 2.27
+          },
+          {
+            "topic_id": 21,
+            "document_count": 2,
+            "percentage": 2.27
+          },
+          {
+            "topic_id": 23,
+            "document_count": 1,
+            "percentage": 1.14
+          },
+          {
+            "topic_id": 36,
+            "document_count": 1,
+            "percentage": 1.14
+          }
+        ]
+      }
+    },
+    "geographic_distribution": {
+      "Barcelona": 46,
+      "Malaga": 23,
+      "Madrid": 15,
+      "Tenerife": 11,
+      "Mallorca": 11,
+      "Gran Canaria": 4,
+      "Valencia": 2,
+      "Sevilla": 1
+    },
+    "temporal_distribution": {
+      "2025.0": 47,
+      "2024.0": 38,
+      "2023.0": 13,
+      "2022.0": 2
+    },
+    "category_distribution": {
+      "Tour": 38,
+      "Desconocido": 36,
+      "Vida nocturna": 15,
+      "Playa": 9,
+      "Ocio": 7
+    }
+  },
+  "sl": {
+    "total_documents": 111,
+    "document_percentage": 0.01,
+    "unique_topics": 28,
+    "sentiment_breakdown": {
+      "negativo": {
+        "document_count": 16,
+        "topic_count": 11,
+        "top_topics": [
+          {
+            "topic_id": 82,
+            "document_count": 3,
+            "percentage": 18.75
+          },
+          {
+            "topic_id": 1,
+            "document_count": 2,
+            "percentage": 12.5
+          },
+          {
+            "topic_id": 203,
+            "document_count": 2,
+            "percentage": 12.5
+          },
+          {
+            "topic_id": 37,
+            "document_count": 1,
+            "percentage": 6.25
+          },
+          {
+            "topic_id": 65,
+            "document_count": 1,
+            "percentage": 6.25
+          },
+          {
+            "topic_id": 121,
+            "document_count": 1,
+            "percentage": 6.25
+          },
+          {
+            "topic_id": 0,
+            "document_count": 1,
+            "percentage": 6.25
+          },
+          {
+            "topic_id": 162,
+            "document_count": 1,
+            "percentage": 6.25
+          },
+          {
+            "topic_id": 131,
+            "document_count": 1,
+            "percentage": 6.25
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 14,
+        "topic_count": 5,
+        "top_topics": [
+          {
+            "topic_id": 16,
+            "document_count": 3,
+            "percentage": 21.43
+          },
+          {
+            "topic_id": 35,
+            "document_count": 2,
+            "percentage": 14.29
+          },
+          {
+            "topic_id": 19,
+            "document_count": 2,
+            "percentage": 14.29
+          },
+          {
+            "topic_id": 14,
+            "document_count": 2,
+            "percentage": 14.29
+          },
+          {
+            "topic_id": 4,
+            "document_count": 1,
+            "percentage": 7.14
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 81,
+        "topic_count": 15,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 44,
+            "percentage": 54.32
+          },
+          {
+            "topic_id": 9,
+            "document_count": 9,
+            "percentage": 11.11
+          },
+          {
+            "topic_id": 26,
+            "document_count": 4,
+            "percentage": 4.94
+          },
+          {
+            "topic_id": 41,
+            "document_count": 3,
+            "percentage": 3.7
+          },
+          {
+            "topic_id": 0,
+            "document_count": 3,
+            "percentage": 3.7
+          },
+          {
+            "topic_id": 31,
+            "document_count": 2,
+            "percentage": 2.47
+          },
+          {
+            "topic_id": 51,
+            "document_count": 2,
+            "percentage": 2.47
+          },
+          {
+            "topic_id": 56,
+            "document_count": 1,
+            "percentage": 1.23
+          },
+          {
+            "topic_id": 23,
+            "document_count": 1,
+            "percentage": 1.23
+          }
+        ]
+      }
+    },
+    "geographic_distribution": {
+      "Madrid": 39,
+      "Barcelona": 36,
+      "Tenerife": 11,
+      "Sevilla": 9,
+      "Malaga": 7,
+      "Mallorca": 4,
+      "Gran Canaria": 3,
+      "Valencia": 2
+    },
+    "temporal_distribution": {
+      "2024.0": 46,
+      "2025.0": 42,
+      "2023.0": 16,
+      "2019.0": 3,
+      "2022.0": 2,
+      "2021.0": 1,
+      "2018.0": 1
+    },
+    "category_distribution": {
+      "Tour": 39,
+      "Museo": 23,
+      "Desconocido": 20,
+      "Vida nocturna": 13,
+      "Playa": 11
+    }
+  },
+  "bg": {
+    "total_documents": 104,
+    "document_percentage": 0.01,
+    "unique_topics": 24,
+    "sentiment_breakdown": {
+      "negativo": {
+        "document_count": 13,
+        "topic_count": 6,
+        "top_topics": [
+          {
+            "topic_id": 0,
+            "document_count": 2,
+            "percentage": 15.38
+          },
+          {
+            "topic_id": 2,
+            "document_count": 2,
+            "percentage": 15.38
+          },
+          {
+            "topic_id": 130,
+            "document_count": 2,
+            "percentage": 15.38
+          },
+          {
+            "topic_id": 131,
+            "document_count": 2,
+            "percentage": 15.38
+          },
+          {
+            "topic_id": 37,
+            "document_count": 1,
+            "percentage": 7.69
+          },
+          {
+            "topic_id": 65,
+            "document_count": 1,
+            "percentage": 7.69
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 10,
+        "topic_count": 7,
+        "top_topics": [
+          {
+            "topic_id": 43,
+            "document_count": 2,
+            "percentage": 20.0
+          },
+          {
+            "topic_id": 33,
+            "document_count": 1,
+            "percentage": 10.0
+          },
+          {
+            "topic_id": 3,
+            "document_count": 1,
+            "percentage": 10.0
+          },
+          {
+            "topic_id": 16,
+            "document_count": 1,
+            "percentage": 10.0
+          },
+          {
+            "topic_id": 37,
+            "document_count": 1,
+            "percentage": 10.0
+          },
+          {
+            "topic_id": 46,
+            "document_count": 1,
+            "percentage": 10.0
+          },
+          {
+            "topic_id": 29,
+            "document_count": 1,
+            "percentage": 10.0
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 81,
+        "topic_count": 13,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 49,
+            "percentage": 60.49
+          },
+          {
+            "topic_id": 2,
+            "document_count": 4,
+            "percentage": 4.94
+          },
+          {
+            "topic_id": 13,
+            "document_count": 2,
+            "percentage": 2.47
+          },
+          {
+            "topic_id": 26,
+            "document_count": 2,
+            "percentage": 2.47
+          },
+          {
+            "topic_id": 7,
+            "document_count": 2,
+            "percentage": 2.47
+          },
+          {
+            "topic_id": 15,
+            "document_count": 2,
+            "percentage": 2.47
+          },
+          {
+            "topic_id": 56,
+            "document_count": 2,
+            "percentage": 2.47
+          },
+          {
+            "topic_id": 9,
+            "document_count": 1,
+            "percentage": 1.23
+          },
+          {
+            "topic_id": 23,
+            "document_count": 1,
+            "percentage": 1.23
+          }
+        ]
+      }
+    },
+    "geographic_distribution": {
+      "Barcelona": 49,
+      "Madrid": 29,
+      "Tenerife": 9,
+      "Malaga": 7,
+      "Sevilla": 5,
+      "Gran Canaria": 2,
+      "Valencia": 2,
+      "Mallorca": 1
+    },
+    "temporal_distribution": {
+      "2024.0": 47,
+      "2025.0": 43,
+      "2023.0": 13
+    },
+    "category_distribution": {
+      "Tour": 42,
+      "Desconocido": 25,
+      "Vida nocturna": 13,
+      "Museo": 11,
+      "Playa": 7
+    }
+  },
+  "zh-cn": {
+    "total_documents": 92,
+    "document_percentage": 0.01,
+    "unique_topics": 20,
+    "sentiment_breakdown": {
+      "negativo": {
+        "document_count": 20,
+        "topic_count": 7,
+        "top_topics": [
+          {
+            "topic_id": 2,
+            "document_count": 5,
+            "percentage": 25.0
+          },
+          {
+            "topic_id": 139,
+            "document_count": 3,
+            "percentage": 15.0
+          },
+          {
+            "topic_id": 1,
+            "document_count": 2,
+            "percentage": 10.0
+          },
+          {
+            "topic_id": 65,
+            "document_count": 2,
+            "percentage": 10.0
+          },
+          {
+            "topic_id": 150,
+            "document_count": 1,
+            "percentage": 5.0
+          },
+          {
+            "topic_id": 162,
+            "document_count": 1,
+            "percentage": 5.0
+          },
+          {
+            "topic_id": 107,
+            "document_count": 1,
+            "percentage": 5.0
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 11,
+        "topic_count": 4,
+        "top_topics": [
+          {
+            "topic_id": 4,
+            "document_count": 2,
+            "percentage": 18.18
+          },
+          {
+            "topic_id": 21,
+            "document_count": 1,
+            "percentage": 9.09
+          },
+          {
+            "topic_id": 0,
+            "document_count": 1,
+            "percentage": 9.09
+          },
+          {
+            "topic_id": 35,
+            "document_count": 1,
+            "percentage": 9.09
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 61,
+        "topic_count": 10,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 41,
+            "percentage": 67.21
+          },
+          {
+            "topic_id": 0,
+            "document_count": 3,
+            "percentage": 4.92
+          },
+          {
+            "topic_id": 19,
+            "document_count": 3,
+            "percentage": 4.92
+          },
+          {
+            "topic_id": 24,
+            "document_count": 3,
+            "percentage": 4.92
+          },
+          {
+            "topic_id": 9,
+            "document_count": 2,
+            "percentage": 3.28
+          },
+          {
+            "topic_id": 3,
+            "document_count": 2,
+            "percentage": 3.28
+          },
+          {
+            "topic_id": 76,
+            "document_count": 1,
+            "percentage": 1.64
+          },
+          {
+            "topic_id": 32,
+            "document_count": 1,
+            "percentage": 1.64
+          },
+          {
+            "topic_id": 12,
+            "document_count": 1,
+            "percentage": 1.64
+          }
+        ]
+      }
+    },
+    "geographic_distribution": {
+      "Barcelona": 54,
+      "Madrid": 21,
+      "Malaga": 4,
+      "Sevilla": 4,
+      "Valencia": 3,
+      "Tenerife": 3,
+      "Mallorca": 2,
+      "Gran Canaria": 1
+    },
+    "temporal_distribution": {
+      "2024.0": 37,
+      "2023.0": 32,
+      "2025.0": 20,
+      "2022.0": 3
+    },
+    "category_distribution": {
+      "Tour": 35,
+      "Desconocido": 27,
+      "Museo": 10,
+      "Vida nocturna": 8,
+      "Playa": 6
+    }
+  },
+  "lv": {
+    "total_documents": 61,
+    "document_percentage": 0.01,
+    "unique_topics": 20,
+    "sentiment_breakdown": {
+      "negativo": {
+        "document_count": 6,
+        "topic_count": 4,
+        "top_topics": [
+          {
+            "topic_id": 121,
+            "document_count": 2,
+            "percentage": 33.33
+          },
+          {
+            "topic_id": 2,
+            "document_count": 1,
+            "percentage": 16.67
+          },
+          {
+            "topic_id": 1,
+            "document_count": 1,
+            "percentage": 16.67
+          },
+          {
+            "topic_id": 0,
+            "document_count": 1,
+            "percentage": 16.67
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 18,
+        "topic_count": 9,
+        "top_topics": [
+          {
+            "topic_id": 3,
+            "document_count": 2,
+            "percentage": 11.11
+          },
+          {
+            "topic_id": 2,
+            "document_count": 2,
+            "percentage": 11.11
+          },
+          {
+            "topic_id": 21,
+            "document_count": 1,
+            "percentage": 5.56
+          },
+          {
+            "topic_id": 18,
+            "document_count": 1,
+            "percentage": 5.56
+          },
+          {
+            "topic_id": 37,
+            "document_count": 1,
+            "percentage": 5.56
+          },
+          {
+            "topic_id": 6,
+            "document_count": 1,
+            "percentage": 5.56
+          },
+          {
+            "topic_id": 44,
+            "document_count": 1,
+            "percentage": 5.56
+          },
+          {
+            "topic_id": 41,
+            "document_count": 1,
+            "percentage": 5.56
+          },
+          {
+            "topic_id": 19,
+            "document_count": 1,
+            "percentage": 5.56
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 37,
+        "topic_count": 8,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 26,
+            "percentage": 70.27
+          },
+          {
+            "topic_id": 7,
+            "document_count": 2,
+            "percentage": 5.41
+          },
+          {
+            "topic_id": 5,
+            "document_count": 2,
+            "percentage": 5.41
+          },
+          {
+            "topic_id": 49,
+            "document_count": 1,
+            "percentage": 2.7
+          },
+          {
+            "topic_id": 22,
+            "document_count": 1,
+            "percentage": 2.7
+          },
+          {
+            "topic_id": 25,
+            "document_count": 1,
+            "percentage": 2.7
+          },
+          {
+            "topic_id": 36,
+            "document_count": 1,
+            "percentage": 2.7
+          },
+          {
+            "topic_id": 40,
+            "document_count": 1,
+            "percentage": 2.7
+          }
+        ]
+      }
+    },
+    "geographic_distribution": {
+      "Barcelona": 35,
+      "Malaga": 12,
+      "Madrid": 4,
+      "Gran Canaria": 4,
+      "Mallorca": 3,
+      "Tenerife": 2,
+      "Valencia": 1
+    },
+    "temporal_distribution": {
+      "2025.0": 27,
+      "2024.0": 19,
+      "2023.0": 14,
+      "2019.0": 1
+    },
+    "category_distribution": {
+      "Tour": 27,
+      "Desconocido": 12,
+      "Vida nocturna": 10,
+      "Playa": 5,
+      "Comida": 3
+    }
+  },
+  "et": {
+    "total_documents": 59,
+    "document_percentage": 0.01,
+    "unique_topics": 12,
+    "sentiment_breakdown": {
+      "negativo": {
+        "document_count": 3,
+        "topic_count": 1,
+        "top_topics": [
+          {
+            "topic_id": 121,
+            "document_count": 1,
+            "percentage": 33.33
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 10,
+        "topic_count": 2,
+        "top_topics": [
+          {
+            "topic_id": 19,
+            "document_count": 5,
+            "percentage": 50.0
+          },
+          {
+            "topic_id": 16,
+            "document_count": 1,
+            "percentage": 10.0
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 46,
+        "topic_count": 9,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 28,
+            "percentage": 60.87
+          },
+          {
+            "topic_id": 9,
+            "document_count": 3,
+            "percentage": 6.52
+          },
+          {
+            "topic_id": 65,
+            "document_count": 2,
+            "percentage": 4.35
+          },
+          {
+            "topic_id": 0,
+            "document_count": 2,
+            "percentage": 4.35
+          },
+          {
+            "topic_id": 1,
+            "document_count": 2,
+            "percentage": 4.35
+          },
+          {
+            "topic_id": 23,
+            "document_count": 1,
+            "percentage": 2.17
+          },
+          {
+            "topic_id": 7,
+            "document_count": 1,
+            "percentage": 2.17
+          },
+          {
+            "topic_id": 12,
+            "document_count": 1,
+            "percentage": 2.17
+          },
+          {
+            "topic_id": 45,
+            "document_count": 1,
+            "percentage": 2.17
+          }
+        ]
+      }
+    },
+    "geographic_distribution": {
+      "Barcelona": 24,
+      "Malaga": 14,
+      "Madrid": 11,
+      "Gran Canaria": 5,
+      "Tenerife": 3,
+      "Sevilla": 1,
+      "Valencia": 1
+    },
+    "temporal_distribution": {
+      "2024.0": 23,
+      "2025.0": 15,
+      "2023.0": 11,
+      "2022.0": 1,
+      "2026.0": 1,
+      "2020.0": 1
+    },
+    "category_distribution": {
+      "Desconocido": 16,
+      "Tour": 13,
+      "Vida nocturna": 8,
+      "Museo": 7,
+      "Playa": 6
+    }
+  },
+  "he": {
+    "total_documents": 59,
+    "document_percentage": 0.01,
+    "unique_topics": 16,
+    "sentiment_breakdown": {
+      "negativo": {
+        "document_count": 24,
+        "topic_count": 9,
+        "top_topics": [
+          {
+            "topic_id": 0,
+            "document_count": 6,
+            "percentage": 25.0
+          },
+          {
+            "topic_id": 2,
+            "document_count": 3,
+            "percentage": 12.5
+          },
+          {
+            "topic_id": 77,
+            "document_count": 3,
+            "percentage": 12.5
+          },
+          {
+            "topic_id": 166,
+            "document_count": 2,
+            "percentage": 8.33
+          },
+          {
+            "topic_id": 113,
+            "document_count": 2,
+            "percentage": 8.33
+          },
+          {
+            "topic_id": 107,
+            "document_count": 2,
+            "percentage": 8.33
+          },
+          {
+            "topic_id": 203,
+            "document_count": 2,
+            "percentage": 8.33
+          },
+          {
+            "topic_id": 103,
+            "document_count": 2,
+            "percentage": 8.33
+          },
+          {
+            "topic_id": 1,
+            "document_count": 1,
+            "percentage": 4.17
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 21,
+        "topic_count": 5,
+        "top_topics": [
+          {
+            "topic_id": 0,
+            "document_count": 5,
+            "percentage": 23.81
+          },
+          {
+            "topic_id": 46,
+            "document_count": 2,
+            "percentage": 9.52
+          },
+          {
+            "topic_id": 9,
+            "document_count": 2,
+            "percentage": 9.52
+          },
+          {
+            "topic_id": 32,
+            "document_count": 2,
+            "percentage": 9.52
+          },
+          {
+            "topic_id": 41,
+            "document_count": 1,
+            "percentage": 4.76
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 14,
+        "topic_count": 3,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 7,
+            "percentage": 50.0
+          },
+          {
+            "topic_id": 7,
+            "document_count": 3,
+            "percentage": 21.43
+          },
+          {
+            "topic_id": 16,
+            "document_count": 2,
+            "percentage": 14.29
+          }
+        ]
+      }
+    },
+    "geographic_distribution": {
+      "Madrid": 49,
+      "Barcelona": 7,
+      "Tenerife": 2,
+      "Malaga": 1
+    },
+    "temporal_distribution": {
+      "2023.0": 48,
+      "2025.0": 6,
+      "2022.0": 5
+    },
+    "category_distribution": {
+      "Tour": 26,
+      "Museo": 16,
+      "Desconocido": 9,
+      "Vida nocturna": 4,
+      "Cultura": 2
+    }
+  },
+  "uk": {
+    "total_documents": 55,
+    "document_percentage": 0.01,
+    "unique_topics": 12,
+    "sentiment_breakdown": {
+      "neutro": {
+        "document_count": 8,
+        "topic_count": 6,
+        "top_topics": [
+          {
+            "topic_id": 29,
+            "document_count": 2,
+            "percentage": 25.0
+          },
+          {
+            "topic_id": 3,
+            "document_count": 1,
+            "percentage": 12.5
+          },
+          {
+            "topic_id": 11,
+            "document_count": 1,
+            "percentage": 12.5
+          },
+          {
+            "topic_id": 32,
+            "document_count": 1,
+            "percentage": 12.5
+          },
+          {
+            "topic_id": 40,
+            "document_count": 1,
+            "percentage": 12.5
+          },
+          {
+            "topic_id": 9,
+            "document_count": 1,
+            "percentage": 12.5
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 47,
+        "topic_count": 7,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 35,
+            "percentage": 74.47
+          },
+          {
+            "topic_id": 0,
+            "document_count": 3,
+            "percentage": 6.38
+          },
+          {
+            "topic_id": 41,
+            "document_count": 2,
+            "percentage": 4.26
+          },
+          {
+            "topic_id": 78,
+            "document_count": 1,
+            "percentage": 2.13
+          },
+          {
+            "topic_id": 25,
+            "document_count": 1,
+            "percentage": 2.13
+          },
+          {
+            "topic_id": 34,
+            "document_count": 1,
+            "percentage": 2.13
+          },
+          {
+            "topic_id": 9,
+            "document_count": 1,
+            "percentage": 2.13
+          }
+        ]
+      }
+    },
+    "geographic_distribution": {
+      "Barcelona": 24,
+      "Tenerife": 16,
+      "Madrid": 6,
+      "Mallorca": 4,
+      "Malaga": 3,
+      "Sevilla": 1,
+      "Valencia": 1
+    },
+    "temporal_distribution": {
+      "2024.0": 28,
+      "2025.0": 19,
+      "2023.0": 8
+    },
+    "category_distribution": {
+      "Tour": 16,
+      "Desconocido": 13,
+      "Playa": 9,
+      "Vida nocturna": 8,
+      "Ocio": 7
+    }
+  },
+  "tl": {
+    "total_documents": 51,
+    "document_percentage": 0.01,
+    "unique_topics": 7,
+    "sentiment_breakdown": {
+      "negativo": {
+        "document_count": 3,
+        "topic_count": 2,
+        "top_topics": [
+          {
+            "topic_id": 0,
+            "document_count": 2,
+            "percentage": 66.67
+          },
+          {
+            "topic_id": 3,
+            "document_count": 1,
+            "percentage": 33.33
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 23,
+        "topic_count": 1,
+        "top_topics": [
+          {
+            "topic_id": 19,
+            "document_count": 20,
+            "percentage": 86.96
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 25,
+        "topic_count": 4,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 16,
+            "percentage": 64.0
+          },
+          {
+            "topic_id": 64,
+            "document_count": 3,
+            "percentage": 12.0
+          },
+          {
+            "topic_id": 21,
+            "document_count": 2,
+            "percentage": 8.0
+          },
+          {
+            "topic_id": 9,
+            "document_count": 2,
+            "percentage": 8.0
+          }
+        ]
+      }
+    },
+    "geographic_distribution": {
+      "Malaga": 20,
+      "Barcelona": 11,
+      "Madrid": 7,
+      "Tenerife": 4,
+      "Valencia": 4,
+      "Mallorca": 2,
+      "Gran Canaria": 2,
+      "Sevilla": 1
+    },
+    "temporal_distribution": {
+      "2025.0": 15,
+      "2024.0": 12,
+      "2022.0": 5,
+      "2023.0": 4,
+      "2017.0": 1
+    },
+    "category_distribution": {
+      "Desconocido": 34,
+      "Tour": 8,
+      "Hotel": 3,
+      "Museo": 3,
+      "Vida nocturna": 2
+    }
+  },
+  "id": {
+    "total_documents": 46,
+    "document_percentage": 0.01,
+    "unique_topics": 5,
+    "sentiment_breakdown": {
+      "negativo": {
+        "document_count": 2,
+        "topic_count": 1,
+        "top_topics": [
+          {
+            "topic_id": 20,
+            "document_count": 1,
+            "percentage": 50.0
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 25,
+        "topic_count": 2,
+        "top_topics": [
+          {
+            "topic_id": 19,
+            "document_count": 13,
+            "percentage": 52.0
+          },
+          {
+            "topic_id": 0,
+            "document_count": 1,
+            "percentage": 4.0
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 19,
+        "topic_count": 2,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 14,
+            "percentage": 73.68
+          },
+          {
+            "topic_id": 33,
+            "document_count": 2,
+            "percentage": 10.53
+          }
+        ]
+      }
+    },
+    "geographic_distribution": {
+      "Tenerife": 12,
+      "Gran Canaria": 12,
+      "Malaga": 7,
+      "Barcelona": 7,
+      "Madrid": 6,
+      "Sevilla": 2
+    },
+    "temporal_distribution": {
+      "2025.0": 15,
+      "2023.0": 6,
+      "2024.0": 5,
+      "2019.0": 3,
+      "2022.0": 1,
+      "2018.0": 1,
+      "2021.0": 1
+    },
+    "category_distribution": {
+      "Desconocido": 31,
+      "Tour": 7,
+      "Vida nocturna": 3,
+      "Hotel": 3,
+      "Ocio": 2
+    }
+  },
+  "so": {
+    "total_documents": 28,
+    "document_percentage": 0.0,
+    "unique_topics": 6,
+    "sentiment_breakdown": {
+      "negativo": {
+        "document_count": 3,
+        "topic_count": 1,
+        "top_topics": [
+          {
+            "topic_id": 121,
+            "document_count": 1,
+            "percentage": 33.33
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 25,
+        "topic_count": 5,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 13,
+            "percentage": 52.0
+          },
+          {
+            "topic_id": 35,
+            "document_count": 4,
+            "percentage": 16.0
+          },
+          {
+            "topic_id": 64,
+            "document_count": 2,
+            "percentage": 8.0
+          },
+          {
+            "topic_id": 14,
+            "document_count": 2,
+            "percentage": 8.0
+          },
+          {
+            "topic_id": 10,
+            "document_count": 2,
+            "percentage": 8.0
+          }
+        ]
+      }
+    },
+    "geographic_distribution": {
+      "Madrid": 15,
+      "Barcelona": 10,
+      "Sevilla": 2,
+      "Malaga": 1
+    },
+    "temporal_distribution": {
+      "2024.0": 10,
+      "2023.0": 9,
+      "2025.0": 7,
+      "2022.0": 1,
+      "2026.0": 1
+    },
+    "category_distribution": {
+      "Tour": 12,
+      "Museo": 5,
+      "Desconocido": 3,
+      "Vida nocturna": 2,
+      "Comida": 2
+    }
+  },
+  "cy": {
+    "total_documents": 27,
+    "document_percentage": 0.0,
+    "unique_topics": 5,
+    "sentiment_breakdown": {
+      "negativo": {
+        "document_count": 1,
+        "topic_count": 0,
+        "top_topics": []
+      },
+      "neutro": {
+        "document_count": 11,
+        "topic_count": 1,
+        "top_topics": [
+          {
+            "topic_id": 19,
+            "document_count": 2,
+            "percentage": 18.18
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 15,
+        "topic_count": 4,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 7,
+            "percentage": 46.67
+          },
+          {
+            "topic_id": 35,
+            "document_count": 5,
+            "percentage": 33.33
+          },
+          {
+            "topic_id": 50,
+            "document_count": 2,
+            "percentage": 13.33
+          },
+          {
+            "topic_id": 21,
+            "document_count": 1,
+            "percentage": 6.67
+          }
+        ]
+      }
+    },
+    "geographic_distribution": {
+      "Madrid": 13,
+      "Mallorca": 9,
+      "Barcelona": 2,
+      "Sevilla": 1,
+      "Malaga": 1,
+      "Valencia": 1
+    },
+    "temporal_distribution": {
+      "2025.0": 15,
+      "2023.0": 4,
+      "2024.0": 3,
+      "2019.0": 3,
+      "2020.0": 1
+    },
+    "category_distribution": {
+      "Desconocido": 11,
+      "Tour": 10,
+      "Playa": 5,
+      "Vida nocturna": 1
+    }
+  },
+  "th": {
+    "total_documents": 18,
+    "document_percentage": 0.0,
+    "unique_topics": 2,
+    "sentiment_breakdown": {
+      "negativo": {
+        "document_count": 2,
+        "topic_count": 0,
+        "top_topics": []
+      },
+      "neutro": {
+        "document_count": 1,
+        "topic_count": 1,
+        "top_topics": [
+          {
+            "topic_id": 35,
+            "document_count": 1,
+            "percentage": 100.0
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 15,
+        "topic_count": 1,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 15,
+            "percentage": 100.0
+          }
+        ]
+      }
+    },
+    "geographic_distribution": {
+      "Barcelona": 17,
+      "Madrid": 1
+    },
+    "temporal_distribution": {
+      "2023.0": 14,
+      "2022.0": 3,
+      "2025.0": 1
+    },
+    "category_distribution": {
+      "Desconocido": 14,
+      "Tour": 2,
+      "Museo": 1,
+      "Vida nocturna": 1
+    }
+  },
+  "sw": {
+    "total_documents": 16,
+    "document_percentage": 0.0,
+    "unique_topics": 4,
+    "sentiment_breakdown": {
+      "negativo": {
+        "document_count": 2,
+        "topic_count": 1,
+        "top_topics": [
+          {
+            "topic_id": 24,
+            "document_count": 2,
+            "percentage": 100.0
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 2,
+        "topic_count": 1,
+        "top_topics": [
+          {
+            "topic_id": 19,
+            "document_count": 2,
+            "percentage": 100.0
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 12,
+        "topic_count": 2,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 8,
+            "percentage": 66.67
+          },
+          {
+            "topic_id": 30,
+            "document_count": 2,
+            "percentage": 16.67
+          }
+        ]
+      }
+    },
+    "geographic_distribution": {
+      "Madrid": 7,
+      "Barcelona": 4,
+      "Valencia": 3,
+      "Malaga": 2
+    },
+    "temporal_distribution": {
+      "2025.0": 8,
+      "2024.0": 5,
+      "2019.0": 2,
+      "2023.0": 1
+    },
+    "category_distribution": {
+      "Desconocido": 4,
+      "Tour": 4,
+      "Vida nocturna": 4,
+      "Museo": 2,
+      "Cultura": 2
+    }
+  },
+  "mk": {
+    "total_documents": 13,
+    "document_percentage": 0.0,
+    "unique_topics": 4,
+    "sentiment_breakdown": {
+      "negativo": {
+        "document_count": 1,
+        "topic_count": 1,
+        "top_topics": [
+          {
+            "topic_id": 0,
+            "document_count": 1,
+            "percentage": 100.0
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 1,
+        "topic_count": 1,
+        "top_topics": [
+          {
+            "topic_id": 0,
+            "document_count": 1,
+            "percentage": 100.0
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 11,
+        "topic_count": 3,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 9,
+            "percentage": 81.82
+          },
+          {
+            "topic_id": 24,
+            "document_count": 1,
+            "percentage": 9.09
+          },
+          {
+            "topic_id": 44,
+            "document_count": 1,
+            "percentage": 9.09
+          }
+        ]
+      }
+    },
+    "geographic_distribution": {
+      "Barcelona": 10,
+      "Malaga": 2,
+      "Gran Canaria": 1
+    },
+    "temporal_distribution": {
+      "2024.0": 9,
+      "2025.0": 3,
+      "2023.0": 1
+    },
+    "category_distribution": {
+      "Vida nocturna": 5,
+      "Tour": 4,
+      "Desconocido": 3,
+      "Museo": 1
+    }
+  },
+  "vi": {
+    "total_documents": 9,
+    "document_percentage": 0.0,
+    "unique_topics": 3,
+    "sentiment_breakdown": {
+      "negativo": {
+        "document_count": 1,
+        "topic_count": 1,
+        "top_topics": [
+          {
+            "topic_id": 1,
+            "document_count": 1,
+            "percentage": 100.0
+          }
+        ]
+      },
+      "neutro": {
+        "document_count": 2,
+        "topic_count": 1,
+        "top_topics": [
+          {
+            "topic_id": 17,
+            "document_count": 2,
+            "percentage": 100.0
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 6,
+        "topic_count": 1,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 6,
+            "percentage": 100.0
+          }
+        ]
+      }
+    },
+    "geographic_distribution": {
+      "Barcelona": 5,
+      "Madrid": 3,
+      "Tenerife": 1
+    },
+    "temporal_distribution": {
+      "2023.0": 4,
+      "2022.0": 2,
+      "2024.0": 2,
+      "2025.0": 1
+    },
+    "category_distribution": {
+      "Desconocido": 4,
+      "Tour": 2,
+      "Vida nocturna": 2,
+      "Comida": 1
+    }
+  },
+  "sq": {
+    "total_documents": 2,
+    "document_percentage": 0.0,
+    "unique_topics": 2,
+    "sentiment_breakdown": {
+      "negativo": {
+        "document_count": 1,
+        "topic_count": 1,
+        "top_topics": [
+          {
+            "topic_id": 115,
+            "document_count": 1,
+            "percentage": 100.0
+          }
+        ]
+      },
+      "positivo": {
+        "document_count": 1,
+        "topic_count": 1,
+        "top_topics": [
+          {
+            "topic_id": 8,
+            "document_count": 1,
+            "percentage": 100.0
+          }
+        ]
+      }
+    },
+    "geographic_distribution": {
+      "Barcelona": 2
+    },
+    "temporal_distribution": {
+      "2024.0": 1,
+      "2025.0": 1
+    },
+    "category_distribution": {
+      "Deporte": 1,
+      "Cultura": 1
+    }
+  },
+  "fa": {
+    "total_documents": 2,
+    "document_percentage": 0.0,
+    "unique_topics": 1,
+    "sentiment_breakdown": {
+      "positivo": {
+        "document_count": 2,
+        "topic_count": 1,
+        "top_topics": [
+          {
+            "topic_id": 50,
+            "document_count": 2,
+            "percentage": 100.0
+          }
+        ]
+      }
+    },
+    "geographic_distribution": {
+      "Madrid": 2
+    },
+    "temporal_distribution": {
+      "2025.0": 2
+    },
+    "category_distribution": {
+      "Vida nocturna": 2
+    }
+  },
+  "unknown": {
+    "total_documents": 1,
+    "document_percentage": 0.0,
+    "unique_topics": 1,
+    "sentiment_breakdown": {
+      "positivo": {
+        "document_count": 1,
+        "topic_count": 1,
+        "top_topics": [
+          {
+            "topic_id": 35,
+            "document_count": 1,
+            "percentage": 100.0
+          }
+        ]
+      }
+    },
+    "geographic_distribution": {
+      "Madrid": 1
+    },
+    "temporal_distribution": {
+      "2024.0": 1
+    },
+    "category_distribution": {
+      "Tour": 1
+    }
+  }
+}

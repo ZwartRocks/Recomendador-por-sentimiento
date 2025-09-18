@@ -1,0 +1,105 @@
+season,weather,total_documents,sentiment_breakdown,dominant_sentiment,unique_topics,unique_languages,unique_cities
+Verano,"Día cielo nublado, cálido, sin lluvia",22053,"{'positivo': 11809, 'neutro': 5564, 'negativo': 4680}",positivo,208,38,3
+Verano,"Día con lluvia moderada, cálido",7985,"{'positivo': 3687, 'neutro': 2852, 'negativo': 1446}",positivo,196,29,6
+Verano,"Día cielo con intervalos, cálido, sin lluvia",57258,"{'neutro': 30197, 'positivo': 19160, 'negativo': 7901}",neutro,209,38,7
+Verano,"Día soleado, muy caluroso, sin lluvia",20041,"{'neutro': 9281, 'positivo': 7792, 'negativo': 2968}",neutro,205,34,7
+Verano,"Día con lluvia intensa, fresco y agradable",647,"{'positivo': 295, 'neutro': 207, 'negativo': 145}",positivo,116,13,2
+Verano,"Día con lloviznas, cálido",6199,"{'neutro': 3173, 'positivo': 2077, 'negativo': 949}",neutro,195,27,7
+Verano,"Día con lluvia intensa, cálido",2435,"{'positivo': 1506, 'neutro': 615, 'negativo': 314}",positivo,160,16,4
+Verano,"Día con lloviznas, fresco y agradable",1585,"{'positivo': 1180, 'neutro': 254, 'negativo': 151}",positivo,134,11,2
+Verano,"Día cielo con intervalos, fresco y agradable, sin lluvia",601,"{'positivo': 280, 'neutro': 200, 'negativo': 121}",positivo,107,13,3
+Verano,"Día con lluvia moderada, fresco y agradable",977,"{'neutro': 431, 'positivo': 350, 'negativo': 196}",neutro,147,13,3
+Verano,"Día cielo con intervalos, muy caluroso, sin lluvia",802,"{'positivo': 602, 'neutro': 147, 'negativo': 53}",positivo,93,10,2
+Verano,"Día soleado, cálido, sin lluvia",73877,"{'neutro': 37739, 'positivo': 26173, 'negativo': 9965}",neutro,211,40,7
+Verano,"Día cielo con intervalos, cálido, viento moderado, sin lluvia",279,"{'neutro': 226, 'negativo': 34, 'positivo': 19}",neutro,102,7,1
+Verano,"Día cielo con intervalos, sin lluvia",159,"{'neutro': 140, 'negativo': 13, 'positivo': 6}",neutro,87,6,1
+Verano,"Día, cálido, sin lluvia",142,"{'neutro': 52, 'positivo': 49, 'negativo': 41}",neutro,64,7,1
+Verano,"Día soleado, fresco y agradable, sin lluvia",306,"{'positivo': 112, 'neutro': 106, 'negativo': 88}",positivo,86,10,1
+Verano,"Día con lluvia moderada, muy caluroso",161,"{'neutro': 88, 'negativo': 37, 'positivo': 36}",neutro,74,5,2
+Verano,"Día, sin lluvia",467,"{'neutro': 445, 'positivo': 13, 'negativo': 9}",neutro,129,5,4
+Verano,"Día soleado, sin lluvia",57,"{'neutro': 47, 'positivo': 8, 'negativo': 2}",neutro,43,4,1
+Verano,"Día con lloviznas, muy caluroso",87,"{'neutro': 82, 'positivo': 3, 'negativo': 2}",neutro,51,5,3
+Verano,"Día, muy caluroso, sin lluvia",102,"{'neutro': 101, 'negativo': 1}",neutro,62,4,1
+Verano,"Día cielo nublado, fresco y agradable, sin lluvia",1,{'neutro': 1},neutro,1,1,1
+Verano,Día con lloviznas,53,"{'neutro': 49, 'positivo': 4}",neutro,41,5,1
+Primavera,"Día cielo nublado, cálido, sin lluvia",1838,"{'positivo': 1000, 'neutro': 449, 'negativo': 389}",positivo,162,23,2
+Primavera,"Día cielo con intervalos, cálido, sin lluvia",15052,"{'neutro': 11267, 'positivo': 2990, 'negativo': 795}",neutro,183,27,6
+Primavera,"Día cielo nublado, fresco y agradable, sin lluvia",10753,"{'positivo': 4858, 'neutro': 3279, 'negativo': 2616}",positivo,205,35,3
+Primavera,"Día con lloviznas, cálido",2632,"{'neutro': 1845, 'positivo': 528, 'negativo': 259}",neutro,157,21,7
+Primavera,"Día cielo con intervalos, fresco y agradable, sin lluvia",32987,"{'positivo': 15130, 'neutro': 13474, 'negativo': 4383}",positivo,209,36,7
+Primavera,"Día con lluvia moderada, fresco y agradable",16368,"{'neutro': 7107, 'positivo': 6635, 'negativo': 2626}",neutro,207,34,7
+Primavera,"Día con lloviznas, fresco y agradable",12027,"{'neutro': 5340, 'positivo': 4769, 'negativo': 1918}",neutro,200,34,7
+Primavera,"Día soleado, fresco y agradable, sin lluvia",41300,"{'positivo': 18091, 'neutro': 17777, 'negativo': 5432}",positivo,210,38,7
+Primavera,"Día con lluvia intensa, fresco y agradable",8714,"{'positivo': 3686, 'neutro': 3456, 'negativo': 1572}",positivo,198,35,7
+Primavera,"Día con lluvia moderada, cálido",1563,"{'neutro': 1027, 'positivo': 361, 'negativo': 175}",neutro,161,20,6
+Primavera,"Día con lloviznas, frío",667,"{'neutro': 303, 'positivo': 188, 'negativo': 176}",neutro,127,12,3
+Primavera,"Día con lluvia intensa, frío",1663,"{'positivo': 613, 'neutro': 598, 'negativo': 452}",positivo,173,15,2
+Primavera,"Día soleado, cálido, sin lluvia",33102,"{'neutro': 19771, 'positivo': 10268, 'negativo': 3063}",neutro,207,34,7
+Primavera,"Día, sin lluvia",2423,"{'neutro': 1639, 'positivo': 602, 'negativo': 182}",neutro,159,15,6
+Primavera,"Día cielo con intervalos, sin lluvia",667,"{'neutro': 339, 'positivo': 269, 'negativo': 59}",neutro,143,8,5
+Primavera,"Día cielo con intervalos, viento moderado, sin lluvia",60,"{'neutro': 56, 'positivo': 3, 'negativo': 1}",neutro,42,2,1
+Primavera,"Día con lluvia moderada, frío",3118,"{'positivo': 1870, 'neutro': 707, 'negativo': 541}",positivo,170,12,1
+Primavera,"Día cielo con intervalos, frío, sin lluvia",454,"{'neutro': 179, 'negativo': 146, 'positivo': 129}",neutro,126,8,2
+Primavera,"Día cielo nublado, frío, sin lluvia",111,"{'neutro': 53, 'negativo': 33, 'positivo': 25}",neutro,58,6,1
+Primavera,"Día soleado, frío, sin lluvia",1098,"{'neutro': 712, 'positivo': 209, 'negativo': 177}",neutro,152,14,4
+Primavera,"Día, fresco y agradable, sin lluvia",169,"{'neutro': 96, 'positivo': 43, 'negativo': 30}",neutro,81,7,1
+Primavera,Día con lluvia moderada,131,"{'neutro': 85, 'positivo': 26, 'negativo': 20}",neutro,71,5,2
+Primavera,"Día, frío, sin lluvia",94,"{'neutro': 40, 'positivo': 39, 'negativo': 15}",neutro,50,6,1
+Primavera,"Día con lluvia intensa, cálido",276,"{'neutro': 163, 'positivo': 95, 'negativo': 18}",neutro,104,7,4
+Primavera,"Día con lloviznas, muy caluroso",63,"{'neutro': 38, 'negativo': 17, 'positivo': 8}",neutro,47,5,1
+Primavera,"Día soleado, muy caluroso, sin lluvia",155,"{'neutro': 103, 'negativo': 37, 'positivo': 15}",neutro,88,8,1
+Primavera,"Día soleado, sin lluvia",147,"{'positivo': 75, 'neutro': 58, 'negativo': 14}",positivo,55,3,3
+Primavera,Día con lloviznas,46,"{'neutro': 43, 'negativo': 2, 'positivo': 1}",neutro,30,3,1
+Primavera,"Día cielo nublado, sin lluvia",1,{'negativo': 1},negativo,1,1,1
+Invierno,"Día cielo nublado, fresco y agradable, sin lluvia",12191,"{'neutro': 5459, 'positivo': 4828, 'negativo': 1904}",neutro,207,30,7
+Invierno,"Día con lloviznas, fresco y agradable",11399,"{'neutro': 5659, 'positivo': 4635, 'negativo': 1105}",neutro,199,27,7
+Invierno,"Día cielo con intervalos, fresco y agradable, sin lluvia",38868,"{'neutro': 22643, 'positivo': 11773, 'negativo': 4452}",neutro,208,35,7
+Invierno,"Día soleado, frío, sin lluvia",6656,"{'neutro': 3502, 'positivo': 2141, 'negativo': 1013}",neutro,191,21,5
+Invierno,"Día cielo con intervalos, frío, sin lluvia",13295,"{'positivo': 5582, 'neutro': 5259, 'negativo': 2454}",positivo,202,29,5
+Invierno,"Día soleado, fresco y agradable, sin lluvia",21167,"{'neutro': 14370, 'positivo': 5136, 'negativo': 1661}",neutro,201,30,7
+Invierno,"Día con lluvia moderada, fresco y agradable",9260,"{'neutro': 5825, 'positivo': 2539, 'negativo': 896}",neutro,198,30,7
+Invierno,"Día con lloviznas, frío",2226,"{'neutro': 1296, 'negativo': 473, 'positivo': 457}",neutro,180,19,4
+Invierno,"Día con lluvia moderada, frío",3075,"{'neutro': 1538, 'positivo': 930, 'negativo': 607}",neutro,184,20,5
+Invierno,"Día, sin lluvia",452,"{'neutro': 343, 'positivo': 62, 'negativo': 47}",neutro,123,11,4
+Invierno,"Día con lluvia intensa, fresco y agradable",2512,"{'neutro': 1638, 'positivo': 625, 'negativo': 249}",neutro,168,19,7
+Invierno,"Día cielo nublado, frío, sin lluvia",3585,"{'neutro': 1663, 'positivo': 1210, 'negativo': 712}",neutro,188,21,3
+Invierno,"Día cielo con intervalos, cálido, sin lluvia",9046,"{'neutro': 7446, 'positivo': 1228, 'negativo': 372}",neutro,171,25,3
+Invierno,"Día soleado, cálido, sin lluvia",5991,"{'neutro': 4719, 'positivo': 1024, 'negativo': 248}",neutro,164,23,4
+Invierno,"Día con lloviznas, cálido",1705,"{'neutro': 1249, 'positivo': 385, 'negativo': 71}",neutro,152,13,3
+Invierno,"Día con lluvia moderada, cálido",739,"{'neutro': 655, 'positivo': 57, 'negativo': 27}",neutro,147,12,2
+Invierno,"Día, fresco y agradable, sin lluvia",270,"{'neutro': 160, 'negativo': 64, 'positivo': 46}",neutro,95,9,3
+Invierno,"Día cielo nublado, cálido, sin lluvia",427,"{'neutro': 412, 'positivo': 12, 'negativo': 3}",neutro,130,8,2
+Invierno,"Día con lluvia intensa, cálido",104,"{'neutro': 98, 'negativo': 3, 'positivo': 3}",neutro,76,6,2
+Invierno,Día con lloviznas,180,"{'neutro': 105, 'positivo': 67, 'negativo': 8}",neutro,82,4,3
+Invierno,"Día soleado, sin lluvia",49,"{'neutro': 44, 'positivo': 3, 'negativo': 2}",neutro,37,3,1
+Invierno,"Día cielo con intervalos, sin lluvia",302,"{'neutro': 204, 'positivo': 89, 'negativo': 9}",neutro,114,7,3
+Invierno,"Día cielo nublado, sin lluvia",153,"{'neutro': 102, 'negativo': 27, 'positivo': 24}",neutro,72,7,2
+Invierno,"Día con lluvia intensa, frío",712,"{'neutro': 440, 'positivo': 140, 'negativo': 132}",neutro,135,9,2
+Invierno,"Día, frío, sin lluvia",260,"{'neutro': 111, 'negativo': 84, 'positivo': 65}",neutro,92,9,2
+Invierno,Día con lluvia intensa,1,{'neutro': 1},neutro,1,1,1
+Invierno,Día con lluvia moderada,90,"{'positivo': 50, 'neutro': 40}",positivo,42,3,2
+Otoño,"Día cielo nublado, fresco y agradable, sin lluvia",11653,"{'positivo': 5511, 'neutro': 3832, 'negativo': 2310}",positivo,209,32,5
+Otoño,"Día cielo con intervalos, fresco y agradable, sin lluvia",24169,"{'positivo': 11776, 'neutro': 9302, 'negativo': 3091}",positivo,206,35,6
+Otoño,"Día con lluvia moderada, fresco y agradable",6775,"{'positivo': 3204, 'neutro': 2683, 'negativo': 888}",positivo,188,27,6
+Otoño,"Día con lloviznas, fresco y agradable",6167,"{'neutro': 2811, 'positivo': 2198, 'negativo': 1158}",neutro,192,28,6
+Otoño,"Día cielo nublado, cálido, sin lluvia",6263,"{'positivo': 2938, 'neutro': 1997, 'negativo': 1328}",positivo,199,32,4
+Otoño,"Día con lluvia intensa, fresco y agradable",3258,"{'positivo': 1480, 'neutro': 1205, 'negativo': 573}",positivo,187,25,5
+Otoño,"Día cielo con intervalos, cálido, sin lluvia",43755,"{'neutro': 28460, 'positivo': 12058, 'negativo': 3237}",neutro,205,35,7
+Otoño,"Día con lloviznas, cálido",7573,"{'neutro': 3979, 'positivo': 2929, 'negativo': 665}",neutro,182,26,7
+Otoño,"Día con lluvia moderada, cálido",7004,"{'neutro': 3714, 'positivo': 2626, 'negativo': 664}",neutro,182,29,7
+Otoño,"Día soleado, cálido, sin lluvia",30951,"{'neutro': 19252, 'positivo': 8900, 'negativo': 2799}",neutro,207,37,7
+Otoño,"Día soleado, fresco y agradable, sin lluvia",13499,"{'positivo': 6946, 'neutro': 5256, 'negativo': 1297}",positivo,198,31,5
+Otoño,"Día con lluvia intensa, cálido",3985,"{'neutro': 1813, 'positivo': 1729, 'negativo': 443}",neutro,175,22,7
+Otoño,"Día soleado, sin lluvia",159,"{'neutro': 140, 'negativo': 10, 'positivo': 9}",neutro,86,6,4
+Otoño,"Día cielo con intervalos, sin lluvia",48,"{'neutro': 43, 'positivo': 3, 'negativo': 2}",neutro,35,4,1
+Otoño,"Día soleado, muy caluroso, sin lluvia",235,"{'neutro': 228, 'positivo': 5, 'negativo': 2}",neutro,114,5,4
+Otoño,"Día, sin lluvia",1493,"{'neutro': 951, 'positivo': 398, 'negativo': 144}",neutro,156,13,5
+Otoño,"Día, fresco y agradable, sin lluvia",907,"{'positivo': 373, 'neutro': 308, 'negativo': 226}",positivo,130,15,2
+Otoño,"Día cielo nublado, frío, sin lluvia",735,"{'positivo': 416, 'neutro': 208, 'negativo': 111}",positivo,115,11,1
+Otoño,"Día soleado, frío, sin lluvia",1338,"{'positivo': 1167, 'neutro': 121, 'negativo': 50}",positivo,106,5,1
+Otoño,"Día cielo con intervalos, frío, sin lluvia",1051,"{'neutro': 495, 'positivo': 337, 'negativo': 219}",neutro,149,12,2
+Otoño,"Día con lluvia moderada, frío",546,"{'neutro': 224, 'positivo': 211, 'negativo': 111}",neutro,118,11,1
+Otoño,Día con lloviznas,153,"{'positivo': 60, 'neutro': 56, 'negativo': 37}",positivo,60,6,1
+Otoño,"Día con lloviznas, frío",314,"{'positivo': 234, 'neutro': 46, 'negativo': 34}",positivo,68,3,2
+Otoño,"Día, cálido, sin lluvia",880,"{'positivo': 748, 'neutro': 94, 'negativo': 38}",positivo,89,8,3
+Otoño,Día con lluvia intensa,56,"{'neutro': 53, 'positivo': 3}",neutro,39,2,1
